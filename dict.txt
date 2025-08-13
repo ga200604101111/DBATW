@@ -41,4 +41,3 @@ Video How To / Guides=影片操作指南
 Combat Demo=戰鬥演示
 Winterween=冬令萬聖節
 SpookFest=萬聖節驚魂
-5 Year Anv=五週年紀念
