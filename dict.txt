@@ -1,4 +1,7 @@
 Patch=修補
+[Event]=[活動]
+[Expansion]=[擴充]
+Release=發布
 Update=更新
 Update & Patches=更新與修補
 Dev Blog=開發日誌
