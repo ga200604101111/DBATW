@@ -1,0 +1,17 @@
+# net.MCApolloNetwork.ApolloCrux.Client.GUI.ModList
+Open Mods Folder=開啟模組資料夾
+Suggested Mods=推薦的模組
+Video Installation Guide=影片安裝教學
+Back to Mod List=返回至模組列表
+Back to Title Screen=返回至標題畫面
+Suggested Client Side Mod List=推薦的客戶端模組列表
+Your installed Mod List=您已安裝的模組列表
+The latest version is v=最新版本為 v
+, please update to this version!=，請更新到此版本!
+You have =您已安裝
+ Mods Installed=個模組
+Great boost to performance & chunk loading, built in Shaders (Don't use ShadersMod)=大大提升了效能和區塊加載，內建光影 (不要同時使用 ShadersMod)
+Some subtle yet beneficial performance improvements=一些微妙但有益的性能改進
+Shaders are pretty, be sure to use the 1.7.10 version=光影很好看，但請務必使用 1.7.10 版本
+Improves the vanilla block placement logic, nice for Building=改進了原版方塊放置邏輯，非常適合建造
+Improves the Client Startup time drastically and catches crashes=大幅縮短客戶端啟動時間並捕捉崩潰

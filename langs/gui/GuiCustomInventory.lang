@@ -1,0 +1,16 @@
+# net.MCApolloNetwork.ApolloCrux.Bridge.Inventory.GuiCustomInventory
+We're working on resolving Item Movement Bugs=我們正在努力解決物品移動錯誤
+Gear Visuals are disabled!=外觀已停用!
+Put =放 
+Armor (Cosmetic)=護甲 (時裝)
+Armor=護甲
+ in this slot= 在這個欄位上
+Vanity Items=配件
+Headgear=頭飾
+Bodysuit=緊身衣
+Weights=負重
+Weights are not currently Available=負重功能目前無法使用
+Recovery Items=回復道具
+Recovery slot limited by Stack Size=回復道具欄位受限於堆疊數量
+Recovery Items cannot be changed during Gameplay=遊戲進行中無法更換回復道具
+You can only have one of each Recovery Type in these Slots=這些欄位中每種回復類型只能放置一個
