@@ -1,4 +1,4 @@
-# 1.0.1
+# 1.0.2
 SkillUtils.lang
 SUBEvents.lang
 ClientUtils.lang
