@@ -1,0 +1,685 @@
+connect.connecting=§eConnecting to the server...
+connect.authorizing=§aLogging in...
+connect.failed=§cFailed to connect to the server, §6Likely Minecraft Authentication Issues.
+
+disconnect.genericReason=%s
+disconnect.disconnected=§cDisconnected by Server
+disconnect.lost=§cConnection Lost
+disconnect.kicked=§cWas kicked from the game
+disconnect.timeout=§eConnection Timed out
+disconnect.closed=§cConnection closed
+disconnect.loginFailed=§cFailed to login
+disconnect.loginFailedInfo=Failed to login: %s (Make sure you've enabled multiplayer in your xbox settings also try relogging if that doesn't work)
+disconnect.loginFailedInfo.serversUnavailable=§6The authentication servers are currently down for maintenance, §etry again in a few minutes.
+## Failed to login: %s §6(Make sure you've enabled multiplayer in your xbox settings, try relogging if this does not solve your issue, or you have already migrated.)
+disconnect.quitting=Quitting
+disconnect.endOfStream=End of stream
+disconnect.overflow=Buffer overflow
+disconnect.spam=Kicked for spamming
+
+item.ItemLowTierKey.name=§aLow-Tier §7Crate §2Key§r
+item.ItemMidTierKey.name=§eMid-Tier §7Crate §6Key§r
+item.ItemHighTierKey.name=§cHigh-Tier §7Crate §4Key§r
+item.ItemGodTierKey.name=§5God-Tier §7Crate §dKey§r
+item.ItemEventKey.name=§9Vote §1Crate §7Key§r
+item.ItemGoldenKey.name=§6Golden §eCrate §bKey§r
+item.ItemSpookyKey.name=§6Spook §4Crate §cKey§r
+item.ItemThankKey.name=The TurKey
+item.ItemChristmasKey.name=§2Jolly §4Crate §eKey§r
+item.Item500EventKey.name=§5Event §eCrate Key§r
+
+item.ItemNamekianShard.name=§3Tier 1 Form §eSoul Fragment§r
+item.ItemBerserkShard.name=§2Tier 2 Form §eSoul Fragment§r
+item.ItemGODShard.name=§5Tier 3 Form §eSoul Fragment§r
+
+item.ItemSKaioShard.name=§4Kaioken §cShard§r
+item.ItemSKaioPiece.name=§4Kaioken §cPiece§r
+
+item.ItemDonorCoin.name=§eVoucher§r
+item.ItemDonorCoin2.name=§eVoucher §6Bundle§r
+item.ItemZeni1.name=§81 §2Zeni§r
+item.ItemZeni2.name=§710 §2Zeni§r
+item.ItemZeni3.name=§e100 §2Zeni§r
+item.ItemZeni4.name=§c1K §2Zeni§r
+item.ItemZeni5.name=§610K §2Zeni§r
+item.ItemZeni6.name=§d100K §eZeni§r
+
+item.ItemTP25.name=§725 §aTP Gem§r
+item.ItemTP100.name=§7100 §cTP Gem§r
+item.ItemTP1K.name=§71K §dTP Gem§r
+item.ItemTP10K.name=§710K §eTP Gem§r
+item.ItemTP100K.name=§7100K §9TP Gem§r
+item.ItemTP1M.name=§c1M §8TP Gem§r
+item.ItemTP10M.name=§410M §5TP Gem§r
+
+tile.BlockInvisible.name=Invisible Block
+tile.BlockInvisibleSlab.name=Invisible Block Slab
+tile.BlockGreenScreen.name=GreenScreen Block
+tile.BlockBlueScreen.name=Blue Screen Block
+tile.BlockPinkScreen.name=Pink Screen Block
+tile.BlockWhiteScreen.name=White Screen Block
+tile.BlockClayNormal.name=Normal Clay
+tile.BlockClayBlack.name=Black Clay
+tile.BlockClayBlue.name=Blue Clay
+tile.BlockClayBrown.name=Brown Clay
+tile.BlockClayCyan.name=Cyan Clay
+tile.BlockClay.name=Clay
+tile.BlockClayGray.name=Gray Clay
+tile.BlockClayGreen.name=Green Clay
+tile.BlockClayLightBlue.name=Light Blue Clay
+tile.BlockClayLightBrown.name=Light Brown Clay
+tile.BlockClayLightGray.name=Light Gray Clay
+tile.BlockClayLime.name=Lime Clay
+tile.BlockClayMagenta.name=Magenta Clay
+tile.BlockClayOrange.name=Orange Clay
+tile.BlockClayPink.name=Pink Clay
+tile.BlockClayPurple.name=Purple Clay
+tile.BlockClayRed.name=Red Clay
+tile.BlockClayWhite.name=White Clay
+tile.BlockClayYellow.name=Yellow Clay
+
+tile.BlockDivineGrass.name=Divine Grass
+tile.BlockDivineDirt.name=Divine Dirt
+tile.BlockDivineStone1.name=Divine Stone 1
+tile.BlockDivineStone2.name=Divine Stone 2
+tile.BlockDivinePillar.name=Divine Pillar
+tile.BlockDivinePillarInscribe.name=Divine Pillar Inscribe
+tile.BlockDivinePillarInscribeRuin.name=Divine Pillar Inscribe Ruin
+
+tile.BlockXV2Grass.name=Grass
+tile.BlockXV2Dirt.name=Dirt
+tile.BlockXV2Sand.name=Sand
+tile.BlockXV2Stone.name=Stone
+tile.BlockXV2Cobblestone.name=Cobblestone
+tile.BlockXV2MushroomStem.name=Mushroom Stem
+tile.BlockXV2BirchPlanks.name=Birch Planks
+tile.BlockXV2OakPlanks.name=Oak Planks
+tile.BlockXV2Bricks.name=Bricks
+tile.BlockXV2Quartz.name=Quartz
+tile.BlockXV2OakLog.name=Oak Log
+tile.BlockXV2OakLeaves.name=Oak Leaves
+tile.BlockXV2StoneBricks.name=StoneBricks
+tile.BlockXV2YellowWool.name=Yellow Wool
+tile.BlockCement.name=Cement
+
+tile.BlockKameHousePlanks.name=KameHouse Planks
+tile.BlockKameHouseTile.name=KameHouse Tile
+tile.BlockRedRoof.name=Red Roof
+tile.BlockBlueRoof.name=Blue Roof
+tile.BlockGreenRoof.name=Green Roof
+tile.BlockYellowRoof.name=Yellow Roof
+tile.BlockGohanBricks.name=Gohan Bricks
+tile.BlockClouds.name=Clouds
+tile.BlockRockyCobble.name=Rocky Cobble
+tile.BlockRockyStone.name=Rocky Stone
+tile.BlockRockySand.name=Rocky Sand
+tile.BlockCityBricks1.name=City Bricks
+tile.BlockCityBricks2.name=Path Bricks
+tile.BlockLightBricks.name=Light Bricks
+tile.BlockLightPath.name=Light Path
+tile.BlockCityRoad3.name=City Pattern
+tile.BlockCityRoad4.name=City Pattern
+tile.BlockCityRoad5.name=City Pattern
+tile.BlockDragonPiller.name=Dragon Pillar
+tile.BlockDragonPiller2.name=Dragon Pillar
+tile.BlockSlabPath.name=Slab Path
+tile.BlockCityBrickSlab.name=City Bricks Slab
+tile.BlockLightBlockSlab.name=Light Bricks Slab
+tile.BlockLightBricksStairs.name=Light Bricks Stairs
+tile.BlockLightPathStairs.name=Light Path Stairs
+tile.BlockPathBricksSlab.name=Path Bricks Slab
+tile.BlockLightPathSlab.name=Light Path Slab
+tile.BlockYellowCloud.name=Yellow Cloud
+
+tile.BlockLookoutWhite.name=Lookout Block
+tile.BlockLookoutYellow.name=Lookout Block
+tile.BlockLookoutRed.name=Lookout Block
+tile.BlockLookoutBlue.name=Lookout Block
+tile.BlockLookoutTan.name=Lookout Block
+
+tile.BlockKingKaiGrass1.name=King Kai's Planet Grass
+tile.BlockKingKaiGrass2.name=King Kai's Planet Grass
+
+tile.blockLookoutPink1.name=Kami's Lookout Block Pink
+tile.BlockLookoutTiles1.name=Kami's Lookout Block
+tile.BlockLookoutTiles2.name=Kami's Lookout Block
+tile.BlockLookoutTiles3.name=Kami's Lookout Block
+tile.BlockLookoutTiles4.name=Kami's Lookout Block
+
+tile.BlockBuuInside.name=Buu's Insides
+tile.BlockInvisibleGlow.name=Invisible Block
+
+tile.BlockSmooth.name=Smooth Block
+tile.BlockRoofTile.name=Roof Tile Block
+
+tile.BlockMountainGrass.name=Mountain Grass
+tile.BlockMountainStone1.name=Mountain Stone #1
+tile.BlockMountainStone2.name=Mountain Stone #2
+tile.BlockMountainStone3.name=Mountain Stone #3
+tile.BlockMountainStone4.name=Mountain Stone #4
+tile.BlockMountainStone5.name=Mountain Stone #5
+
+tile.BlockXV2RailingStairs.name=XV2 Railing Stairs
+tile.BlockXV2RailingStraight.name=XV2 Railing Straight
+tile.BlockXV2RailingCorner.name=XV2 Railing Corner
+tile.BlockXV2Stairs.name=XV2 Stairs
+tile.BlockXV2Center.name=XV2 Center
+
+tile.BlockXV2GroundSymbol.name=XV2 Ground Symbol
+
+tile.BlockXV2Desk.name=XV2 Desk
+
+tile.BlockXV2PillarBase.name=Pillar Base
+tile.BlockXV2PillarBaseShaft.name=Pillar Base Shaft
+tile.BlockXV2PillarShaft.name=Pillar Shaft
+tile.BlockXV2PillarTop.name=Pillar Top
+
+tile.BlockCrateLow.name=§aLow Tier §7Crate
+tile.BlockCrateMid.name=§eMid Tier §7Crate
+tile.BlockCrateHigh.name=§cHigh Tier §7Crate
+tile.BlockCrateGod.name=§dGod Tier §7Crate
+tile.BlockCrateVote.name=§9Vote §7Crate
+tile.BlockCrateGolden.name=§6Golden §7Crate
+
+tile.BlockXV2Slab.name=Slab
+
+tile.BlockDragonBall.name=§6Earth Dragon Block
+tile.BlockNamekDragonBall.name=§6Namek Dragon Block
+tile.BlockBlackStarDragonBall.name=§8Black §cStar §6Dragon Block
+
+itemGroup.ApolloItemTab=§6Dragon Block Apollo §eItems
+itemGroup.ApolloBlockTab=§6Dragon Block Apollo §aBlocks
+itemGroup.ApolloArmorTab=§6Dragon Block Apollo §bArmor
+itemGroup.ApolloMaterialTab=§6Dragon Block Apollo §5Materials
+
+item.saiyanS.name=§6Saiyan Saga §eSoul§r
+item.namekS.name=§3Tier 1 Form §eSoul§r
+item.androidS.name=§eAndroid Saga §eSoul§r
+item.cellS.name=§2Tier 2 Form §eSoul§r
+item.babidiS.name=§5Tier 3 Form §eSoul§r
+item.buuS.name=§dBuu Saga §eSoul§r
+
+item.food0.name=Fish
+item.food1.name=Assorted Fruits
+item.food2.name=Rice
+item.food3.name=Grains
+item.food4.name=Beast Meat
+item.food5.name=Exotic Cuisine
+item.food6.name=Noodles
+item.food7.name=Narutomaki
+item.food8.name=Eggs
+item.food9.name=Nuts & Bolts
+item.food10.name=Metal Scraps
+item.food11.name=Wires
+
+item.ZSoul.name=Z-Soul
+
+item.SenzuBeanK1.name=§aSenzu Bean§r
+item.DinoMeat.name=§6Dino §eMeat§r
+item.DivineNoodles.name=§bDivine §eNoodles§r
+
+item.VitadrinkK1.name=§aVitadrink §e(S)§r
+item.VitadrinkK2.name=§aVitadrink §e(M)§r
+item.VitadrinkK3.name=§aVitadrink §e(L)§r
+
+item.KiStimulantK1.name=§bKi §9Stimulant §b(S)§r
+item.KiStimulantK2.name=§bKi §9Stimulant §b(M)§r
+item.KiStimulantK3.name=§bKi §9Stimulant §b(L)§r
+
+item.HealadeK1.name=§aHealade§r
+item.HealadeK2.name=§6Super §aHealade§r
+item.HealadeK3.name=§eUltra §aHealade§r
+
+item.CandyK1.name=§9Focus Candy§r
+item.CandyK2.name=§bSuper §9Focus Candy§r
+item.CandyK3.name=§eUltra §9Focus Candy§r
+
+item.SupplementsK1.name=§aHealth §eSupplement §aα§r
+item.SupplementsK2.name=§aHealth §eSupplement §aβ§r
+item.SupplementsK3.name=§aHealth §eSupplement §aΩ§r
+
+item.PillsK1.name=§9Energy §bPill §9α§r
+item.PillsK2.name=§9Energy §bPill §9β§r
+item.PillsK3.name=§9Energy §bPill §9Ω§r
+
+item.beerusFish.name=§d§lBeerus' §e§lFish!§r
+item.spookyCandy.name=§4§lSpooky §c§lCandy§r
+item.spookyCandy2.name=§4§lSpooky §c§lLollipop§r
+item.jollyGingerBread.name=§4§lJ§f§lo§4§ll§f§ll§4§ly §6§lGingerbread§r
+item.jollyCandyCane.name=§4§lJ§f§lo§4§ll§f§ll§4§ly §c§lCandy §f§lCane§r
+
+item.spookyEssence.name=§4§lSpooky §5§lEssence§r
+item.spookyEssenceMega.name=§b§lAzure §1§lSpooky §5§lEssence§r
+item.jolly_present.name=§4§lJ§f§lo§4§ll§f§ll§4§ly §2§lPresent§r
+item.jolly_present_collectable.name=§4§lJ§f§lo§4§ll§f§ll§4§ly §2§lPresent§r
+item.anniversaryCoin.name=§e§lAnniversary §d§lCoin§r
+
+item.frieza_force0.name=§6Bronze §7Frieza Force Coin§r
+item.frieza_force1.name=§fSilver §7Frieza Force Coin§r
+item.frieza_force2.name=§eGold §7Frieza Force Coin§r
+item.frieza_force3.name=§3Platinum §7Frieza Force Coin§r
+item.universe_60.name=§6Bronze §cUniverse 6 Coin§r
+item.universe_61.name=§fSilver §cUniverse 6 Coin§r
+item.universe_62.name=§eGold §cUniverse 6 Coin§r
+item.universe_63.name=§3Platinum §cUniverse 6 Coin§r
+
+item.spookyBasket.name=§4§lSpooky §5§lBasket§r
+item.jollyPrizePresent0.name=§a§lShenron's §c§lGift§r
+item.jollyPrizePresent1.name=§e§lVoucher Brand §6§lPackage§r
+item.jollyPrizePresent2.name=§b§lCrate Key §a§lBox§r
+item.jollyPrizePresent3.name=§4§lJolly's §2§lSpecial §e§lGift§r
+
+item.tpBooster1.name=§9TP Booster §7| §6+5%
+item.tpBooster1_.name=§9TP Booster §7| §6+10%
+item.tpBooster2.name=§2TP Booster §7| §6+20%
+item.tpBooster2_.name=§2TP Booster §7| §6+30%
+item.tpBooster3.name=§dTP Booster §7| §6+40%
+item.tpBooster3_.name=§dTP Booster §7| §6+50%
+
+item.rZSoul0.name=§cBuffed §cForm §eZ-Soul§r
+item.rZSoul1.name=§cFull §cRelease §eZ-Soul§r
+item.rZSoul2.name=§cSuper §cHuman §eZ-Soul§r
+
+item.rZSoul3.name=§6Super §6Saiyan §eZ-Soul§r
+item.rZSoul4.name=§6Super §6Saiyan §62 §eZ-Soul§r
+item.rZSoul5.name=§6Super §6Saiyan §63 §eZ-Soul§r
+
+item.rZSoul6.name=§2Giant §2Form §eZ-Soul§r
+item.rZSoul7.name=§2Full §2Release §eZ-Soul§r
+item.rZSoul8.name=§2Super §2Namekian §eZ-Soul§r
+
+item.rZSoul9.name=§5First §5Form §eZ-Soul§r
+item.rZSoul10.name=§5Second §5Form §eZ-Soul§r
+item.rZSoul11.name=§5Third §5Form §eZ-Soul§r
+item.rZSoul12.name=§5Final §5Form §eZ-Soul§r
+
+item.rZSoul13.name=§dEvil §5Majin §eZ-Soul§r
+item.rZSoul14.name=§dAdult §5Majin §eZ-Soul§r
+item.rZSoul15.name=§dSuper §5Majin §eZ-Soul§r
+
+item.RisingSoul28.name=§4Kaioken x3 §cZ-Soul§r
+item.RisingSoul29.name=§4Kaioken x4 §cZ-Soul§r
+item.RisingSoul30.name=§4Kaioken x5 §cZ-Soul§r
+item.RisingSoul31.name=§4Kaioken x10 §cZ-Soul§r
+item.RisingSoul32.name=§4Kaioken x20 §cZ-Soul§r
+item.RisingSoul33.name=§4Kaioken Apprentice §cZ-Soul§r
+item.RisingSoul34.name=§4Kaioken Expert §cZ-Soul§r
+
+item.ltt.name=§aLow-Tier §2Token§r
+item.mtt.name=§eMid-Tier §6Token§r
+item.htt.name=§cHigh-Tier §4Token§r
+item.gtt.name=§dGod-Tier §5Token§r
+
+item.cgoggles.name=Clout Goggles
+
+item.aloha_chest.name=§6Aloha §eChest§r
+item.aloha_legs.name=§6Aloha §ePants§r
+item.aloha_boots.name=§6Aloha §eBoots§r
+
+item.badman_chest.name=§dBadman Chest§r
+item.badman_legs.name=§dBadman Pants§r
+item.badman_boots.name=§dBadman Boots§r
+
+item.postboy_chest.name=§aPostboy §2Chest§r
+item.postboy_legs.name=§aPostboy §2Pants§r
+item.postboy_boots.name=§aPostboy §2Boots§r
+
+item.santa_hat.name=§4S§fa§4n§ft§4a §fHat§r
+item.santa_chest.name=§4S§fa§4n§ft§4a §fChest§r
+item.santa_legs.name=§4S§fa§4n§ft§4a §fPants§r
+item.santa_boots.name=§4S§fa§4n§ft§4a §fBoots§r
+
+item.elf_hat.name=§2Elf §cHat§r
+item.elf_chest.name=§2Elf §cChest§r
+item.elf_legs.name=§2Elf §cPants§r
+item.elf_boots.name=§2Elf §cBoots§r
+
+item.sugarPlum_chest.name=§dSugar §bPlum §3Chest§r
+item.sugarPlum_legs.name=§dSugar §bPlum §3Pants§r
+item.sugarPlum_boots.name=§dSugar §bPlum §3Boots§r
+
+item.spook_gi_chest.name=§6Spook §0Gi §cChest§r
+item.spook_gi_legs.name=§6Spook §0Gi §cPants§r
+item.spook_gi_boots.name=§6Spook §0Gi §cBoots§r
+
+item.goku_farmer_chest.name=§fGoku Farmer §eChest§r
+item.goku_farmer_legs.name=§fGoku Farmer §ePants§r
+item.goku_farmer_boots.name=§fGoku Farmer §eBoots§r
+
+item.tracksuit_chest.name=§2Track Suit §fChest§r
+item.tracksuit_legs.name=§2Track Suit §fPants§r
+item.tracksuit_boots.name=§2Track Suit §fBoots§r
+
+item.galactic_patroller_chest.name=§eGalactic §dPatroller Chest§r
+item.galactic_patroller_legs.name=§eGalactic §dPatroller Pants§r
+item.galactic_patroller_boots.name=§eGalactic §dPatroller Boots§r
+
+
+item.tien_chest.name=§2Tien §aChest§r
+item.tien_legs.name=§2Tien §aPants§r
+item.tien_boots.name=§2Tien §aBoots§r
+
+item.krillin_chest.name=§6Krillin §7Chest§r
+item.krillin_legs.name=§6Krillin §7Pants§r
+item.krillin_boots.name=§6Krillin §7Boots§r
+
+
+item.nbulma_chest.name=§9Bulma §3Namek §7Chest§r
+item.nbulma_legs.name=§9Bulma §3Namek §7Pants§r
+item.nbulma_boots.name=§9Bulma §3Namek §7Boots§r
+
+item.nail_chest.name=§2Nail §7Chest§r
+item.nail_legs.name=§2Nail §7Pants§r
+item.nail_boots.name=§2Nail §7Boots§r
+
+
+item.yamcha_chest.name=§6Yamcha §7Chest§r
+item.yamcha_legs.name=§6Yamcha §7Pants§r
+item.yamcha_boots.name=§6Yamcha §7Boots§r
+
+item.chiaotzu_chest.name=§2Chiaotzu §7Chest§r
+item.chiaotzu_legs.name=§2Chiaotzu §7Pants§r
+item.chiaotzu_boots.name=§2Chiaotzu §7Boots§r
+
+
+item.vegeta_chest.name=§6Vegeta §8Chest§r
+item.vegeta_legs.name=§6Vegeta §8Pants§r
+item.vegeta_boots.name=§6Vegeta §8Boots§r
+
+item.raditz_chest.name=§6Raditz §7Chest§r
+item.raditz_legs.name=§6Raditz §7Pants§r
+item.raditz_boots.name=§6Raditz §7Boots§r
+
+item.goku_chest.name=§6Goku §1Chest§r
+item.goku_legs.name=§6Goku §1Pants§r
+item.goku_boots.name=§6Goku §1Boots§r
+
+item.piccolo_chest.name=§5Piccolo §9Chest§r
+item.piccolo_legs.name=§5Piccolo §9Pants§r
+item.piccolo_boots.name=§5Piccolo §9Boots§r
+
+
+item.nvegeta_chest.name=§9Vegeta §3Namek §7Chest§r
+item.nvegeta_legs.name=§9Vegeta §3Namek §7Pants§r
+item.nvegeta_boots.name=§9Vegeta §3Namek §7Boots§r
+
+item.nkrillin_chest.name=§6Krillin §3Namek §7Chest§r
+item.nkrillin_legs.name=§6Krillin §3Namek §7Pants§r
+item.nkrillin_boots.name=§6Krillin §3Namek §7Boots§r
+
+item.bginyu_chest.name=§dGinyu Force §8B §7Chest§r
+item.bginyu_legs.name=§dGinyu Force §8B §7Pants§r
+item.bginyu_boots.name=§dGinyu Force §8B §7Boots§r
+
+item.wginyu_chest.name=§dGinyu Force §fW §7Chest§r
+item.wginyu_legs.name=§dGinyu Force §fW §7Pants§r
+item.wginyu_boots.name=§dGinyu Force §fW §7Boots§r
+
+
+item.future_trunks_chest.name=§3Future §9Trunks §eChest§r
+item.future_trunks_legs.name=§3Future §9Trunks §ePants§r
+item.future_trunks_boots.name=§3Future §9Trunks §eBoots§r
+
+item.goku_yardrat_chest.name=§6Goku §1Yardrat §9Chest§r
+item.goku_yardrat_legs.name=§6Goku §1Yardrat §9Pants§r
+item.goku_yardrat_boots.name=§6Goku §1Yardrat §9Boots§r
+
+item.android19_chest.name=§eAndroid #19 §6Chest§r
+item.android19_legs.name=§eAndroid #19 §6Pants§r
+item.android19_boots.name=§eAndroid #19 §6Boots§r
+
+item.android20_chest.name=§eAndroid #20 §6Chest§r
+item.android20_legs.name=§eAndroid #20 §6Pants§r
+item.android20_boots.name=§eAndroid #20 §6Boots§r
+
+
+item.android13_chest.name=§9Android #13 §eChest§r
+item.android13_legs.name=§9Android #13 §ePants§r
+item.android13_boots.name=§9Android #13 §eBoots§r
+
+item.bojack_chest.name=§aBojack §5Chest§r
+item.bojack_legs.name=§aBojack §5Pants§r
+item.bojack_boots.name=§aBojack §5Boots§r
+
+item.salza_chest.name=§dSalza §9Chest§r
+item.salza_legs.name=§dSalza §9Pants§r
+item.salza_boots.name=§dSalza §9Boots§r
+
+
+item.metamoran_chest.name=§cMetamoran §eChest§r
+item.metamoran_legs.name=§cMetamoran §ePants§r
+item.metamoran_boots.name=§cMetamoran §eBoots§r
+
+item.tapion_chest.name=§2Tapion §6Chest§r
+item.tapion_legs.name=§2Tapion §6Pants§r
+item.tapion_boots.name=§2Tapion §6Boots§r
+
+item.dgoku_chest.name=§eDestroyed Goku §9Chest§r
+item.dgoku_legs.name=§eDestroyed Goku §9Pants§r
+item.dgoku_boots.name=§eDestroyed Goku §9Boots§r
+
+
+item.turles_chest.name=§9Turles §1Chest§r
+item.turles_legs.name=§9Turles §1Pants§r
+item.turles_boots.name=§9Turles §1Boots§r
+
+item.slug_chest.name=§2Lord §5Slug §aChest§r
+item.slug_legs.name=§2Lord §5Slug §aPants§r
+item.slug_boots.name=§2Lord §5Slug §aBoots§r
+
+item.zBroly_chest.name=§aZ §2Broly §eChest§r
+item.zBroly_legs.name=§aZ §2Broly §ePants§r
+item.zBroly_boots.name=§aZ §2Broly §eBoots§r
+
+
+item.goku_gt_chest.name=§3GT §bGoku §6Chest§r
+item.goku_gt_legs.name=§3GT §bGoku §6Pants§r
+item.goku_gt_boots.name=§3GT §bGoku §6Boots§r
+
+item.trunks_gt_chest.name=§3GT §bTrunks §9Chest§r
+item.trunks_gt_legs.name=§3GT §bTrunks §9Pants§r
+item.trunks_gt_boots.name=§3GT §bTrunks §9Boots§r
+
+item.pan_gt_chest.name=§3GT §bPan §2Chest§r
+item.pan_gt_legs.name=§3GT §bPan §2Pants§r
+item.pan_gt_boots.name=§3GT §bPan §2Boots§r
+
+item.vegeta_gt_chest.name=§3GT §bVegeta §cChest§r
+item.vegeta_gt_legs.name=§3GT §bVegeta §cPants§r
+item.vegeta_gt_boots.name=§3GT §bVegeta §cBoots§r
+
+item.super_17_chest.name=§bSuper §317 §cChest§r
+item.super_17_legs.name=§bSuper §317 §cPants§r
+item.super_17_boots.name=§bSuper §317 §cBoots§r
+
+item.dgoku_gt_chest.name=§eDestroyed §3GT §bGoku §cChest§r
+item.dgoku_gt_legs.name=§eDestroyed §3GT §bGoku §cPants§r
+item.dgoku_gt_boots.name=§eDestroyed §3GT §bGoku §cBoots§r
+
+
+item.patroller_chest.name=§9Patroller §eChest§r
+item.patroller_legs.name=§9Patroller §ePants§r
+item.patroller_boots.name=§9Patroller §eBoots§r
+
+
+item.headBand.name=Bandana (Red)
+item.headBand1.name=Bandana (Yellow)
+item.headBand2.name=Bandana (Aqua)
+
+item.coat.name=Goku's Coat (DBS)
+item.coat2.name=Vegeta's Coat (DBS)
+item.coat3.name=Bulma's Long Sleeve (DBS)
+
+item.enhanceShard.name=§7Armor Enhancement §dShard§r
+item.enhanceGem.name=§5Armor Enhancement §dGem§r
+
+item.enhanceRune0.name=Common Enhance Rune
+item.enhanceRune1.name=Uncommon Enhance Rune
+item.enhanceRune2.name=Rare Enhance Rune
+item.enhanceRune3.name=Mythic Enhance Rune
+item.enhanceRune4.name=Legendary Enhance Rune
+
+item.armorCoin0.name=§6Saiyan Saga §dGear Coin§r
+item.armorCoin1.name=§3Namek Saga §dGear Coin§r
+item.armorCoin2.name=§eAndroid Saga §dGear Coin§r
+item.armorCoin3.name=§2Cell Saga §dGear Coin§r
+item.armorCoin4.name=§5Babidi Saga §dGear Coin§r
+item.armorCoin5.name=§dBuu Saga §dGear Coin§r
+
+item.armorCoin51.name=§2Movie Pack §a#1 §dGear Coin§r
+item.armorCoin52.name=§2Movie Pack §a#2 §dGear Coin§r
+item.armorCoin53.name=§2Movie Pack §a#3 §dGear Coin§r
+
+item.armorCoin60.name=§3GT §bSaga §dGear Coin§r
+
+item.character0.name=§fSoul Bound §6Reincarnate §8Token§r
+item.character1.name=§6Reincarnate §7Token§r
+item.character2.name=§eClass §7Change§r
+item.character3.name=§cRe-Spec §4Token§r
+
+item.challengerSlot1.name=§dChallenger §9Kill Limit Upgrade §e#1§r
+item.challengerSlot2.name=§dChallenger §6Kill Limit Upgrade §e#2§r
+item.challengerSlot3.name=§dChallenger §aKill Limit Upgrade §e#3§r
+
+item.challengerRespawn1.name=§dChallenger §9Respawn Time Upgrade §e#1§r
+item.challengerRespawn2.name=§dChallenger §6Respawn Time Upgrade §e#2§r
+item.challengerRespawn3.name=§dChallenger §aRespawn Time Upgrade §e#3§r
+
+item.challengerTimer1.name=§dChallenger §9Time Limit Upgrade §e#1§r
+item.challengerTimer2.name=§dChallenger §6Time Limit Upgrade §e#2§r
+item.challengerTimer3.name=§dChallenger §aTime Limit Upgrade §e#3§r
+
+item.characterSlot1.name=§dCharacter §aSlot §eUnlock #1 §a(Slot #5)§r
+item.characterSlot2.name=§dCharacter §aSlot §eUnlock #2 §a(Slot #6)§r
+
+item.titleScroll.name=Title Scroll§r
+item.rankScroll.name=Rank Scroll§r
+item.cosmeticBag.name=Cosmetic Bag§r
+
+
+## Extra Blocks
+tile.BlockBlacksb.name=Black Stained Stone Brick
+tile.BlockBluesb.name=Blue Stained Stone Brick
+tile.BlockBrownsb.name=Brown Stained Stone Brick
+tile.BlockCyansb.name=Cyan Stained Stone Brick
+tile.BlockGraysb.name=Gray Stained Stone Brick
+tile.BlockGreensb.name=Green Stained Stone Brick
+tile.BlockLightbluesb.name=Light Blue Stained Stone Brick
+tile.BlockLimesb.name=Lime Stained Stone Brick
+tile.BlockMagentasb.name=Magenta Stained Stone Brick
+tile.BlockOrangesb.name=Orange Stained Stone Brick
+tile.BlockPinksb.name=Pink Stained Stone Brick
+tile.BlockPurplesb.name=Purple Stained Stone Brick
+tile.BlockRedsb.name=Red Stained Stone Brick
+tile.BlockLightgraysb.name=Light Gray Stained Stone Brick
+tile.BlockWhitesb.name=White Stained Stone Brick
+tile.BlockYellowsb.name=Yellow Stained Stone Brick
+
+tile.BlockBlackCarvedSb.name=Black Stained Chiseled Stone Brick
+tile.BlockBlueCarvedSb.name=Blue Stained Chiseled Stone Brick
+tile.BlockBrownCarvedSb.name=Brown Stained Chiseled Stone Brick
+tile.BlockCyanCarvedSb.name=Cyan Stained Chiseled Stone Brick
+tile.BlockGrayCarvedSb.name=Gray Stained Chiseled Stone Brick
+tile.BlockGreenCarvedSb.name=Green Stained Chiseled Stone Brick
+tile.BlockLightblueCarvedSb.name=Light Blue Stained Chiseled Stone Brick
+tile.BlockLimeCarvedSb.name=Lime Stained Chiseled Stone Brick
+tile.BlockMagentaCarvedSb.name=Magenta Stained Chiseled Stone Brick
+tile.BlockOrangeCarvedSb.name=Orange Stained Chiseled Stone Brick
+tile.BlockPinkCarvedSb.name=Pink Stained Chiseled Stone Brick
+tile.BlockPurpleCarvedSb.name=Purple Stained Chiseled Stone Brick
+tile.BlockRedCarvedSb.name=Red Stained Chiseled Stone Brick
+tile.BlockLightgrayCarvedSb.name=Light Gray Stained Chiseled Stone Brick
+tile.BlockWhiteCarvedSb.name=White Stained Chiseled Stone Brick
+tile.BlockYellowCarvedSb.name=Yellow Stained Chiseled Stone Brick
+
+tile.BlockBlackCrackedSb.name=Black Stained Cracked Stone Brick
+tile.BlockBlueCrackedSb.name=Blue Stained Cracked Stone Brick
+tile.BlockBrownCrackedSb.name=Brown Stained Cracked Stone Brick
+tile.BlockCyanCrackedSb.name=Cyan Stained Cracked Stone Brick
+tile.BlockGrayCrackedSb.name=Gray Stained Cracked Stone Brick
+tile.BlockGreenCrackedSb.name=Green Stained Cracked Stone Brick
+tile.BlockLightblueCrackedSb.name=Light Blue Stained Cracked Stone Brick
+tile.BlockLimeCrackedSb.name=Lime Stained Cracked Stone Brick
+tile.BlockMagentaCrackedSb.name=Magenta Stained Cracked Stone Brick
+tile.BlockOrangeCrackedSb.name=Orange Stained Cracked Stone Brick
+tile.BlockPinkCrackedSb.name=Pink Stained Cracked Stone Brick
+tile.BlockPurpleCrackedSb.name=Purple Stained Cracked Stone Brick
+tile.BlockRedCrackedSb.name=Red Stained Cracked Stone Brick
+tile.BlockLightgrayCrackedSb.name=Light Gray Stained Cracked Stone Brick
+tile.BlockWhiteCrackedSb.name=White Stained Cracked Stone Brick
+tile.BlockYellowCrackedSb.name=Yellow Stained Cracked Stone Brick
+
+tile.BlockBlackMossySb.name=Black Stained Mossy Stone Brick
+tile.BlockBlueMossySb.name=Blue Stained Mossy Stone Brick
+tile.BlockBrownMossySb.name=Brown Stained Mossy Stone Brick
+tile.BlockCyanMossySb.name=Cyan Stained Mossy Stone Brick
+tile.BlockGrayMossySb.name=Gray Stained Mossy Stone Brick
+tile.BlockGreenMossySb.name=Green Stained Mossy Stone Brick
+tile.BlockLightblueMossySb.name=Light Blue Stained Mossy Stone Brick
+tile.BlockLimeMossySb.name=Lime Stained Mossy Stone Brick
+tile.BlockMagentaMossySb.name=Magenta Stained Mossy Stone Brick
+tile.BlockOrangeMossySb.name=Orange Stained Mossy Stone Brick
+tile.BlockPinkMossySb.name=Pink Stained Mossy Stone Brick
+tile.BlockPurpleMossySb.name=Purple Stained Mossy Stone Brick
+tile.BlockRedMossySb.name=Red Stained Mossy Stone Brick
+tile.BlockLightgrayMossySb.name=Light Gray Stained Mossy Stone Brick
+tile.BlockWhiteMossySb.name=White Stained Mossy Stone Brick
+tile.BlockYellowMossySb.name=Yellow Stained Mossy Stone Brick
+
+
+tile.BlockBlackpl.name=Black Stained Wood Plank
+tile.BlockBluepl.name=Blue Stained Wood Plank
+tile.BlockBrownpl.name=Brown Stained Wood Plank
+tile.BlockCyanpl.name=Cyan Stained Wood Plank
+tile.BlockGraypl.name=Gray Stained Wood Plank
+tile.BlockGreenpl.name=Green Stained Wood Plank
+tile.BlockLightbluepl.name=Light Blue Stained Wood Plank
+tile.BlockLimepl.name=Lime Stained Wood Plank
+tile.BlockMagentapl.name=Magenta Stained Wood Plank
+tile.BlockOrangepl.name=Orange Stained Wood Plank
+tile.BlockPinkpl.name=Pink Stained Wood Plank
+tile.BlockPurplepl.name=Purple Stained Wood Plank
+tile.BlockRedpl.name=Red Stained Wood Plank
+tile.BlockLightgraypl.name=Light Gray Stained Wood Plank
+tile.BlockWhitepl.name=White Stained Wood Plank
+tile.BlockYellowpl.name=Yellow Stained Wood Plank
+
+
+tile.BlockGlassacaciacross.name=Acacia Glass Cross
+tile.BlockGlassbigoakcross.name=Dark Oak Glass Cross
+tile.BlockGlassbirchcross.name=Birch Glass Cross
+tile.BlockGlassjunglecross.name=Jungle Glass Cross
+tile.BlockGlassoakcross.name=Oak Glass Cross
+tile.BlockGlasssprucecross.name=Spruce Glass Cross
+
+tile.BlockGlassacaciacircle.name=Acacia Glass Circle
+tile.BlockGlassbigoakcircle.name=Dark Oak Glass Circle
+tile.BlockGlassbirchcircle.name=Birch Glass Circle
+tile.BlockGlassjunglecircle.name=Jungle Glass Circle
+tile.BlockGlassoakcircle.name=Oak Glass Circle
+tile.BlockGlasssprucecircle.name=Spruce Glass Circle
+
+tile.BlockGlassAcaciaDiamond.name=Acacia Glass Diamond
+tile.BlockGlassBigOakDiamond.name=Dark Oak Glass Diamond
+tile.BlockGlassBirchDiamond.name=Birch Glass Diamond
+tile.BlockGlassJungleDiamond.name=Jungle Glass Diamond
+tile.BlockGlassOakDiamond.name=Oak Glass Diamond
+tile.BlockGlassSpruceDiamond.name=Spruce Glass Diamond
+
+
+tile.BlockBlackbr.name=Black Stained Brick
+tile.BlockBluebr.name=Blue Stained Brick
+tile.BlockBrownbr.name=Brown Stained Brick
+tile.BlockCyanbr.name=Cyan Stained Brick
+tile.BlockGraybr.name=Gray Stained Brick
+tile.BlockGreenbr.name=Green Stained Brick
+tile.BlockLightbluebr.name=Light Blue Stained Brick
+tile.BlockLimebr.name=Lime Stained Brick
+tile.BlockMagentabr.name=Magenta Stained Brick
+tile.BlockOrangebr.name=Orange Stained Brick
+tile.BlockPinkbr.name=Pink Stained Brick
+tile.BlockPurplebr.name=Purple Stained Brick
+tile.BlockRedbr.name=Red Stained Brick
+tile.BlockLightgraybr.name=Light Gray Stained Brick
+tile.BlockWhitebr.name=White Stained Brick
+tile.BlockYellowbr.name=Yellow Stained Brick

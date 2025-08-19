@@ -1,0 +1,9 @@
+#DBATW - Packs
+#A custom resource pack for DBATW.
+#version=1.0.0
+reauth/lang/zh_TW.lang
+minecraft/lang/zh_TW.lang
+jinryuudragonbc/lang/zh_TW.lang
+dbapollo/lang/zh_TW.lang
+dbapollo/textures/gui/menus/mainMenu/splashText.png
+customnpcs/lang/zh_TW.lang

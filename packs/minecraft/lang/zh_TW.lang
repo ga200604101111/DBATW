@@ -1,0 +1,26 @@
+container.inventory=§e物品欄
+container.hopper=§e漏斗
+container.crafting=§e工作台
+container.dispenser=§e發射器
+container.dropper=§e投擲器
+container.furnace=§e熔爐
+container.enchant=§e附魔台
+container.repair=§e修理與命名
+container.repair.cost=§e附魔花費: %1$d
+container.repair.expensive=§e過於昂貴!
+container.creative=§e物品選擇
+container.brewing=§e釀造台
+container.chest=§e箱子
+container.chestDouble=§e大型箱子
+container.minecart=§e礦車
+container.enderchest=§e終界箱
+
+tile.enderChest.name=跨服箱
+
+entity.Villager.name=§e村民
+
+entity.EntityHorse.name=§e馬
+entity.horse.name=§e馬
+entity.donkey.name=§e驢
+
+options.resourcepack=資源包...

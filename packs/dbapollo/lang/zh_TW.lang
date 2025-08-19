@@ -1,0 +1,671 @@
+connect.connecting=§e正在連線到伺服器...
+connect.authorizing=§a正在登入...
+connect.failed=§c無法連線到伺服器，§6可能是 Minecraft 認證問題。
+
+disconnect.genericReason=%s
+disconnect.disconnected=§c伺服器斷開連線
+disconnect.lost=§c連線遺失
+disconnect.kicked=§c被踢出遊戲
+disconnect.timeout=§e連線逾時
+disconnect.closed=§c連線已關閉
+disconnect.loginFailed=§c登入失敗
+disconnect.loginFailedInfo=登入失敗: %s (請確認你已在 Xbox 設定中啟用多人遊戲，若仍無法登入請嘗試重新登入)
+disconnect.loginFailedInfo.serversUnavailable=§6認證伺服器目前正在維護中，§e請稍後再試。
+## Failed to login: %s §6(請確認你已啟用多人遊戲，若無法解決請嘗試重新登入，或確認帳號已完成遷移)
+disconnect.quitting=正在退出
+disconnect.endOfStream=資料流結束
+disconnect.overflow=緩衝區溢出
+disconnect.spam=因洗頻被踢出
+
+item.ItemLowTierKey.name=§a低階§7寶箱§2鑰匙§r
+item.ItemMidTierKey.name=§e中階§7寶箱§6鑰匙§r
+item.ItemHighTierKey.name=§c高階§7寶箱§4鑰匙§r
+item.ItemGodTierKey.name=§5神階§7寶箱§d鑰匙§r
+item.ItemEventKey.name=§9投票§1寶箱§7鑰匙§r
+item.ItemGoldenKey.name=§6黃金§e寶箱§b鑰匙§r
+item.ItemSpookyKey.name=§6萬聖節§4寶箱§c鑰匙§r
+item.ItemThankKey.name=火雞鑰匙
+item.ItemChristmasKey.name=§2聖誕節§4寶箱§e鑰匙§r
+item.Item500EventKey.name=§5活動§e寶箱鑰匙§r
+
+item.ItemNamekianShard.name=§3第一階形態§e靈魂碎片§r
+item.ItemBerserkShard.name=§2第二階形態§e靈魂碎片§r
+item.ItemGODShard.name=§5第三階形態§e靈魂碎片§r
+
+item.ItemSKaioShard.name=§4界王拳§c碎片§r
+item.ItemSKaioPiece.name=§4界王拳§c殘片§r
+
+item.ItemDonorCoin.name=§e代金券§r
+item.ItemDonorCoin2.name=§e代金券§6組合§r
+item.ItemZeni1.name=§81 §2賽尼§r
+item.ItemZeni2.name=§710 §2賽尼§r
+item.ItemZeni3.name=§e100 §2賽尼§r
+item.ItemZeni4.name=§c1000 §2賽尼§r
+item.ItemZeni5.name=§61萬 §2賽尼§r
+item.ItemZeni6.name=§d10萬 §e賽尼§r
+
+item.ItemTP25.name=§725 §aTP 寶石§r
+item.ItemTP100.name=§7100 §cTP 寶石§r
+item.ItemTP1K.name=§71000 §dTP 寶石§r
+item.ItemTP10K.name=§61萬 §eTP 寶石§r
+item.ItemTP100K.name=§610萬 §9TP 寶石§r
+item.ItemTP1M.name=§c100萬 §8TP 寶石§r
+item.ItemTP10M.name=§41千萬 §5TP 寶石§r
+
+tile.BlockInvisible.name=隱形方塊
+tile.BlockInvisibleSlab.name=隱形半磚
+tile.BlockGreenScreen.name=綠幕方塊
+tile.BlockBlueScreen.name=藍幕方塊
+tile.BlockPinkScreen.name=粉幕方塊
+tile.BlockWhiteScreen.name=白幕方塊
+tile.BlockClayNormal.name=普通黏土
+tile.BlockClayBlack.name=黑色黏土
+tile.BlockClayBlue.name=藍色黏土
+tile.BlockClayBrown.name=棕色黏土
+tile.BlockClayCyan.name=青色黏土
+tile.BlockClay.name=黏土
+tile.BlockClayGray.name=灰色黏土
+tile.BlockClayGreen.name=綠色黏土
+tile.BlockClayLightBlue.name=淺藍色黏土
+tile.BlockClayLightBrown.name=淺棕色黏土
+tile.BlockClayLightGray.name=淺灰色黏土
+tile.BlockClayLime.name=淺綠色黏土
+tile.BlockClayMagenta.name=洋紅色黏土
+tile.BlockClayOrange.name=橙色黏土
+tile.BlockClayPink.name=粉紅色黏土
+tile.BlockClayPurple.name=紫色黏土
+tile.BlockClayRed.name=紅色黏土
+tile.BlockClayWhite.name=白色黏土
+tile.BlockClayYellow.name=黃色黏土
+
+tile.BlockDivineGrass.name=神聖草方塊
+tile.BlockDivineDirt.name=神聖泥土方塊
+tile.BlockDivineStone1.name=神聖石頭 #1
+tile.BlockDivineStone2.name=神聖石頭 #2
+tile.BlockDivinePillar.name=神聖石柱
+tile.BlockDivinePillarInscribe.name=神聖石柱刻紋
+tile.BlockDivinePillarInscribeRuin.name=神聖石柱殘破刻紋
+
+tile.BlockXV2Grass.name=草方塊
+tile.BlockXV2Dirt.name=泥土方塊
+tile.BlockXV2Sand.name=沙子方塊
+tile.BlockXV2Stone.name=石頭方塊
+tile.BlockXV2Cobblestone.name=鵝卵石
+tile.BlockXV2MushroomStem.name=蘑菇莖
+tile.BlockXV2BirchPlanks.name=樺木木板
+tile.BlockXV2OakPlanks.name=橡木木板
+tile.BlockXV2Bricks.name=磚塊
+tile.BlockXV2Quartz.name=石英方塊
+tile.BlockXV2OakLog.name=橡木原木
+tile.BlockXV2OakLeaves.name=橡木樹葉
+tile.BlockXV2StoneBricks.name=石磚
+tile.BlockXV2YellowWool.name=黃色羊毛
+tile.BlockCement.name=水泥方塊
+
+tile.BlockKameHousePlanks.name=龜屋木板
+tile.BlockKameHouseTile.name=龜屋瓷磚
+tile.BlockRedRoof.name=紅色屋頂
+tile.BlockBlueRoof.name=藍色屋頂
+tile.BlockGreenRoof.name=綠色屋頂
+tile.BlockYellowRoof.name=黃色屋頂
+tile.BlockGohanBricks.name=悟飯磚塊
+tile.BlockClouds.name=雲朵方塊
+tile.BlockRockyCobble.name=岩石鵝卵石
+tile.BlockRockyStone.name=岩石石頭
+tile.BlockRockySand.name=岩石沙子
+tile.BlockCityBricks1.name=城市磚塊
+tile.BlockCityBricks2.name=道路磚塊
+tile.BlockLightBricks.name=亮色磚塊
+tile.BlockLightPath.name=亮色道路
+tile.BlockCityRoad3.name=城市圖樣
+tile.BlockCityRoad4.name=城市圖樣
+tile.BlockCityRoad5.name=城市圖樣
+tile.BlockDragonPiller.name=龍之石柱
+tile.BlockDragonPiller2.name=龍之石柱
+tile.BlockSlabPath.name=道路半磚
+tile.BlockCityBrickSlab.name=城市磚半磚
+tile.BlockLightBlockSlab.name=亮色磚半磚
+tile.BlockLightBricksStairs.name=亮色磚樓梯
+tile.BlockLightPathStairs.name=亮色道路樓梯
+tile.BlockPathBricksSlab.name=道路磚半磚
+tile.BlockLightPathSlab.name=亮色道路半磚
+tile.BlockYellowCloud.name=黃色雲朵
+
+tile.BlockLookoutWhite.name=天界白色方塊
+tile.BlockLookoutYellow.name=天界黃色方塊
+tile.BlockLookoutRed.name=天界紅色方塊
+tile.BlockLookoutBlue.name=天界藍色方塊
+tile.BlockLookoutTan.name=天界淺棕色方塊
+
+tile.BlockKingKaiGrass1.name=界王星草方塊
+tile.BlockKingKaiGrass2.name=界王星草方塊
+
+tile.blockLookoutPink1.name=神殿粉色方塊
+tile.BlockLookoutTiles1.name=神殿瓷磚方塊
+tile.BlockLookoutTiles2.name=神殿瓷磚方塊
+tile.BlockLookoutTiles3.name=神殿瓷磚方塊
+tile.BlockLookoutTiles4.name=神殿瓷磚方塊
+
+tile.BlockBuuInside.name=魔人布歐體內方塊
+tile.BlockInvisibleGlow.name=隱形發光方塊
+
+tile.BlockSmooth.name=光滑方塊
+tile.BlockRoofTile.name=屋瓦方塊
+
+tile.BlockMountainGrass.name=山地草方塊
+tile.BlockMountainStone1.name=山地石頭 #1
+tile.BlockMountainStone2.name=山地石頭 #2
+tile.BlockMountainStone3.name=山地石頭 #3
+tile.BlockMountainStone4.name=山地石頭 #4
+tile.BlockMountainStone5.name=山地石頭 #5
+
+tile.BlockXV2RailingStairs.name=XV2 欄杆樓梯
+tile.BlockXV2RailingStraight.name=XV2 直欄杆
+tile.BlockXV2RailingCorner.name=XV2 轉角欄杆
+tile.BlockXV2Stairs.name=XV2 樓梯
+tile.BlockXV2Center.name=XV2 中心方塊
+
+tile.BlockXV2GroundSymbol.name=XV2 地面符號
+tile.BlockXV2Desk.name=XV2 木桌
+
+tile.BlockXV2PillarBase.name=石柱基座
+tile.BlockXV2PillarBaseShaft.name=石柱基座軸
+tile.BlockXV2PillarShaft.name=石柱軸
+tile.BlockXV2PillarTop.name=石柱頂端
+
+tile.BlockCrateLow.name=§a低階 §7寶箱
+tile.BlockCrateMid.name=§e中階 §7寶箱
+tile.BlockCrateHigh.name=§c高階 §7寶箱
+tile.BlockCrateGod.name=§d神階 §7寶箱
+tile.BlockCrateVote.name=§9投票 §7寶箱
+tile.BlockCrateGolden.name=§6黃金 §7寶箱
+
+tile.BlockXV2Slab.name=XV2 半磚
+
+tile.BlockDragonBall.name=§6地球龍珠方塊
+tile.BlockNamekDragonBall.name=§6那美克星龍珠方塊
+tile.BlockBlackStarDragonBall.name=§8黑色 §c星 §6龍珠方塊
+
+itemGroup.ApolloItemTab=§6Dragon Block Apollo §e物品
+itemGroup.ApolloBlockTab=§6Dragon Block Apollo §a方塊
+itemGroup.ApolloArmorTab=§6Dragon Block Apollo §b護甲
+itemGroup.ApolloMaterialTab=§6Dragon Block Apollo §5材料
+
+item.saiyanS.name=§6賽亞人篇 §e靈魂§r
+item.namekS.name=§3第一階形態 §e靈魂§r
+item.androidS.name=§e人造人篇 §e靈魂§r
+item.cellS.name=§2第二階形態 §e靈魂§r
+item.babidiS.name=§5第三階形態 §e靈魂§r
+item.buuS.name=§d魔人布歐篇 §e靈魂§r
+
+item.food0.name=魚
+item.food1.name=綜合水果
+item.food2.name=米飯
+item.food3.name=穀物
+item.food4.name=野獸肉
+item.food5.name=異國料理
+item.food6.name=麵條
+item.food7.name=鳴門卷
+item.food8.name=雞蛋
+item.food9.name=螺帽與螺栓
+item.food10.name=金屬碎片
+item.food11.name=電線
+
+item.ZSoul.name=Z魂
+
+item.SenzuBeanK1.name=§a仙豆§r
+item.DinoMeat.name=§6恐龍§e肉§r
+item.DivineNoodles.name=§b神聖§e麵條§r
+
+item.VitadrinkK1.name=§a活力飲料 §e(S)§r
+item.VitadrinkK2.name=§a活力飲料 §e(M)§r
+item.VitadrinkK3.name=§a活力飲料 §e(L)§r
+
+item.KiStimulantK1.name=§b氣力§9興奮劑 §b(S)§r
+item.KiStimulantK2.name=§b氣力§9興奮劑 §b(M)§r
+item.KiStimulantK3.name=§b氣力§9興奮劑 §b(L)§r
+
+item.HealadeK1.name=§a治癒飲料§r
+item.HealadeK2.name=§6超級§a治癒飲料§r
+item.HealadeK3.name=§e究極§a治癒飲料§r
+
+item.CandyK1.name=§9專注糖果§r
+item.CandyK2.name=§b超級§9專注糖果§r
+item.CandyK3.name=§e究極§9專注糖果§r
+
+item.SupplementsK1.name=§a生命§e補充劑 §aα§r
+item.SupplementsK2.name=§a生命§e補充劑 §aβ§r
+item.SupplementsK3.name=§a生命§e補充劑 §aΩ§r
+
+item.PillsK1.name=§9能量§b膠囊 §9α§r
+item.PillsK2.name=§9能量§b膠囊 §9β§r
+item.PillsK3.name=§9能量§b膠囊 §9Ω§r
+
+item.beerusFish.name=§d§l比魯斯的 §e§l魚!§r
+item.spookyCandy.name=§4§l萬聖節§c§l糖果§r
+item.spookyCandy2.name=§4§l萬聖節§c§l棒棒糖§r
+item.jollyGingerBread.name=§4§l聖§f§l誕§4§l薑§f§l餅§4§l人§6§l餅乾§r
+item.jollyCandyCane.name=§4§l聖§f§l誕§4§l拐杖§c§l糖§f§l棒§r
+
+item.spookyEssence.name=§4§l萬聖節§5§l精華§r
+item.spookyEssenceMega.name=§b§l蒼藍§1§l萬聖節§5§l精華§r
+item.jolly_present.name=§4§l聖§f§l誕§4§l禮物§2§l盒§r
+item.jolly_present_collectable.name=§4§l聖§f§l誕§4§l收藏禮物§2§l盒§r
+item.anniversaryCoin.name=§e§l週年§d§l紀念幣§r
+
+item.frieza_force0.name=§6青銅§7弗利沙軍幣§r
+item.frieza_force1.name=§f白銀§7弗利沙軍幣§r
+item.frieza_force2.name=§e黃金§7弗利沙軍幣§r
+item.frieza_force3.name=§3白金§7弗利沙軍幣§r
+item.universe_60.name=§6青銅§c第6宇宙幣§r
+item.universe_61.name=§f白銀§c第6宇宙幣§r
+item.universe_62.name=§e黃金§c第6宇宙幣§r
+item.universe_63.name=§3白金§c第6宇宙幣§r
+
+item.spookyBasket.name=§4§l萬聖節§5§l籃子§r
+item.jollyPrizePresent0.name=§a§l神龍的§c§l禮物§r
+item.jollyPrizePresent1.name=§e§l憑證品牌§6§l組合包§r
+item.jollyPrizePresent2.name=§b§l寶箱鑰匙§a§l禮盒§r
+item.jollyPrizePresent3.name=§4§l聖誕節的§2§l特別 §e§l禮物§r
+
+item.tpBooster1.name=§9TP 加成劑 §7| §6+5%
+item.tpBooster1_.name=§9TP 加成劑 §7| §6+10%
+item.tpBooster2.name=§2TP 加成劑 §7| §6+20%
+item.tpBooster2_.name=§2TP 加成劑 §7| §6+30%
+item.tpBooster3.name=§dTP 加成劑 §7| §6+40%
+item.tpBooster3_.name=§dTP 加成劑 §7| §6+50%
+
+item.rZSoul0.name=§c強化§c形態§eZ魂§r
+item.rZSoul1.name=§c完全§c釋放§eZ魂§r
+item.rZSoul2.name=§c超級§c人類§eZ魂§r
+
+item.rZSoul3.name=§6超級§6賽亞人§eZ魂§r
+item.rZSoul4.name=§6超級§6賽亞人 §62 §eZ魂§r
+item.rZSoul5.name=§6超級§6賽亞人 §63 §eZ魂§r
+
+item.rZSoul6.name=§2巨大§2形態§eZ魂§r
+item.rZSoul7.name=§2完全§2釋放§eZ魂§r
+item.rZSoul8.name=§2超級§2那美克星人§eZ魂§r
+
+item.rZSoul9.name=§5第一形態§eZ魂§r
+item.rZSoul10.name=§5第二形態§eZ魂§r
+item.rZSoul11.name=§5第三形態§eZ魂§r
+item.rZSoul12.name=§5最終形態§eZ魂§r
+
+item.rZSoul13.name=§d邪惡§5魔人§eZ魂§r
+item.rZSoul14.name=§d成年§5魔人§eZ魂§r
+item.rZSoul15.name=§d超級§5魔人§eZ魂§r
+
+item.RisingSoul28.name=§4界王拳 x3 §cZ魂§r
+item.RisingSoul29.name=§4界王拳 x4 §cZ魂§r
+item.RisingSoul30.name=§4界王拳 x5 §cZ魂§r
+item.RisingSoul31.name=§4界王拳 x10 §cZ魂§r
+item.RisingSoul32.name=§4界王拳 x20 §cZ魂§r
+item.RisingSoul33.name=§4界王拳學徒§cZ魂§r
+item.RisingSoul34.name=§4界王拳專家§cZ魂§r
+
+item.ltt.name=§a低階§2代幣§r
+item.mtt.name=§e中階§6代幣§r
+item.htt.name=§c高階§4代幣§r
+item.gtt.name=§d神階§5代幣§r
+
+item.cgoggles.name=潮流墨鏡
+
+item.aloha_chest.name=§6夏威夷§e上衣§r
+item.aloha_legs.name=§6夏威夷§e褲子§r
+item.aloha_boots.name=§6夏威夷§e鞋子§r
+
+item.badman_chest.name=§d壞蛋上衣§r
+item.badman_legs.name=§d壞蛋褲子§r
+item.badman_boots.name=§d壞蛋鞋子§r
+
+item.postboy_chest.name=§a郵差§2上衣§r
+item.postboy_legs.name=§a郵差§2褲子§r
+item.postboy_boots.name=§a郵差§2鞋子§r
+
+item.santa_hat.name=§4聖§f誕§4帽§r
+item.santa_chest.name=§4聖§f誕§4上衣§r
+item.santa_legs.name=§4聖§f誕§4褲子§r
+item.santa_boots.name=§4聖§f誕§4鞋子§r
+
+item.elf_hat.name=§2精靈§c帽子§r
+item.elf_chest.name=§2精靈§c上衣§r
+item.elf_legs.name=§2精靈§c褲子§r
+item.elf_boots.name=§2精靈§c鞋子§r
+
+item.sugarPlum_chest.name=§d糖§b梅§b上衣§r
+item.sugarPlum_legs.name=§d糖§b梅§b褲子§r
+item.sugarPlum_boots.name=§d糖§b梅§b鞋子§r
+
+item.spook_gi_chest.name=§6萬聖節§0武道服§c上衣§r
+item.spook_gi_legs.name=§6萬聖節§0武道服§c褲子§r
+item.spook_gi_boots.name=§6萬聖節§0武道服§c鞋子§r
+
+item.goku_farmer_chest.name=§f悟空農夫§e上衣§r
+item.goku_farmer_legs.name=§f悟空農夫§e褲子§r
+item.goku_farmer_boots.name=§f悟空農夫§e鞋子§r
+
+item.tracksuit_chest.name=§2運動服§f上衣§r
+item.tracksuit_legs.name=§2運動服§f褲子§r
+item.tracksuit_boots.name=§2運動服§f鞋子§r
+
+item.galactic_patroller_chest.name=§e銀河§d巡邏隊上衣§r
+item.galactic_patroller_legs.name=§e銀河§d巡邏隊褲子§r
+item.galactic_patroller_boots.name=§e銀河§d巡邏隊鞋子§r
+
+item.tien_chest.name=§2天津飯§a上衣§r
+item.tien_legs.name=§2天津飯§a褲子§r
+item.tien_boots.name=§2天津飯§a鞋子§r
+
+item.krillin_chest.name=§6克林§7上衣§r
+item.krillin_legs.name=§6克林§7褲子§r
+item.krillin_boots.name=§6克林§7鞋子§r
+
+item.nbulma_chest.name=§9布瑪§3那美克§7上衣§r
+item.nbulma_legs.name=§9布瑪§3那美克§7褲子§r
+item.nbulma_boots.name=§9布瑪§3那美克§7鞋子§r
+
+item.nail_chest.name=§2尼爾§7上衣§r
+item.nail_legs.name=§2尼爾§7褲子§r
+item.nail_boots.name=§2尼爾§7鞋子§r
+
+
+item.yamcha_chest.name=§6雅木茶§7上衣§r
+item.yamcha_legs.name=§6雅木茶§7褲子§r
+item.yamcha_boots.name=§6雅木茶§7鞋子§r
+
+item.chiaotzu_chest.name=§2餃子§7上衣§r
+item.chiaotzu_legs.name=§2餃子§7褲子§r
+item.chiaotzu_boots.name=§2餃子§7鞋子§r
+
+item.vegeta_chest.name=§6貝吉塔§8上衣§r
+item.vegeta_legs.name=§6貝吉塔§8褲子§r
+item.vegeta_boots.name=§6貝吉塔§8鞋子§r
+
+item.raditz_chest.name=§6拉帝茲§7上衣§r
+item.raditz_legs.name=§6拉帝茲§7褲子§r
+item.raditz_boots.name=§6拉帝茲§7鞋子§r
+
+item.goku_chest.name=§6悟空§1上衣§r
+item.goku_legs.name=§6悟空§1褲子§r
+item.goku_boots.name=§6悟空§1鞋子§r
+
+item.piccolo_chest.name=§5比克§9上衣§r
+item.piccolo_legs.name=§5比克§9褲子§r
+item.piccolo_boots.name=§5比克§9鞋子§r
+
+item.nvegeta_chest.name=§9貝吉塔§3那美克§7上衣§r
+item.nvegeta_legs.name=§9貝吉塔§3那美克§7褲子§r
+item.nvegeta_boots.name=§9貝吉塔§3那美克§7鞋子§r
+
+item.nkrillin_chest.name=§6克林§3那美克§7上衣§r
+item.nkrillin_legs.name=§6克林§3那美克§7褲子§r
+item.nkrillin_boots.name=§6克林§3那美克§7鞋子§r
+
+item.bginyu_chest.name=§d基紐特戰隊 §8B §7上衣§r
+item.bginyu_legs.name=§d基紐特戰隊 §8B §7褲子§r
+item.bginyu_boots.name=§d基紐特戰隊 §8B §7鞋子§r
+
+item.wginyu_chest.name=§d基紐特戰隊 §fW §7上衣§r
+item.wginyu_legs.name=§d基紐特戰隊 §fW §7褲子§r
+item.wginyu_boots.name=§d基紐特戰隊 §fW §7鞋子§r
+
+item.future_trunks_chest.name=§3未來§9特南克斯§e上衣§r
+item.future_trunks_legs.name=§3未來§9特南克斯§e褲子§r
+item.future_trunks_boots.name=§3未來§9特南克斯§e鞋子§r
+
+item.goku_yardrat_chest.name=§6悟空§1亞德拉特星§9上衣§r
+item.goku_yardrat_legs.name=§6悟空§1亞德拉特星§9褲子§r
+item.goku_yardrat_boots.name=§6悟空§1亞德拉特星§9鞋子§r
+
+item.android19_chest.name=§e人造人 #19 §6上衣§r
+item.android19_legs.name=§e人造人 #19 §6褲子§r
+item.android19_boots.name=§e人造人 #19 §6鞋子§r
+
+item.android20_chest.name=§e人造人 #20 §6上衣§r
+item.android20_legs.name=§e人造人 #20 §6褲子§r
+item.android20_boots.name=§e人造人 #20 §6鞋子§r
+
+
+item.android13_chest.name=§9人造人 #13 §e上衣§r
+item.android13_legs.name=§9人造人 #13 §e褲子§r
+item.android13_boots.name=§9人造人 #13 §e鞋子§r
+
+item.bojack_chest.name=§a波傑克§5上衣§r
+item.bojack_legs.name=§a波傑克§5褲子§r
+item.bojack_boots.name=§a波傑克§5鞋子§r
+
+item.salza_chest.name=§d薩魯薩§9上衣§r
+item.salza_legs.name=§d薩魯薩§9褲子§r
+item.salza_boots.name=§d薩魯薩§9鞋子§r
+
+item.metamoran_chest.name=§c美達摩星§e上衣§r
+item.metamoran_legs.name=§c美達摩星§e褲子§r
+item.metamoran_boots.name=§c美達摩星§e鞋子§r
+
+item.tapion_chest.name=§2塔皮恩§6上衣§r
+item.tapion_legs.name=§2塔皮恩§6褲子§r
+item.tapion_boots.name=§2塔皮恩§6鞋子§r
+
+item.dgoku_chest.name=§e毀滅悟空§9上衣§r
+item.dgoku_legs.name=§e毀滅悟空§9褲子§r
+item.dgoku_boots.name=§e毀滅悟空§9鞋子§r
+
+item.turles_chest.name=§9圖爾斯§1上衣§r
+item.turles_legs.name=§9圖爾斯§1褲子§r
+item.turles_boots.name=§9圖爾斯§1鞋子§r
+
+item.slug_chest.name=§5史拉格§52大王§a上衣§r
+item.slug_legs.name=§5史拉格§52大王§a褲子§r
+item.slug_boots.name=§5史拉格§52大王§a鞋子§r
+
+
+item.zBroly_chest.name=§aZ §2布羅利§e上衣§r
+item.zBroly_legs.name=§aZ §2布羅利§e褲子§r
+item.zBroly_boots.name=§aZ §2布羅利§e鞋子§r
+
+item.goku_gt_chest.name=§3GT §b悟空§6上衣§r
+item.goku_gt_legs.name=§3GT §b悟空§6褲子§r
+item.goku_gt_boots.name=§3GT §b悟空§6鞋子§r
+
+item.trunks_gt_chest.name=§3GT §b特南克斯§9上衣§r
+item.trunks_gt_legs.name=§3GT §b特南克斯§9褲子§r
+item.trunks_gt_boots.name=§3GT §b特南克斯§9鞋子§r
+
+item.pan_gt_chest.name=§3GT §b潘§2上衣§r
+item.pan_gt_legs.name=§3GT §b潘§2褲子§r
+item.pan_gt_boots.name=§3GT §b潘§2鞋子§r
+
+item.vegeta_gt_chest.name=§3GT §b貝吉塔§c上衣§r
+item.vegeta_gt_legs.name=§3GT §b貝吉塔§c褲子§r
+item.vegeta_gt_boots.name=§3GT §b貝吉塔§c鞋子§r
+
+item.super_17_chest.name=§b超級 §317號 §c上衣§r
+item.super_17_legs.name=§b超級 §317號 §c褲子§r
+item.super_17_boots.name=§b超級 §317號 §c鞋子§r
+
+item.dgoku_gt_chest.name=§e毀滅 §3GT §b悟空§c上衣§r
+item.dgoku_gt_legs.name=§e毀滅 §3GT §b悟空§c褲子§r
+item.dgoku_gt_boots.name=§e毀滅 §3GT §b悟空§c鞋子§r
+
+item.patroller_chest.name=§9巡邏隊§e上衣§r
+item.patroller_legs.name=§9巡邏隊§e褲子§r
+item.patroller_boots.name=§9巡邏隊§e鞋子§r
+
+item.headBand.name=紅色頭巾
+item.headBand1.name=黃色頭巾
+item.headBand2.name=水藍色頭巾
+
+item.coat.name=悟空大衣 (DBS)
+item.coat2.name=貝吉塔大衣 (DBS)
+item.coat3.name=布瑪長袖 (DBS)
+
+item.enhanceShard.name=§7護甲強化§d碎片§r
+item.enhanceGem.name=§5護甲強化§d寶石§r
+
+item.enhanceRune0.name=普通強化符文
+item.enhanceRune1.name=非凡強化符文
+item.enhanceRune2.name=稀有強化符文
+item.enhanceRune3.name=神話強化符文
+item.enhanceRune4.name=傳說強化符文
+
+item.armorCoin0.name=§6賽亞人篇 §d裝備幣§r
+item.armorCoin1.name=§3那美克篇 §d裝備幣§r
+item.armorCoin2.name=§e人造人篇 §d裝備幣§r
+item.armorCoin3.name=§2沙魯篇 §d裝備幣§r
+item.armorCoin4.name=§5巴比迪篇 §d裝備幣§r
+item.armorCoin5.name=§d魔人布歐篇 §d裝備幣§r
+
+item.armorCoin51.name=§2劇場版組合 §a#1 §d裝備幣§r
+item.armorCoin52.name=§2劇場版組合 §a#2 §d裝備幣§r
+item.armorCoin53.name=§2劇場版組合 §a#3 §d裝備幣§r
+
+item.armorCoin60.name=§3GT§b篇 §d裝備幣§r
+
+item.character0.name=§f靈魂綁定§6轉生§8代幣§r
+item.character1.name=§6轉生§7代幣§r
+item.character2.name=§e職業§7變更§r
+item.character3.name=§c重置屬性§4代幣§r
+
+item.challengerSlot1.name=§d挑戰者§9擊殺上限升級 §e#1§r
+item.challengerSlot2.name=§d挑戰者§6擊殺上限升級 §e#2§r
+item.challengerSlot3.name=§d挑戰者§a擊殺上限升級 §e#3§r
+
+item.challengerRespawn1.name=§d挑戰者§9重生時間升級 §e#1§r
+item.challengerRespawn2.name=§d挑戰者§6重生時間升級 §e#2§r
+item.challengerRespawn3.name=§d挑戰者§a重生時間升級 §e#3§r
+
+item.challengerTimer1.name=§d挑戰者§9時間限制升級 §e#1§r
+item.challengerTimer2.name=§d挑戰者§6時間限制升級 §e#2§r
+item.challengerTimer3.name=§d挑戰者§a時間限制升級 §e#3§r
+
+item.characterSlot1.name=§d角色§a欄位 §e解鎖 #1 §a(第5欄)§r
+item.characterSlot2.name=§d角色§a欄位 §e解鎖 #2 §a(第6欄)§r
+
+item.titleScroll.name=稱號卷軸§r
+item.rankScroll.name=階級卷軸§r
+item.cosmeticBag.name=外觀背包§r
+
+## 額外方塊
+tile.BlockBlacksb.name=黑色染色石磚
+tile.BlockBluesb.name=藍色染色石磚
+tile.BlockBrownsb.name=棕色染色石磚
+tile.BlockCyansb.name=青色染色石磚
+tile.BlockGraysb.name=灰色染色石磚
+tile.BlockGreensb.name=綠色染色石磚
+tile.BlockLightbluesb.name=淺藍色染色石磚
+tile.BlockLimesb.name=淺綠色染色石磚
+tile.BlockMagentasb.name=洋紅色染色石磚
+tile.BlockOrangesb.name=橙色染色石磚
+tile.BlockPinksb.name=粉紅色染色石磚
+tile.BlockPurplesb.name=紫色染色石磚
+tile.BlockRedsb.name=紅色染色石磚
+tile.BlockLightgraysb.name=淺灰色染色石磚
+tile.BlockWhitesb.name=白色染色石磚
+tile.BlockYellowsb.name=黃色染色石磚
+
+tile.BlockBlackCarvedSb.name=黑色染色雕刻石磚
+tile.BlockBlueCarvedSb.name=藍色染色雕刻石磚
+tile.BlockBrownCarvedSb.name=棕色染色雕刻石磚
+tile.BlockCyanCarvedSb.name=青色染色雕刻石磚
+tile.BlockGrayCarvedSb.name=灰色染色雕刻石磚
+tile.BlockGreenCarvedSb.name=綠色染色雕刻石磚
+tile.BlockLightblueCarvedSb.name=淺藍色染色雕刻石磚
+tile.BlockLimeCarvedSb.name=淺綠色染色雕刻石磚
+tile.BlockMagentaCarvedSb.name=洋紅色染色雕刻石磚
+tile.BlockOrangeCarvedSb.name=橙色染色雕刻石磚
+tile.BlockPinkCarvedSb.name=粉紅色染色雕刻石磚
+tile.BlockPurpleCarvedSb.name=紫色染色雕刻石磚
+tile.BlockRedCarvedSb.name=紅色染色雕刻石磚
+tile.BlockLightgrayCarvedSb.name=淺灰色染色雕刻石磚
+tile.BlockWhiteCarvedSb.name=白色染色雕刻石磚
+tile.BlockYellowCarvedSb.name=黃色染色雕刻石磚
+
+tile.BlockBlackCrackedSb.name=黑色染色裂紋石磚
+tile.BlockBlueCrackedSb.name=藍色染色裂紋石磚
+tile.BlockBrownCrackedSb.name=棕色染色裂紋石磚
+tile.BlockCyanCrackedSb.name=青色染色裂紋石磚
+tile.BlockGrayCrackedSb.name=灰色染色裂紋石磚
+tile.BlockGreenCrackedSb.name=綠色染色裂紋石磚
+tile.BlockLightblueCrackedSb.name=淺藍色染色裂紋石磚
+tile.BlockLimeCrackedSb.name=淺綠色染色裂紋石磚
+tile.BlockMagentaCrackedSb.name=洋紅色染色裂紋石磚
+tile.BlockOrangeCrackedSb.name=橙色染色裂紋石磚
+tile.BlockPinkCrackedSb.name=粉紅色染色裂紋石磚
+tile.BlockPurpleCrackedSb.name=紫色染色裂紋石磚
+tile.BlockRedCrackedSb.name=紅色染色裂紋石磚
+tile.BlockLightgrayCrackedSb.name=淺灰色染色裂紋石磚
+tile.BlockWhiteCrackedSb.name=白色染色裂紋石磚
+tile.BlockYellowCrackedSb.name=黃色染色裂紋石磚
+
+tile.BlockBlackMossySb.name=黑色染色青苔石磚
+tile.BlockBlueMossySb.name=藍色染色青苔石磚
+tile.BlockBrownMossySb.name=棕色染色青苔石磚
+tile.BlockCyanMossySb.name=青色染色青苔石磚
+tile.BlockGrayMossySb.name=灰色染色青苔石磚
+tile.BlockGreenMossySb.name=綠色染色青苔石磚
+tile.BlockLightblueMossySb.name=淺藍色染色青苔石磚
+tile.BlockLimeMossySb.name=淺綠色染色青苔石磚
+tile.BlockMagentaMossySb.name=洋紅色染色青苔石磚
+tile.BlockOrangeMossySb.name=橙色染色青苔石磚
+tile.BlockPinkMossySb.name=粉紅色染色青苔石磚
+tile.BlockPurpleMossySb.name=紫色染色青苔石磚
+tile.BlockRedMossySb.name=紅色染色青苔石磚
+tile.BlockLightgrayMossySb.name=淺灰色染色青苔石磚
+tile.BlockWhiteMossySb.name=白色染色青苔石磚
+tile.BlockYellowMossySb.name=黃色染色青苔石磚
+
+tile.BlockBlackpl.name=黑色染色木板
+tile.BlockBluepl.name=藍色染色木板
+tile.BlockBrownpl.name=棕色染色木板
+tile.BlockCyanpl.name=青色染色木板
+tile.BlockGraypl.name=灰色染色木板
+tile.BlockGreenpl.name=綠色染色木板
+tile.BlockLightbluepl.name=淺藍色染色木板
+tile.BlockLimepl.name=淺綠色染色木板
+tile.BlockMagentapl.name=洋紅色染色木板
+tile.BlockOrangepl.name=橙色染色木板
+tile.BlockPinkpl.name=粉紅色染色木板
+tile.BlockPurplepl.name=紫色染色木板
+tile.BlockRedpl.name=紅色染色木板
+tile.BlockLightgraypl.name=淺灰色染色木板
+tile.BlockWhitepl.name=白色染色木板
+tile.BlockYellowpl.name=黃色染色木板
+
+tile.BlockGlassacaciacross.name=相思木玻璃十字
+tile.BlockGlassbigoakcross.name=深色橡木玻璃十字
+tile.BlockGlassbirchcross.name=樺木玻璃十字
+tile.BlockGlassjunglecross.name=叢林木玻璃十字
+tile.BlockGlassoakcross.name=橡木玻璃十字
+tile.BlockGlasssprucecross.name=杉木玻璃十字
+
+tile.BlockGlassacaciacircle.name=相思木玻璃圓形
+tile.BlockGlassbigoakcircle.name=深色橡木玻璃圓形
+tile.BlockGlassbirchcircle.name=樺木玻璃圓形
+tile.BlockGlassjunglecircle.name=叢林木玻璃圓形
+tile.BlockGlassoakcircle.name=橡木玻璃圓形
+tile.BlockGlasssprucecircle.name=杉木玻璃圓形
+
+tile.BlockGlassAcaciaDiamond.name=相思木玻璃菱形
+tile.BlockGlassBigOakDiamond.name=深色橡木玻璃菱形
+tile.BlockGlassBirchDiamond.name=樺木玻璃菱形
+tile.BlockGlassJungleDiamond.name=叢林木玻璃菱形
+tile.BlockGlassOakDiamond.name=橡木玻璃菱形
+tile.BlockGlassSpruceDiamond.name=杉木玻璃菱形
+
+tile.BlockBlackbr.name=黑色染色磚塊
+tile.BlockBluebr.name=藍色染色磚塊
+tile.BlockBrownbr.name=棕色染色磚塊
+tile.BlockCyanbr.name=青色染色磚塊
+tile.BlockGraybr.name=灰色染色磚塊
+tile.BlockGreenbr.name=綠色染色磚塊
+tile.BlockLightbluebr.name=淺藍色染色磚塊
+tile.BlockLimebr.name=淺綠色染色磚塊
+tile.BlockMagentabr.name=洋紅色染色磚塊
+tile.BlockOrangebr.name=橙色染色磚塊
+tile.BlockPinkbr.name=粉紅色染色磚塊
+tile.BlockPurplebr.name=紫色染色磚塊
+tile.BlockRedbr.name=紅色染色磚塊
+tile.BlockLightgraybr.name=淺灰色染色磚塊
+tile.BlockWhitebr.name=白色染色磚塊
+tile.BlockYellowbr.name=黃色染色磚塊
