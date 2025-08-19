@@ -1,9 +1,10 @@
-# 1.0.1
+# 1.0.2
 SkillUtils.lang
 SUBEvents.lang
 ClientUtils.lang
 CharacterUtils.lang
 BridgeUtils.lang
+Strings.lang
 gui/CharacterCreation.lang
 gui/EscapeMenu.lang
 gui/GuiCustomInventory.lang
