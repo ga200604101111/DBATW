@@ -1,4 +1,4 @@
-# 1.0.3
+# 1.0.4
 SkillUtils.lang
 SUBEvents.lang
 ClientUtils.lang
@@ -9,6 +9,7 @@ ClientOverrides.lang
 ClientKeyHandler.lang
 ClientOverrides.lang
 JRMCoreKeyHandler.lang
+ClientProxy.lang
 gui/CharacterCreation.lang
 gui/EscapeMenu.lang
 gui/GuiCustomInventory.lang
