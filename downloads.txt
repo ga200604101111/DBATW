@@ -10,7 +10,6 @@ ClientKeyHandler.lang
 ClientOverrides.lang
 JRMCoreKeyHandler.lang
 ClientProxy.lang
-FileWalker.lang
 gui/CharacterCreation.lang
 gui/EscapeMenu.lang
 gui/GuiCustomInventory.lang
