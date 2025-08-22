@@ -45,10 +45,10 @@ Spook =萬聖節
 Reward Roll: =獎勵抽獎: 
  (Discarded)= (已丟棄)
  (Stat Sheet)= (屬性表)
-J=聖@mh=crateNames
-o=誕@mh=crateNames
-l=@mh=crateNames
-y =節 @mh=crateNames
+J=聖@mh=<clinit>
+o=誕@mh=<clinit>
+l=@mh=<clinit>
+y =節 @mh=<clinit>
 Saiyan =賽亞人 
 Namek =那美克 
 Android =人造人 
@@ -56,10 +56,10 @@ Cell =賽魯
 Babidi =巴比迪 
 Buu =魔人布歐 
 Battle =神
-of =與@mh=zoneNames@idx=1
+of =與@mh=<clinit>@idx=1
 Gods =神 
 Revival =復活
-of =的@mh=zoneNames@idx=5
+of =的@mh=<clinit>@idx=5
 Frieza =弗利沙 
 Universe =§r§第六
 6 =§r§b宇宙
