@@ -1,0 +1,66 @@
+# net.MCApolloNetwork.ApolloCrux.Client.GUI.CrateScreen
+You need to create a Character before you can use Crates!=你需要建立角色後才能使用寶箱!
+Character Data is still Loading!=角色數據仍在載入中!
+You need at least one Crate Key to Open this Crate!=你至少需要一把寶箱鑰匙才能開啟這個寶箱!
+Please wait for Data to Load!=請等待數據載入完成!
+You do not have enough Crate Keys to open this Quantity!=你的寶箱鑰匙不足，無法開啟這個數量!
+You cannot Convert for another =你需要再等待才能再次轉換 
+You're at the TP Cap, Opening Crates won't give any TP Rewards!=你已達到TP上限，開啟寶箱將不會獲得任何TP獎勵!
+Click to Confirm and Open Crates with discarded TP!=點擊確認，消耗廢棄TP開啟寶箱!
+Click to Open!=點擊開啟!
+Click to Spin Again!=點擊再抽一次!
+Click to Skip Opening Animation=點擊跳過開啟動畫
+Congratulations!=恭喜!
+You Won: =你獲得了: 
+Various Rewards...=多種獎勵...
+Crate Keys: =寶箱鑰匙: 
+Content of this Crate=寶箱內容
+Hover over any Item for Details=將滑鼠移到物品上以查看詳情
+Waiting for Server =正在等待伺服器 
+Rolling Data=抽獎數據
+Reward Data=獎勵數據
+Data=數據
+Above TP Cap, TP rewards will be Discarded=超過TP上限，TP獎勵將被丟棄
+TP Amount you will Receive: =你將獲得的TP數量: 
+TP Reward Range =TP 獎勵範圍 
+Your rewards will be calculated based on your Progress in the Saga=你的獎勵將依據劇情進度計算
+Error: =錯誤： 
+Rarity: = 稀有度: 
+Roll Chance: =抽中機率: 
+Open x=開啟 x
+Common=普通
+Uncommon=罕見
+Rare=稀有
+Mythic=神話
+Legendary=傳說
+Crate=寶箱
+Low-Tier =低階 
+Mid-Tier =中階 
+High-Tier =高階 
+God-Tier =神階 
+Vote =投票 
+Golden =黃金 
+Event =活動 
+Spook =萬聖節 
+Reward Roll: =獎勵抽獎: 
+ (Discarded)= (已丟棄)
+ (Stat Sheet)= (屬性表)
+J=聖@mh=crateNames
+o=誕@mh=crateNames
+l=@mh=crateNames
+y =節 @mh=crateNames
+Saiyan =賽亞人 
+Namek =那美克 
+Android =人造人 
+Cell =賽魯 
+Babidi =巴比迪 
+Buu =魔人布歐 
+Battle =神
+of =與@mh=zoneNames@idx=1
+Gods =神 
+Revival =復活
+of =的@mh=zoneNames@idx=5
+Frieza =弗利沙 
+Universe =§r§第六
+6 =§r§b宇宙
+Saga=篇

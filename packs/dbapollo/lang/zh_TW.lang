@@ -257,10 +257,10 @@ item.frieza_force0.name=§6青銅§7弗利沙軍幣§r
 item.frieza_force1.name=§f白銀§7弗利沙軍幣§r
 item.frieza_force2.name=§e黃金§7弗利沙軍幣§r
 item.frieza_force3.name=§3白金§7弗利沙軍幣§r
-item.universe_60.name=§6青銅§c第6宇宙幣§r
-item.universe_61.name=§f白銀§c第6宇宙幣§r
-item.universe_62.name=§e黃金§c第6宇宙幣§r
-item.universe_63.name=§3白金§c第6宇宙幣§r
+item.universe_60.name=§6青銅§c第六宇宙幣§r
+item.universe_61.name=§f白銀§c第六宇宙幣§r
+item.universe_62.name=§e黃金§c第六宇宙幣§r
+item.universe_63.name=§3白金§c第六宇宙幣§r
 
 item.spookyBasket.name=§4§l萬聖節§5§l籃子§r
 item.jollyPrizePresent0.name=§a§l神龍的§c§l禮物§r

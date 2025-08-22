@@ -1,4 +1,4 @@
-# 1.0.5
+# 1.0.6
 npc_names.txt
 SkillUtils.lang
 SUBEvents.lang
@@ -25,3 +25,6 @@ gui/Prompt.lang
 gui/SetInstance.lang
 gui/SettingsMenu.lang
 gui/SocialLinks.lang
+gui/Waypoints.lang
+gui/CustomButton.lang
+gui/CrateScreen.lang
