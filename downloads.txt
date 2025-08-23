@@ -1,4 +1,4 @@
-# 1.0.6
+# 1.0.7
 npc_names.txt
 SkillUtils.lang
 SUBEvents.lang
