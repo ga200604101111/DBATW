@@ -86,6 +86,7 @@ Battle of Gods=神與神
 Remaster =重製版
 BDay Event=生日活動
 lil's Birthday celebration=lil 的生日慶祝活動
+BoG Celebration=神與神慶典
 Easter Egg Shop Refresh=復活節彩蛋商店商品更新
 Daily Mission Bonus=每日任務獎勵
 Easter 2025 Title=2025 復活節稱號
