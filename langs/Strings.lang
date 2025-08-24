@@ -6,7 +6,8 @@ Early game players should be looking at the static value recovery items such as 
 Late game players should be looking at the percentage value recovery items such as the Healades and Focus Candies as you will benefit more from those recovery items=後期玩家應著重於 治癒飲料 和 專注糖果 這類百分比恢復的道具，這對你的回復效率更高。
 Struggling to find a use for vouchers? The VoucherShop is a place for you then! The Voucher Shop gives many unique items, with 3 varying shops! /warp vouchershop=正在煩惱不知怎麼使用兌換券嗎?那兌換券商店就是你的好去處! 這裡有多種獨特商品，並分為三個不同的商店! /warp vouchershop
 Need food? The Mall is the place for you! Go visit and buy glorious food, items, or furniture to deck out your faction's base! /warp mall=需要食物嗎? 那購物中心就是你的首選!　快去逛逛，並購買美味的食物、物品或家具，好好裝飾你的陣營基地吧! /warp mall
-O' mighty shenron grant my wish! You can gain tons of Z-Souls, Zeni and other amazing rewards! Spend wisely! /warp shenron=哦，強大的神龍，請實現我的願望! 你可以獲得海量的Z魂、賽尼和其他驚人獎勵! 記得妥善利用! /warp shenron
+O' mighty shenron grant my wish! You can gain tons of Z-Souls, Zeni and other amazing rewards! Spend wisely! /warp shenron=哦，強大的神龍，請實現我的願望! 你可以獲得海量的 Z魂、賽尼 和其他驚人獎勵! 記得妥善利用! /warp shenron
+Events come around every so often, Events are an amazing time to grind since you can gain tons of goodies! Grind lots, but be sure to keep track of when the Event ends!=活動會不時舉辦，活動是個絕佳的練功時機，因為你可以獲得一大堆好東西! 努力刷寶吧，但也別忘了留意活動何時結束!
 If you are loving this server, come hang out with everybody on our discord! Type /discord for an invite.=如果你喜歡這個伺服器，快來加入我們的 Discord 與大家聊天吧! 輸入 /discord 取得邀請連結。
 If you feel like supporting the servers development, you can donate and gain extra perks on the server. /buy=如果你想支持伺服器的開發，可以選擇贊助，並獲得額外的伺服器福利。 /buy
 Patroller Quests got a whole other touch-up once again, the dev-team gave them a much needed make-over, giving them Gear Coin drops and TP now, Make sure you stay caught up in quests!=巡邏員任務再次全面翻新，開發團隊為其帶來急需的改版，現在可掉落裝備幣與 TP，記得保持任務進度!
@@ -27,8 +28,8 @@ Fun Fact! You can hover over most menu text and items to get useful information 
 Fun Fact! There's over 700 Achievements for you to "achieve", many of them give Rewards.=小知識: 伺服器中有超過 700 個成就可供解鎖，許多成就會給你額外獎勵。
 Did You Know? The Bank allows you to store excess items when your faction base or ender-chest runs out of room. /warp bank=你知道嗎? 當你幫派基地或終界箱空間不足時，可以將多餘物品存進銀行。 /warp bank
 Did You Know? The Crates are a nice way to gain TP, Zeni, Vouchers or Dragon Blocks, spend them wisely! Crate Tokens can be exchanged for keys in each Crate Zone=你知道嗎? 寶箱是獲得 TP、賽尼、兌換券或龍珠的好方法。 記得妥善使用! 寶箱代幣可在各寶箱區兌換成鑰匙。
-Voting will give you a vote crate key and 500 Zeni per vote! If you vote on all sites you get an extra 500 Zeni! Be sure to do them daily.=每次投票可獲得一把投票寶箱鑰匙與 500 賽尼。 如果在所有網站都投票，還可額外獲得 500 賽尼。 記得每天都去投票!
-Did You Know? The Help Menu has loads of detailed information! Make sure you read it just in case, you might learn some new things! /help or from popo in the escape menu=你知道嗎? 說明選單中有大量詳細資訊。 建議你讀一讀，也許能學到新東西。 /help 或在選單中的 popo 點開查看
+Did You Know? Voting will give you a vote crate key and 500 Zeni per vote! If you vote on all sites you get an extra 500 Zeni! Be sure to do them daily.=你知道嗎? 每次投票可獲得一把投票寶箱鑰匙與 500 賽尼。 如果在所有網站都投票，還可額外獲得 500 賽尼。 記得每天都去投票!
+Did You Know? The Help Menu has loads of detailed information! Make sure you read it just in case, you might learn some new things! /help or from popo in the escape menu=你知道嗎? 說明選單中有大量詳細資訊。 建議你讀一讀，也許能學到新東西。 /help 或在選單中的 波波 點開查看
 Did You Know? After completing cool tasks you can gain titles to show everyone on the server how good you are, be sure to check them via /title help=你知道嗎? 完成酷炫任務後可以獲得頭銜，向全服展示你的實力。 輸入 /title help 查看詳情
 Did You Know? The TP Conversion bot lets you upgrade your TP for less clicking! /warp tpconversion=你知道嗎? TP 轉換機器人可以幫你省下大量點擊來升級 TP。 /warp tpconversion
 Did You Know? Kaioken is unlocked at /warp kaioken! However there are certain quests you have to complete to unlock each stage.=你知道嗎? 界王拳可在 /warp kaioken 解鎖。 不過每個階段都需要完成特定任務。
@@ -47,6 +48,12 @@ Did You Know? Certain challengers have a chance to transform, giving you another
 Did You Know? You can track how many Challengers you've defeated with /achieve challengers=你知道嗎? 你可以用 /achieve challengers 追蹤已擊敗的挑戰者數量。
 Did You Know? You can see how many quests you've completed with /achieve quests=你知道嗎? 使用 /achieve quests 可查看你已完成的任務數量。
 Did You Know? There's Dragon Blocks to collect in most of the quest areas, you can see how many there is with /achieve collectibles=你知道嗎? 大多數任務區域中都有龍珠可收集。 使用 /achieve collectibles 查看總數。
+Did You Know? Many of the locations you go to in the server will give you an achievement along with a reward, you can see this list with /achieve locations=你知道嗎? 你在伺服器中造訪的許多地點，都會給你一個成就和獎勵，你可以用指令 /achieve locations 來查看這個清單。
+Did You Know? You can collect Gear Sets and track how many you have or are missing with /achieve other gear=你知道嗎? 你可以收集裝備套裝，並用指令 /achieve other gear 來追蹤你已經擁有多少，或是還缺少哪些。
+Did You Know? You can configure tons of visuals in the Client Settings Menu, accessible through the Cog Wheel in the Stat Sheet=你知道嗎? 你可以在客戶端設定中調整大量的視覺效果，這個選單可以透過狀態表中的齒輪圖標來進入。
+Did You Know? You can change the theme of your Interface, find these options in the Interface Settings!=你知道嗎? 你可以更改介面的主題，這些選項可以在介面設定中找到!
+Did You Know? There's tons of options you can toggle in your Client Settings regarding lots of visuals of the server!=你知道嗎? 在你的客戶端設定中，有大量關於伺服器視覺效果的選項可以讓你切換。
+Did You Know? You can see Waypoints all around the Server guiding you to useful locations!=你知道嗎? 你可以在伺服器中看到各處的路徑點，它們會引導你到有用的地點!
 # 死亡訊息
 Goku: "Power comes in response to a need, not a desire. You have to create that need."=悟空: "力量是對需求的回應，而不是慾望。 你必須創造出那個需求。 "
 Android 16: "It is not a sin to fight for the right cause. There are those who words alone will not reach."=人造人16號: "為正確的理由而戰不是罪。 有些人單靠言語是無法感化的。 "

@@ -1,201 +1,282 @@
-§b§lInstance #3 §e§lLos Angeles, US=§b§l伺服器 #3 §e§l美國，洛杉磯
-§6"/server us3" or "/us3" to join§r=§6輸入 "/server us3" 或 "/us3" 即可加入§r
+§a§lInstance Portals=§a§l伺服器傳送門
+
 §b§lInstance #1 §e§lNew York, US=§b§l伺服器 #1 §e§l美國，紐約
 §6"/server us1" or "/us1" to join§r=§6輸入 "/server us1" 或 "/us1" 即可加入§r
+
 §b§lInstance #2 §e§lDallas, US=§b§l伺服器 #2 §e§l美國，達拉斯
 §6"/server us2" or "/us2" to join§r=§6輸入 "/server us2" 或 "/us2" 即可加入§r
+
+§b§lInstance #3 §e§lLos Angeles, US=§b§l伺服器 #3 §e§l美國，洛杉磯
+§6"/server us3" or "/us3" to join§r=§6輸入 "/server us3" 或 "/us3" 即可加入§r
+
 §b§lInstance #4 §2§lFrankfurt, DE=§b§l伺服器 #4 §2§l德國，法蘭克福
 §6"/server eu1" or "/eu1" to join§r=§6輸入 "/server eu1" 或 "/eu1" 即可加入§r
+
 §b§lInstance #5 §b§lLondon, UK=§b§l伺服器 #5 §b§l英國，倫敦
 §6"/server eu2" or "/eu2" to join§r=§6輸入 "/server eu2" 或 "/eu2" 即可加入§r
+
 §b§lInstance #6 §9§lSydney, AU=§b§l伺服器 #6 §9§l澳洲，雪梨
 §6"/server au1" or "/au1" to join§r=§6輸入 "/server au1" 或 "/au1" 即可加入§r
-<In Tribute to Akira Toriyama>=<向鳥山明老師致敬>
+
 ToriBot=ToriBot
-§a§lInstance Portals=§a§l伺服器傳送門
+<In Tribute to Akira Toriyama>=<向鳥山明老師致敬>
+
+§e§l^^^ §b§lPortals §e§l^^^^=§e§l^^^ §b§l傳送門 §e§l^^^^
 §e§l<--- §b§lUS1 / US2 / US3 §f§l||| §b§lEU1 / EU2 / AU1 §e§l-->§r=§e§l<--- §b§lUS1 / US2 / US3 §f§l||| §b§lEU1 / EU2 / AU1 §e§l-->§r
+§6§l/server US1 / US2 / US3 / EU1 / EU2 / AU1§r=§6§l/server US1 / US2 / US3 / EU1 / EU2 / AU1§r
 §eStep here §6to go back to the Start!=§e傳送到此處 §6返回起點!
-§eStep here §6to go to the §bEU1 / EU2 / AU2 §6Portals!=§e站在這裡 §6即可前往 §bEU1 / EU2 / AU2 §6傳送門!
-§eStep here §6to go back to the Center!=§e站在這裡 §6返回中心!
 §eStep here §6to go to the §aSnakeWay Parkour Course§6!=§e站在這裡 §6即可前往 §a蛇道跑酷§6!
 §eStep here §6to go to the §bUS1 / US2 / US3 §6Portals!=§e站在這裡 §6即可前往 §bUS1 / US2 / US3 §6傳送門!
 §eStep here §6to go to the Center!=§e站在這裡 §6前往中心!
-§e§l^^^ §b§lPortals §e§l^^^^=§e§l^^^ §b§l傳送門 §e§l^^^^
-§6§l/server US1 / US2 / US3 / EU1 / EU2 / AU1§r=§6§l/server US1 / US2 / US3 / EU1 / EU2 / AU1§r
-<Punching Machine Info>=<拳擊機資訊>
+§eStep here §6to go to the §bEU1 / EU2 / AU2 §6Portals!=§e站在這裡 §6即可前往 §bEU1 / EU2 / AU2 §6傳送門!
+§eStep here §6to go back to the Center!=§e站在這裡 §6返回中心!
+
 World Tournament Announcer=世界錦標賽播報員
+<Punching Machine Info>=<拳擊機資訊>
+
+Goten [Hair Change]=悟天 [改變髮型]
+
 §e<!> §6Punching §cMachine §e<!>=§e<!> §6拳擊§c機 §e<!>
+
 §c[§6Punching Machines§c]=§c[§6拳擊機§c]
 §7Punching Machine can be done once per day,=§7拳擊機每天可使用一次，
 §7they can be used to measure damage at anytime=§7它們隨時可用來測量傷害
+
 §fLevel-Tiers=§f等級層級
+§elv. 0 §7- §61§7, §elv. 300 §7- §62§7, §elv. 1,000 §7- §63§7=§elv. 0 §7- §61§7, §elv. 300 §7- §62§7, §elv. 1,000 §7- §63§7
+§elv. 5,000 §7- §64§7, §elv. 10,000 §7- §65§7, §elv. 25,000 §7- §66§7,=§elv. 5,000 §7- §64§7, §elv. 10,000 §7- §65§7, §elv. 25,000 §7- §66§7,
+§elv. 50,000 §7- §67§7, §elv. 100,000 §7- §68§7, §elv. 150,000 §7- §69§7,=§elv. 50,000 §7- §67§7, §elv. 100,000 §7- §68§7, §elv. 150,000 §7- §69§7,
+§elv. 200,000 §7- §610§7, §elv. 250,000 §7- §611§7=§elv. 200,000 §7- §610§7, §elv. 250,000 §7- §611§7
 §7Math | "damage * (tier * 1.25)"§r = §7計算 | "傷害 * (層級 * 1.25)"§r
+
 <§eRight Click §bto Return to the Crate Area in Conton!>=<§e右鍵點擊 §b返回到康頓市的寶箱區域!>
 §d§lCrate §e§lTransporter=§d§l寶箱 §e§l傳送員
-§cBattle §6of §4Gods §eSaga=§c神§6與§c神 §e篇
+
 §eWalk in §ato be teleported to this Crate Zone§r=§e走進來 §a即可傳送到這個寶箱區域§r
-<§3Lead Architect§r>=<§3首席建築師§r>
-§cHercule Satan=§c沙旦先生
-<§3Architect§r>=<§3建築師§r>
-§dAudile§fVolatile=§dAudile§fVolatile
-<§eRight click §6me to open my menu!§r>=<§e右鍵點擊 §6我以開啟選單!§r>
-§aCrate §eInformation §bBot=§a寶箱 §e資訊 §b機器人
-§eInteract §awith the Bot for Information on Crates§r=§e與機器人互動以獲取寶箱資訊§r
-§aCrate §eTrade §bBot=§a寶箱 §e交易 §b機器人
-<§4§lEvent Trader§r>=<§4§l活動 商人§r>
-§4§lJ§f§lo§4§ll§f§l§f§ll§4§ly §d§lWhis=§4§l聖§f§l聖§4§l節 §d§l維斯
-<Spook 2024 Event>=<萬聖節 2024 活動>
-PreciseRook (Designer)=PreciseRook (設計師)
-§2Jolly §4Crate=§2聖誕節 §4寶箱
-§eOpen §2Jolly §4Keys §ehere!§r=§e在這裡打開 §2聖誕節 §4鑰匙§e!§r
-§dBuu §5Saga=§d魔人布歐§5篇
-§9Vote §1Crate=§9投票 §1寶箱
-§eOpen §9Vote §1Keys §ehere!§r=§e在這裡打開 §9投票 §1鑰匙§e!§r
-§eGolden §9Vote §bCrate=§e黃金 §9投票 §b寶箱
-§eOpen §eGolden §9Vote §bKeys §ehere!§r=§e在這裡打開 §e黃金 §9投票 §b鑰匙§e!§r
-§6Saiyan §eSaga=§6賽亞人§e篇
-Kat_The_Neko (Scaler)=Kat_The_Neko (模型縮放師)
+
 §e§lCrates=§e§l寶箱
 §eUse your crate tokens/keys here!§r=§e在這裡使用你的寶箱代幣/鑰匙!§r
-§eRevival §6of §dFrieza §bSaga=§e復活§6的§dF§d篇
-§cUniverse §b6 §eSaga=§c第六宇宙§e篇
+
+§cHercule Satan=§c撒旦先生
+<§3Lead Architect§r>=<§3首席建築師§r>
+
+§dAudile§fVolatile=§dAudile§fVolatile
+<§3Architect§r>=<§3建築師§r>
+
+§aCrate §eInformation §bBot=§a寶箱§e資訊 §b機器人
+<§eRight click §6me to open my menu!§r>=<§e右鍵點擊 §6我來開啟選單!§r>
+
+§aCrate §eTrade §bBot=§e兌換§a寶箱 §b機器人
+§eInteract §awith the Bot for Information on Crates§r=§e與機器人互動以獲取寶箱資訊§r
+
+§6Saiyan §eSaga=§6賽亞人§e篇
 §3Namek §9Saga=§3那美克星§9篇
-<U6 Event Trader>=<第六宇宙 活動商人>
-Jaco=傑科
-<RoF Event Trader>=<復活的F 活動商人>
-Tagoma (Ginyu)=塔可馬 (基紐小隊)
-§dEvent §eCrate=§d活動 §e寶箱
-§eOpen §dEvent §eKeys §ehere!§r=§e在這裡打開 §d活動 §e鑰匙§e!§r
-<Battle of Gods Event Trader>=<神與神 活動商人>
-Wryy=Wryy
-§eUpcoming Super Sagas=§e即將推出的 超篇
-§eComing Soon...§r=§e即將登場...§r
 §eAndroid §bSaga=§e人造人§b篇
 §aCell §2Saga=§a沙魯§2篇
+§8Babidi §5Saga=§8巴比迪§5篇
+§dBuu §5Saga=§d魔人布歐§5篇
+
+§cBattle §6of §4Gods §eSaga=§c神§6與§c神§e篇
+§eRevival §6of §dFrieza §bSaga=§e復活§6的§dF§d篇
+§cUniverse §b6 §eSaga=§c第六宇宙§e篇
+§eUpcoming Super Sagas=§e即將推出的 超篇
+§eComing Soon...§r=§e即將登場...§r
+
+§dEvent §eCrate=§d活動 §e寶箱
+§eOpen §dEvent §eKeys §ehere!§r=§e在這裡打開 §d活動 §e鑰匙§e!§r
+
+Jaco=傑科
+<U6 Event Trader>=<第六宇宙 活動商人>
+Tagoma (Ginyu)=塔可馬 (基紐小隊)
+<RoF Event Trader>=<復活的F 活動商人>
+Wryy=Wryy
+<Battle of Gods Event Trader>=<神與神 活動商人>
+
 §6Spook §4Crate=§6萬聖節§4寶箱
 §eOpen §6Spook §4Keys §ehere!§r=§e在這裡打開 §6萬聖節 §4鑰匙§e!§r
-§8Babidi §5Saga=§8巴比迪§5篇
-<§eRight Click §bto Transport around Conton!>=<§e右鍵點擊 §b在昆頓市內移動!>
+
+PreciseRook (Designer)=PreciseRook (設計師)
+Kat_The_Neko (Scaler)=Kat_The_Neko (模型縮放師)
+<Spook 2024 Event>=<萬聖節 2024 活動>
+
+§2Jolly §4Crate=§2聖誕節 §4寶箱
+§eOpen §2Jolly §4Keys §ehere!§r=§e在這裡打開 §2聖誕節 §4鑰匙§e!§r
+
+§4§lJ§f§lo§4§ll§f§l§f§ll§4§ly §d§lWhis=§4§l聖§f§l聖§4§l節 §d§l維斯
+<§4§lEvent Trader§r>=<§4§l活動 商人§r>
+
+§9Vote §1Crate=§9投票 §1寶箱
+§eOpen §9Vote §1Keys §ehere!§r=§e在這裡打開 §9投票 §1鑰匙§e!§r
+
+§eGolden §9Vote §bCrate=§e黃金§9投票 §b寶箱
+§eOpen §eGolden §9Vote §bKeys §ehere!§r=§e在這裡打開 §e黃金§9投票 §b鑰匙§e!§r
+
 §a§lConton §e§lTransporter=§a§l昆頓市§e§l傳送員
+<§eRight Click §bto Transport around Conton!>=<§e右鍵點擊 §b在昆頓市內移動!>
+
+§clil=§clil
+<§eServer Owner§r>=<§e伺服器擁有者§r>
+
+Bulma=布瑪
+<Skill Giver>=<技能給予者>
+
+§e§lDaily Missions & §6§lPunching Machines=§e§l每日任務 與 §6§l拳擊機
+§e/warp daily | /warp punching=§e/warp daily | /warp punching
+§7Partake in Daily Missions for Vouchers=§7參與每日任務可獲得 代金卷
+§7Gain TP depending on your damage with Punching Machines§r=§7使用拳擊機依據傷害獲得 TP§r
+
+§a§lMall & §e§lCrates=§a§l商城 與 §e§l寶箱
+§e/warp mall | /warp crates=§e/warp mall | /warp crates
+§7Purchase blocks & items from various shops=§7從各種商店購買方塊與物品
+§7Use Crate Keys or convert your Crate Tokens§r=§7使用寶箱鑰匙或兌換寶箱代幣§r
+
+§eDaily Mission §6Man=§e每日任務 §6發放員
+<§eInteract to claim your daily missions!§r>=<§e互動以領取每日任務!§r>
+
+§d§lWhis=§d§l維斯
+<§eRight Click §bto transport to Whis Training!>=<§e右鍵點擊 §b傳送至維斯修行!>
+
+§c§lGoku, Trunks, and Pan=§c§l悟空、特南克斯與小芳
+<§eRight Click §bto transport to Primal Training!>=<§e右鍵點擊 §b傳送至原始修行!>
+
+§4§lTP §c§lConversion §4§lBot=§4§lTP §c§l兌換 §4§l機器人
+§eConvert your §4§lTP §eto higher tiers!=§e將你的 §4§lTP §e兌換成更高級別!
+§7"/apollo TPConvert" can Convert from anywhere (Demi God+ Command)§r=§7輸入 "/apollo TPConvert" 可在任何地方兌換 (半神以上指令)§r
+
+§2TP §eConversion Bot=§2TP §e兌換機器人
+<§eRight click §fme to convert your TP Gems!§r>=<§e右鍵點擊 §f我來兌換你的TP寶石!§r>
+
 §2§lZeni §a§lConversion §2§lBot=§2§l賽尼 §a§l兌換 §2§l機器人
 §eConvert §2§lZeni §eor store §2§lZeni §ehere!=§e在此兌換或存放 §2§l賽尼§e!
 §7Zeni Trade Bot to the right=§7右側的賽尼交易機器人
 §7"/apollo ZeniConvert" can Convert from anywhere (Demi God+ Command)§r=§7輸入 "/apollo ZeniConvert" 可在任何地方兌換 (半神以上指令)§r
-<§eRight click §fme to convert your Zeni!§r>=<§e右鍵點擊 §f我來兌換你的賽尼!§r>
+
 §eZeni §2Conversion Bot=§e賽尼 §2兌換機器人
-<§eRight click §fme to open my menu!§r>=<§e右鍵點擊 §f我來開啟選單!§r>
+<§eRight click §fme to convert your Zeni!§r>=<§e右鍵點擊 §f我來兌換你的賽尼!§r>
+
 §3Zeni Trade Bot=§3賽尼交易機器人
+
+<§eRight click §fme to open my menu!§r>=<§e右鍵點擊 §f我來開啟選單!§r>
+
 §9§lRecovery §3§lItem §9§lShop=§9§l回復 §3§l物品 §9§l商店
 §eBuy Recovery items here!=§e在此購買回復物品!
 §7The Food Shop is across the way!§r=§7食物商店就在對面!§r
+
 §3Recovery Item Shop=§3回復物品商店
-§4§lTP §c§lConversion §4§lBot=§4§lTP §c§l兌換 §4§l機器人
-§eConvert your §4§lTP §eto higher tiers!=§e將你的 §4§lTP §e兌換成更高級別!
-§7"/apollo TPConvert" can Convert from anywhere (Demi God+ Command)§r=§7輸入 "/apollo TPConvert" 可在任何地方兌換 (半神以上指令)§r
-<§eRight click §fme to convert your TP Gems!§r>=<§e右鍵點擊 §f我來兌換你的TP寶石!§r>
-§2TP §eConversion Bot=§2TP §e兌換機器人
-<§eRight Click §bto transport to Primal Training!>=<§e右鍵點擊 §b傳送至原始修行!>
-§c§lGoku, Trunks, and Pan=§c§l悟空、特南克斯與小芳
-§6§lShenron=§6§l神龍
-§e/warp shenron=§e/warp shenron
-§7Use your Earth & Namek Dragon Balls!§r=§7使用地球與那美克的龍珠!§r
-§a§lMall & §e§lCrates=§a§l商城 & §e§l寶箱
-§e/warp mall | /warp crates=§e/warp mall | /warp crates
-§7Purchase blocks & items from various shops=§7從各種商店購買方塊與物品
-§7Use Crate Keys or convert your Crate Tokens§r=§7使用寶箱鑰匙或兌換寶箱代幣§r
-<§eServer Owner§r>=<§e伺服器擁有者§r>
-§clil=§clil
-<Skill Giver>=<技能給予者>
-Bulma=布瑪
-§2§lZeni §a§lShop=§2§l賽尼 §a§l商店
-§eYou can spend tons of §2§lZeni §ehere!§r=§e你可以在此花費大量的 §2§l賽尼!§r
+
 §6§lFood §2§lShop=§6§l食物 §2§l商店
 §eBuy Food items here!=§e在此購買食物!
 §7The Recovery Item Shop is across the way!§r=§7回復物品商店就在對面!§r
-§3Zeni Shop #2=§3賽尼商店 #2
-§e§lDaily Missions & §6§lPunching Machines=§e§l每日任務 & §6§l拳擊機
-§e/warp daily | /warp punching=§e/warp daily | /warp punching
-§7Partake in Daily Missions for Vouchers=§7參與每日任務可獲得兌換券
-§7Gain TP depending on your damage with Punching Machines§r=§7使用拳擊機依據傷害獲得TP§r
-§3Zeni Shop #1=§3賽尼商店 #1
-<§eInteract to claim your daily missions!§r>=<§e互動以領取每日任務!§r>
-§eDaily Mission §6Man=§e每日任務 §6發放員
+
+§5Food Shop #1=§5食物商店 #1
 §5Food Shop #2=§5食物商店 #2
 §5Food Shop #3=§5食物商店 #3
-§5Food Shop #1=§5食物商店 #1
-<§eRight Click §bto transport to Whis Training!>=<§e右鍵點擊 §b傳送至維斯修行!>
-§d§lWhis=§d§l維斯
-<Side Quest>=<支線任務>
-Vegeta [Saiyan's New Pants]=貝吉塔 [賽亞人的新褲子]
-§3Capsule Corp Employee=§3膠囊公司員工
-§6§lPunching Machines=§6§l拳擊機
-§7Over this way or use "/warp punchingmachines"§r=§7往這邊走，或使用 "/warp punchingmachines"§r
-<Dragon Block C Mod Creator>=<龍珠 C 模組 作者>
-JinRyuu=JinRyuu
+
 §8§lBlack§7§lSmith=§8§l鐵匠§7§l舖
 §eTrade with the §8§lBlack§7§lSmith §eto get Enhancement Shards!=§e與 §8§l鐵匠 §e交易以獲取強化碎片!
 §eYou can also exchange enhance shards for gems here!§r=§e你也可以在這裡將強化碎片兌換為寶石!§r
-<§eInteract to exchange your armor for §7Enhancement §5Shards§r>=<§e互動以將你的盔甲兌換為 §7強化 §5碎片§r>
+
 §7Blacksmith §8Harald=§7鐵匠 §8哈拉德
-<Armor Market Teleporter>=<盔甲市場傳送員>
+<§eInteract to exchange your armor for §7Enhancement §5Shards§r>=<§e互動以將你的盔甲兌換為 §7強化 §5碎片§r>
+
 The Peddler=小販
-§3Seasonal Event cosmetic shop=§3季節性活動裝飾品店
-§3Update Event Cosmetic Shop=§3更新活動裝飾品店
+<Armor Market Teleporter>=<盔甲市場傳送員>
+
+§6§lShenron=§6§l神龍
+§e/warp shenron=§e/warp shenron
+§7Use your Earth & Namek Dragon Balls!§r=§7使用地球與那美克的龍珠!§r
+
+§2§lZeni §a§lShop=§2§l賽尼 §a§l商店
+§eYou can spend tons of §2§lZeni §ehere!§r=§e你可以在此花費大量的 §2§l賽尼!§r
+
+§3Zeni Shop #1=§3賽尼商店 #1
+§3Zeni Shop #2=§3賽尼商店 #2
+
+<Side Quest>=<支線任務>
+
+Vegeta [Saiyan's New Pants]=貝吉塔 [賽亞人的新褲子]
+
+§3Capsule Corp Employee=§3膠囊公司員工
+
+§6§lPunching Machines=§6§l拳擊機
+§7Over this way or use "/warp punchingmachines"§r=§7往這邊走，或使用 "/warp punchingmachines"§r
+
+JinRyuu=JinRyuu
+<Dragon Block C Mod Creator>=<龍珠 C 模組 作者>
+
 §6§lVoucher §e§lShop=§6§l兌換券 §e§l商店
 §eYou can spend §6§lVouchers §e§lhere!=§e你可以在此花費 §6§l兌換券!
 §eThere is multiple shops to purchase from!§r=§e有多家商店可供購買!§r
+
+§3Seasonal Event cosmetic shop=§3季節性活動裝飾品店
+§3Update Event Cosmetic Shop=§3更新活動裝飾品店
+
 §3Cosmetic Accessories Shop=§3配件店
 §3Cosmetic Clothing Shop=§3服飾店
 §3Voucher Shop=§3兌換券商店
+
 Krillin [Korin is all out]=克林 [貓仙人已無存貨]
-§b§lPatroller §3§lQuests=§b§l巡邏員 §3§l任務
-§eAlternate versions of the story quests!=§e故事任務的替代版本!
-§eReleases a saga at a time, with each super story-line addition§r=§e每次超級故事線更新時會釋出一個篇章§r
-<§eRight click §fme to open my menu! §eLeft click §fto unlock teleports!>=<§e右鍵點擊 §f我以開啟選單! §e左鍵點擊 §f解鎖傳送點!>
-§bPatroller §3Questing Bot§r=§b巡邏員 §3任務機器人§r
-§a§lGT §b§lQuests=§a§lGT §b§l任務
-§eFight through all of the GT story!=§e體驗完整的 GT 劇情!
-§eThe most recent expansion release§r=§e最新釋出的擴充內容§r
-§bGT Expansion §2Story-Line§r=§bGT 擴充 §2故事線§r
+
+<§eRight click §fto open my menu!§r>=<§e右鍵點擊 §f開啟選單!§r>
+
+§dChallenger Bot§r=§d挑戰者機器人§r
+
+§eGreat §aSaiyaman §e(Upgrades Trader)=§e偉大的 §a撒亞超人 §e(升級商人)
+
+§3Xeno Trunks§r=§3異界特蘭克斯§r
+<Admin - Head Quester>=<管理員 - 首席任務發放員>
+<§eRight click me §dto choose your challenger§r>=<§e右鍵點擊我 §d選擇你的挑戰者§r>
+
+<§eRight click §fme to open my menu! §eLeft click §fto unlock teleports!>=<§e左鍵點擊 §f解鎖傳送點! §e右鍵點擊 §f我來開啟選單!>
+
+§6Dragon Ball Z Story§r=§6龍珠 Z 劇情§r
+§eThe complete Z Story-line=§e完整的 Z 劇情
+§6§lZ Story §7§lQuests=§6§lZ 劇情 §7§l任務
+§eThe start of your questing journey§r=§e你任務旅程的開始§r
+§3Dragon Ball Super Story§r=§3龍珠超 劇情§r
 §b§lSuper Story §6§lQuests=§b§l超 劇情 §6§l任務
 §eA new saga typically releases with every major update§r=§e通常每次大型更新都會釋出新篇章§r
-§3Dragon Ball Super Story§r=§3龍珠超 劇情§r
-§a§lExpansion Story-Line News:=§a§l擴充故事線消息:
-§7Their is currently no announced Expansions at this moment=§7目前尚未有任何已公布的擴充內容
-§aDragon Ball §bGT Story §e(52 Quests)=§a龍珠 §bGT 劇情 §e(52 任務)
-§7Black Star Saga, Baby Saga=§7黑星龍珠篇、貝比篇
-§7Super 17 Saga, and Shadow Dragon Saga§r=§7超 17 號篇、邪惡龍篇§r
+
+§b§lStory Quests News:=§b§l劇情任務消息:
+§7Future Saga §6will be in the next update (1.3)=§7未來篇 §6將於下次更新 (1.3) 推出
+§6Dragon Ball Z Story §e(72 Quests)=§6龍珠 Z 劇情 §e(72 個任務)
+§7Saiyan Saga, Namek Saga, Cell Saga, and Buu Saga=§7賽亞人篇、那美克篇、沙魯篇 與 布歐篇
+§3Dragon Ball Super Story §e(41 Quests)=§3龍珠超 劇情 §e(41 個任務)
+§7Battle of Gods Saga, Revival of Frieza, and U6 Saga§r=§7神與神篇、復活的Z篇 與 第六宇宙篇§r
+
+§bPatroller §3Questing Bot§r=§b巡邏員 §3任務機器人§r
+§b§lPatroller §3§lQuests=§b§l巡邏員 §3§l任務
+§eAlternate versions of the story quests!=§e故事任務的替代版本!
+§eReleases a saga at a time, with each super story-line addition§r=§e每次超故事線更新時會釋出一個篇章§r
+
+§3§lPatroller §b§lStory-Line News:=§3§l巡邏員 §b§l故事線消息:
+§7Cell Saga (PQ), §6will be the next release!=§7沙魯篇 (PQ)，§6將會是下一個釋出內容!
+§bCurrent Patroller Story §e(22 Quests)=§b目前巡邏員故事 §e(22 個任務)
+§6Saiyan §bSaga (PQ) §e(6 Quests)=§6賽亞人 §b篇章 (PQ) §e(6 個任務)
+§3Namek §bSaga (PQ) §e(9 Quests)=§3那美克 §b篇章 (PQ) §e(9 個任務)
+§eAndroid §bSaga (PQ) §e(7 Quests)§r=§e人造人 §b篇章 (PQ) §e(7 個任務)§r
+
+§2Movie Story-Lines§r=§2劇場版 故事線§r
 §2§lMovie §a§lQuests=§2§l劇場版 §a§l任務
 §eFight through the classic movies you know and love!=§e體驗那些你熟悉並喜愛的經典劇場版!
 §eMovie Sagas release in sets of 3 (sagas) through Movie Packs§r=§e劇場版篇以三部一組的方式透過劇場版合集釋出§r
-§2Movie Story-Lines§r=§2劇場故事線§r
-§3§lPatroller §b§lStory-Line News:=§3§l巡邏員 §b§l故事線消息:
-§7Cell Saga (PQ), §6will be the next release!=§7沙魯篇 (PQ)，§6將會是下一個釋出內容!=
-§bCurrent Patroller Story §e(22 Quests)=§b目前巡邏員故事 §e(22 任務)
-§6Saiyan §bSaga (PQ) §e(6 Quests)=§6賽亞人 §b篇章 (PQ) §e(6 任務)
-§3Namek §bSaga (PQ) §e(9 Quests)=§3那美克 §b篇章 (PQ) §e(9 任務)
-§eAndroid §bSaga (PQ) §e(7 Quests)§r=§e人造人 §b篇章 (PQ) §e(7 任務)§r
+
 §2§lMovie Story-Line News:=§2§l劇場版故事線消息:
-§7More to Follow!=§7更多即將推出!=
-§aMovie Pack #1 §e(27 Quests)=§a劇場版 #1 §e(27 任務)
-§7Cooler's Revenge | Super Android 13 | Bojack Unbound=§7克維拉的復仇 | 超級13號 | 銀河面臨危機
-§aMovie Pack #2 §e(26 Quests)=§a劇場版 #2 §e(26 任務)
+§7More to Follow!=§7即將推出更多!
+§aMovie Pack #1 §e(27 Quests)=§a劇場版 #1 §e(27 個任務)
+§7Cooler's Revenge | Super Android 13 | Bojack Unbound=§7克維拉的復仇 | 超級 13 號 | 銀河面臨危機
+§aMovie Pack #2 §e(26 Quests)=§a劇場版 #2 §e(26 個任務)
 §7The Return of Cooler | Wrath of The Dragon | Fusion Reborn=§7克維拉的回歸 | 龍拳爆發 | 復活的融合
-§aMovie Pack #3 §e(31 Quests)=§a劇場版 #3 §e(31 任務)
+§aMovie Pack #3 §e(31 Quests)=§a劇場版 #3 §e(31 個任務)
 §7Tree of Might | Lord Slug | Legendary Super Saiyan§r=§7神樹篇 | 斯拉格大王 | 傳說中的超級賽亞人§r
-§6Dragon Ball Z Story§r=§6龍珠 Z 劇情§r
-§6§lZ Story §7§lQuests=§6§lZ 劇情 §7§l任務
-§eThe complete Z Story-line=§e完整的 Z 劇情
-§eThe start of your questing journey§r=§e你任務旅程的開始§r
-§b§lStory Quests News:=§b§l劇情任務消息:
-§7Future Saga §6will be in the next update (1.3)=§7未來篇 §6將於下次更新 (1.3) 推出
-§6Dragon Ball Z Story §e(72 Quests)=§6龍珠Z 劇情 §e(72 任務)
-§7Saiyan Saga, Namek Saga, Cell Saga, and Buu Saga=§7賽亞人篇、那美克篇、沙魯篇與布歐篇
-§3Dragon Ball Super Story §e(41 Quests)=§3龍珠超 劇情 §e(41 任務)
-§7Battle of Gods Saga, Revival of Frieza, and U6 Saga§r=§7神與神篇、復活的Z篇與第六宇宙篇§r
-<§eRight click §fto open my menu!§r>=<§e右鍵點擊 §f開啟選單!§r>
-§dChallenger Bot§r=§d挑戰者機器人§r
-§eGreat §aSaiyaman §e(Upgrades Trader)=§e偉大的 §a撒亞超人 §e(升級商人)
-<Admin - Head Quester>=<管理員 - 首席任務發放員>
-<§eRight click me §dto choose your challenger§r>=<§e右鍵點擊我 §d選擇你的挑戰者§r>
-§3Xeno Trunks§r=§3異界特蘭克斯§r
+
+§bGT Expansion §2Story-Line§r=§bGT 擴充 §2故事線§r
+§a§lGT §b§lQuests=§a§lGT §b§l任務
+§eFight through all of the GT story!=§e體驗完整的 GT 劇情!
+§eThe most recent expansion release§r=§e最新釋出的擴充內容§r
+
+§a§lExpansion Story-Line News:=§a§l擴充故事線消息:
+§7Their is currently no announced Expansions at this moment=§7目前尚未有任何已公布的擴充內容
+§aDragon Ball §bGT Story §e(52 Quests)=§a龍珠 §bGT 劇情 §e(52 個任務)
+§7Black Star Saga, Baby Saga=§7黑星龍珠篇、貝比篇
+§7Super 17 Saga, and Shadow Dragon Saga§r=§7超級 17 號篇、邪惡龍篇§r
