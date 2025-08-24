@@ -1,6 +1,5 @@
-
-itemGroup.JRMCore=龍仁的模組核心
-itemGroup.jrhc=龍仁的髮型核心
+itemGroup.JRMCore=JinRyuu 的模組核心
+itemGroup.jrhc=JinRyuu 的髮型核心
 jinryuujrmcore.RemoveHair=移除自訂髮型
 
 jinryuujrmcore.Help=說明書
@@ -32,6 +31,9 @@ jinryuujrmcore.OK=確定
 jinryuujrmcore.Select=選擇
 jinryuujrmcore.Planet=星球
 jinryuujrmcore.Destinations=目的地
+
+jinryuujrmcore.OnDynamic=動態
+jinryuujrmcore.OnSimple=簡單
 
 jinryuujrmcore.Human=人類
 jinryuujrmcore.Saiyan=賽亞人
