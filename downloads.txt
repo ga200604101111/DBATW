@@ -1,4 +1,4 @@
-# 1.0.7
+# 1.0.8
 npc_names.txt
 SkillUtils.lang
 SUBEvents.lang
@@ -12,6 +12,7 @@ ClientOverrides.lang
 JRMCoreKeyHandler.lang
 ClientProxy.lang
 FileWalker.lang
+ConfigButtons.lang
 gui/CharacterCreation.lang
 gui/EscapeMenu.lang
 gui/GuiCustomInventory.lang
@@ -28,3 +29,6 @@ gui/SocialLinks.lang
 gui/Waypoints.lang
 gui/CustomButton.lang
 gui/CrateScreen.lang
+gui/HelpMenu.lang
+gui/JRMCoreHDBC.lang
+gui/QuickSelection.lang

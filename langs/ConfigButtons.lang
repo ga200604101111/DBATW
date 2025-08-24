@@ -1,0 +1,293 @@
+# net.MCApolloNetwork.ApolloCrux.Client.Utils.Config.ConfigButtons
+On=開
+Off=關
+Closed=摺疊
+Open=展開
+Graphic=圖形
+Interface=介面
+Sound=音效
+Player=玩家
+Back to Menu=返回選單
+Add More (=新增更多 (
+Reset=重置
+Back=上一頁
+Next=下一頁
+Aura=氣場
+Particle=粒子
+Character=角色
+Ki=氣
+Other=其他
+Display=顯示
+General=一般
+Health Bar=血條
+Quick Selection=快速選擇
+Ki Charge=集氣
+Hot Bar=快捷欄
+Lock-On=鎖定
+Crosshair=準星
+Action Menu=動作選單
+Waypoints=路徑點
+Other Interface=其他介面
+
+Player Auras: =玩家氣場: 
+Player Aura Opacity: =玩家氣場透明度: 
+First Person Aura Opacity: =第一人稱氣場透明度: 
+Player Auras while Charging or with Turbo: =玩家在蓄力或加速時的氣場: 
+Player Aura Flying Trail: =玩家氣場飛行軌跡: 
+Player Aura Flying Trail Opacity: =玩家氣場飛行軌跡透明度: 
+Npc Auras: =NPC氣場: 
+Npc Aura Opacity: =NPC氣場透明度: 
+Particle Amount: =粒子數量: 
+Player Particles: =玩家粒子: 
+Player Particle Opacity: =玩家粒子透明度: 
+First Person Particle Opacity: =第一人稱粒子透明度: 
+Stone Particles (Aura Debris): =石頭粒子 (氣場碎片): 
+Grass Particles (Aura Debris): =草屑粒子 (氣場碎片): 
+Dust Particles (Aura Debris): =灰塵粒子 (氣場碎片): 
+Npc Particles: =NPC粒子: 
+Npc Particle Opacity: =NPC粒子透明度: 
+Block Particles: =方塊粒子: 
+Block Particle Opacity: =方塊粒子透明度: 
+
+First Person Blocking Animations: =第一人稱格擋動畫: 
+Player Bruising Textures: =玩家瘀傷材質: 
+
+Ki 3D Explosions: =氣的 3D 爆炸: 
+Ki 2D Explosions: =氣的 2D 爆炸: 
+Ki Double Colors: =氣雙重顏色: 
+First Person Ki Animations: =第一人稱氣的動畫: 
+
+Hit Clash Effects: =擊打碰撞特效: 
+On Screen Swoop: =螢幕掃動: 
+Damage Indicators: =傷害指示: 
+
+Limit FPS while the game is Minimized: =遊戲最小化時限制 FPS: 
+FPS Limit while Minimized: =最小化時的FPS上限: 
+Pause World Render while the game is Minimized: =遊戲最小化時暫停世界渲染: 
+Limit FPS while the game is Not Focused: =遊戲未聚焦時限制 FPS: 
+FPS Limit while Not Focused: =未聚焦時的 FPS 上限: 
+Debug Level (f3): =除錯等級 (F3): 
+
+Play Sounds while the game is Minimized: =遊戲最小化時播放音效: 
+Play Sounds while the game is Not Focused: =遊戲未聚焦時播放音效: 
+
+Send basic system information on launch: =啟動時發送基本系統資訊: 
+
+Sub Page: =子頁面: 
+Global Opacity=全域透明度
+Global Scale=全域縮放
+Global Color=全域顏色
+Global Text Color=全域文字顏色
+
+- All Interface Theme Options =- 所有介面主題選項 
+All Interface Theme Color: =所有介面主題顏色: 
+All Interface Secondary Colors: =所有介面次要顏色: 
+All Interface Text Color: =所有介面文字顏色: 
+All Interface Scale: =所有介面縮放: 
+All Interface Opacity: =所有介面透明度: 
+
+- General Interface =- 一般介面 
+UI Render with Chat: =與聊天介面一起渲染 UI: 
+UI Render with Debug Screen (f3): =與除錯畫面 (F3) 一起渲染 UI: 
+Should the News Menu pop-up on first launch: =首次啟動時是否顯示新聞選單: 
+Show EXP Over Max: =顯示超過最大值的經驗: 
+Aggressively round Multiplier Display: =激進四捨五入倍率顯示: 
+Stat Sheet Show Original Stats: =屬性表顯示原始屬性: 
+
+- Loading Screen =- 載入畫面 
+Loading Screen Toggle: =切換載入畫面: 
+Loading Screen Animations: =載入畫面動畫: 
+Loading Screen Background: =載入畫面背景: 
+
+- Health Bar Theme Options =- 血條主題選項 
+Health Bar Design Theme: =血條設計主題: 
+Default=預設
+Classic 1.0=經典 1.0
+SpookFest=萬聖節
+Jolly=聖誕節
+Health Bar Theme Color: =血條主題顏色: 
+Health Bar Colors: =血條顏色: 
+Global Bar Color=全域條顏色
+Health Bar Text Color: =血條文字顏色: 
+Energy Bar Color based on Form: =根據形態的能量條顏色: 
+Release Color based on Form: =根據形態的爆發顏色: 
+Form Name Color based on Form: =根據形態的名稱顏色: 
+Gui Show Bar Visuals: =介面顯示條狀效果: 
+
+- Health Bar Position and Scale Options =- 血條位置與縮放選項 
+Health Bar Scale: =血條縮放: 
+Health Bar Opacity: =血條透明度: 
+Health Bar X Offset: =血條 X 偏移: 
+Health Bar Y Offset: =血條 Y 偏移: 
+Health Bars and Text X Offset: =血條與文字 X 偏移: 
+
+- Health Bar Customization Options =- 血條自訂選項 
+Health Bar Animations: =血條動畫: 
+Health Bar Value Animations: =血條數值動畫: 
+Health Bar Animation Rate: =血條動畫速度: 
+Health Bar Show Drain and Regen: =血條顯示消耗與回復: 
+Health Bar Show Percent: =血條顯示百分比: 
+Health Bar Show Only Percent: =血條僅顯示百分比: 
+Health Bar Show Readable Numbers: =血條顯示易讀數字: 
+Health Bar disappears outside of combat: =戰鬥外隱藏血條: 
+Health Bar out of combat time to disappear: =戰鬥外血條隱藏時間: 
+
+- Health Bar Toggle Options =- 血條顯示選項 
+Gui Show Health Text: =介面顯示生命文字: 
+Gui Show Energy Text: =介面顯示能量文字: 
+Gui Show Stamina Text: =介面顯示體力文字: 
+Gui Show Release Text: =介面顯示爆發文字: 
+Gui Show Battle Power Text: =介面顯示戰鬥力文字: 
+Gui Show Form Name Text: =介面顯示形態名稱文字: 
+
+- Quick Selection Theme Options =- 快速選擇主題選項 
+Quick Selection Theme Color: =快速選擇主題顏色: 
+Quick Selection Text Color: =快速選擇文字顏色: 
+
+- Quick Selection Position and Scale Options =- 快速選擇位置與縮放選項 
+Quick Selection Scale: =快速選擇縮放: 
+Quick Selection Opacity: =快速選擇透明度: 
+Quick Selection X Offset: =快速選擇 X 偏移: 
+Quick Selection Y Offset: =快速選擇 Y 偏移: 
+
+- Quick Selection Customization Options =- 快速選擇自訂選項 
+Quick Selection Animations: =快速選擇動畫: 
+Quick Selection Guide Text: =快速選擇指引文字: 
+Quick Selection Use Text: =快速選擇使用文字: 
+Quick Selection Page Icons: =快速選擇頁面圖示: 
+Quick Selection Inactivity Return: =快速選擇閒置返回: 
+Quick Selection Inactivity Return Time: =快速選擇閒置返回時間: 
+Quick Selection Recovery Show Amounts: =快速選擇回復顯示數量: 
+Quick Selection Recovery Show Flat Values: =快速選擇回復顯示固定數值: 
+Quick Selection Recovery Show Percent: =快速選擇回復顯示百分比: 
+
+- Ki Charging Theme Options =- 集氣中主題選項 
+Ki Charging Theme Color: =集氣中主題顏色: 
+Ki Charging Text Color: =集氣中文字顏色: 
+
+- Ki Charging Position and Scale Options =- 集氣中位置與縮放選項 
+Ki Charging Scale: =集氣中縮放: 
+Ki Charging Opacity: =集氣中透明度: 
+Ki Charging X Offset: =集氣中X偏移: 
+Ki Charging Y Offset: =集氣中Y偏移: 
+
+- Ki Charging Customization Options =- 集氣中自訂選項 
+Ki Charging Page Icons: =集氣中頁面圖示: 
+Ki Charging Animations: =集氣中動畫: 
+Ki Charging Ki Move Fired At Details: =集氣中氣功發動細節: 
+Ki Charging Ki Move Fired At Time: =集氣中氣功發動時間: 
+
+- Ki Charge Theme Options =- 集氣主題選項 
+Ki Charge Theme Color: =集氣主題顏色: 
+Ki Charge Text Color: =集氣文字顏色: 
+
+- Ki Charge Position and Scale Options =- 集氣位置與縮放選項 
+Ki Charge Scale: =集氣縮放: 
+Ki Charge Opacity: =集氣透明度: 
+
+- Hot Bar Theme Options =- 快捷欄主題選項 
+Hot Bar Theme Color: =快捷欄主題顏色: 
+Hot Bar Text Color: =快捷欄文字顏色: 
+
+- Hot Bar Position and Scale Options =- 快捷欄位置與縮放選項 
+Hot Bar Scale: =快捷欄縮放: 
+Hot Bar Opacity: =快捷欄透明度: 
+Hot Bar X Offset: =快捷欄 X 偏移: 
+Hot Bar Y Offset: =快捷欄 Y 偏移: 
+
+- Hot Bar Customization Options =- 快捷欄自訂選項 
+Hot Bar Show Item Name: =快捷欄顯示物品名稱: 
+Hot Bar Show Item Lore: =快捷欄顯示物品描述: 
+Hot Bar Should Text Fade: =快捷欄文字是否淡出: 
+Hot Bar Text Fade Time: =快捷欄文字淡出時間: 
+
+Lock-On Style: =鎖定樣式: 
+Lock-On Color: =鎖定顏色: 
+Lock-On Opacity: =鎖定透明度: 
+Lock-On Scale: =鎖定縮放: 
+Lock-On Animation: =鎖定動畫: 
+Lock-On Animation Speed: =鎖定動畫速度: 
+Lock-On Fades when close to target: =靠近目標時鎖定淡出: 
+Lock-On Distance to start fade: =開始淡出的鎖定距離: 
+
+Cursor Style: =鼠標樣式: 
+Crosshair Style: =準星樣式: 
+Crosshair Color: =準星顏色: 
+Crosshair Scale: =準星縮放: 
+Crosshair Opacity: =準星透明度: 
+Render Crosshair with Lock-On: =鎖定時渲染準星: 
+ 
+Action Menu Scale: =動作選單縮放: 
+Action Menu Opacity: =動作選單透明度: 
+Show Crosshair in Action Menu: =在動作選單中顯示準星: 
+Show Lock-On in Action Menu: =在動作選單中顯示鎖定: 
+
+- Waypoints Position and Scale Options =- 路徑點位置與縮放選項 
+Waypoints Scale: =路徑點縮放: 
+Waypoints Opacity: =路徑點透明度: 
+Waypoints X Offset: =路徑點 X 偏移: 
+Waypoints Y Offset: =路徑點 Y 偏移: 
+
+- Waypoints Customization Options =- 路徑點自訂選項 
+Waypoints Toggle All: =切換所有路徑點: 
+Waypoints Show Spawn & Hub Points: =顯示重生點與集散點: 
+Waypoints Show Shops (At Spawn): =顯示商店 (於重生點): 
+Waypoints Show Quest Points: =顯示任務點: 
+Waypoints Show Crate Points: =顯示箱子點: 
+Waypoints Show Whis / Primal Training Points: =顯示維斯 / 原始修行點: 
+Waypoints Show Dragon Block Points (With Radar): =顯示龍珠點 (配合雷達): 
+Waypoints Fade with Distance: =路徑點隨距離淡出: 
+Waypoints Distance Text: =路徑點距離文字: 
+
+- Action Log Options =- 快捷日誌選項 
+Action Log Scale: =快捷日誌縮放: 
+Action Log Opacity: =快捷日誌透明度: 
+Action Log X Offset: =快捷日誌 X 偏移: 
+Action Log Y Offset: =快捷日誌 Y 偏移: 
+Action Log Show Message Count: =快捷日誌顯示訊息數量: 
+Action Log Show Pop Up: =快捷日誌顯示彈出提示: 
+
+- Pop Up Message Options =- 彈出訊息選項 
+Pop Up Messages Toggle: =切換彈出訊息: 
+Pop Up Scale: =彈出訊息縮放: 
+Pop Up Opacity: =彈出訊息透明度: 
+Pop Up Messages Offset X: =彈出訊息 X 偏移: 
+Pop Up Messages Offset Y: =彈出訊息 Y 偏移: 
+Pop Up Messages Speed: =彈出訊息速度: 
+Pop Up Messages Animations: =彈出訊息動畫: 
+
+- Area Entered Message Options =- 區域進入訊息選項 
+Area Entered Messages Toggle: =切換區域進入訊息: 
+Area Entered Scale: =區域進入訊息縮放: 
+Area Entered Opacity: =區域進入訊息透明度: 
+Area Entered Messages Offset X: =區域進入訊息 X 偏移: 
+Area Entered Messages Offset Y: =區域進入訊息 Y 偏移: 
+Area Entered Messages Speed: =區域進入訊息速度: 
+Area Entered Messages Animations: =區域進入訊息動畫: 
+
+- Info Display Position and Scale Options =- 資訊顯示位置與縮放選項 
+Info Display Scale: =資訊顯示縮放: 
+Info Display Opacity: =資訊顯示透明度: 
+Info Display X Offset: =資訊顯示 X 偏移: 
+Info Display Y Offset: =資訊顯示 Y 偏移: 
+
+- Info Display Customization Options =- 資訊顯示自訂選項 
+Show Info Display on screen: =在螢幕上顯示資訊面板: 
+Show Info Display in Escape Menu: =在暫停選單中顯示資訊面板: 
+Info Display Show Top Line: =資訊顯示頂部文字: 
+Info Display Show Game Version: =資訊顯示遊戲版本: 
+Info Display Show Boosters: =資訊顯示增益效果: 
+Show FPS on Info Display: =在資訊面板顯示 FPS: 
+Show Average FPS on Info Display: =在資訊面板顯示平均 FPS: 
+Show Ping on Info Display: =在資訊面板顯示延遲: 
+Show Average Ping on Info Display: =在資訊面板顯示平均延遲: 
+Info Display Show Kill Count in Menu: =資訊顯示在選單中顯示擊殺數: 
+Info Display Show Time On Pack in Menu: =資訊顯示在選單中顯示整合包遊玩時間: 
+
+- Tip Message Options =- 提示訊息選項 
+Tip Message Toggle: =切換提示訊息: 
+Tip Message Scale: =提示訊息縮放: 
+Tip Message Opacity: =提示訊息透明度: 
+Tip Message X Offset: =提示訊息 X 偏移: 
+Tip Message Y Offset: =提示訊息 Y 偏移: 
+Tip Message Time Between Change (Seconds): =提示訊息切換間隔時間 (秒): 

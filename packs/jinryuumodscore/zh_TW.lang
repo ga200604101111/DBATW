@@ -1,0 +1,1128 @@
+
+itemGroup.JRMCore=龍仁的模組核心
+itemGroup.jrhc=龍仁的髮型核心
+jinryuujrmcore.RemoveHair=移除自訂髮型
+
+jinryuujrmcore.Help=說明書
+jinryuujrmcore.News=最新消息
+jinryuujrmcore.Update=更新
+jinryuujrmcore.Server=伺服器
+
+jinryuujrmcore.Main=主線
+jinryuujrmcore.Side=支線
+jinryuujrmcore.Group=團隊
+
+jinryuujrmcore.CoreServerConfigurations=核心伺服器控制設定
+jinryuujrmcore.Disabled=停用
+jinryuujrmcore.Enabled=啟用
+jinryuujrmcore.EnergyRegeneration=能量恢復
+jinryuujrmcore.HealthRegeneration=生命恢復
+jinryuujrmcore.PowerRelease=放出的氣
+jinryuujrmcore.EnergyCharge=補充能量
+jinryuujrmcore.ExpirienceGain=獲得經驗值
+jinryuujrmcore.TrainingPointGain=獲得訓練點數
+jinryuujrmcore.AttributeUpgradeType=屬性提升類型
+jinryuujrmcore.AttributeBasedSizeChange=屬性基礎大小修改
+jinryuujrmcore.Explosions=爆炸
+jinryuujrmcore.Speed=速度
+jinryuujrmcore.Off=關閉
+jinryuujrmcore.selectpwratcreator=於建立角色時選擇氣的能量形態。
+jinryuujrmcore.On=開啟
+jinryuujrmcore.OK=確定
+jinryuujrmcore.Select=選擇
+jinryuujrmcore.Planet=星球
+jinryuujrmcore.Destinations=目的地
+
+jinryuujrmcore.OnDynamic=動態
+jinryuujrmcore.OnSimple=簡單
+
+jinryuujrmcore.Human=人類
+jinryuujrmcore.Saiyan=賽亞人
+jinryuujrmcore.Half-Saiyan=混血賽亞人
+jinryuujrmcore.Namekian=納美克星人
+jinryuujrmcore.Arcosian=弗利沙種族
+jinryuujrmcore.Majin=魔人
+
+jinryuujrmcore.Race=種族
+jinryuujrmcore.Gender=性別
+jinryuujrmcore.Hair=髮型
+jinryuujrmcore.Style=外型
+jinryuujrmcore.Color=顏色
+jinryuujrmcore.Tail=尾巴
+jinryuujrmcore.PowerType=能量形態
+jinryuujrmcore.Years=年紀
+jinryuujrmcore.Child=小孩
+jinryuujrmcore.Teen=青少年
+jinryuujrmcore.YoungAdult=青年
+jinryuujrmcore.Adult=成年
+jinryuujrmcore.MiddleAged=中年
+jinryuujrmcore.Senior=老年
+
+jinryuujrmcore.Appearance=外觀
+jinryuujrmcore.Enable=開啟
+jinryuujrmcore.Disable=關閉
+jinryuujrmcore.DisabledType=已禁用類型
+jinryuujrmcore.DefaultSkin=預設外觀
+jinryuujrmcore.CustomSkin=自訂外觀
+jinryuujrmcore.BodyType=身體類型
+jinryuujrmcore.Nose=鼻子
+jinryuujrmcore.Mouth=嘴巴
+jinryuujrmcore.Eyes=眼睛
+jinryuujrmcore.Match=對稱
+jinryuujrmcore.CustomHair=自訂髮型
+jinryuujrmcore.BaseHair=基本髮型
+jinryuujrmcore.Reset=重設
+jinryuujrmcore.Yaw=左右轉動
+jinryuujrmcore.Pitch=上下轉動
+jinryuujrmcore.Share=分享
+jinryuujrmcore.Copy=複製
+jinryuujrmcore.Paste=貼上
+jinryuujrmcore.Done=完成
+jinryuujrmcore.Revert=還原
+jinryuujrmcore.FrontHead=前面
+jinryuujrmcore.RightHead=右側
+jinryuujrmcore.LeftHead=左側
+jinryuujrmcore.BackHead=後面
+jinryuujrmcore.TopHead=上面
+jinryuujrmcore.Preset=預設
+jinryuujrmcore.SavePreset=存為預設值
+jinryuujrmcore.DelPreset=刪除預設值
+jinryuujrmcore.hairRotations=旋轉
+jinryuujrmcore.hairXaxis=X軸
+jinryuujrmcore.hairYaxis=Y軸
+jinryuujrmcore.hairZaxis=Z軸
+jinryuujrmcore.hairLength=頭髮長度
+jinryuujrmcore.hairBend=彎曲
+jinryuujrmcore.hairBendpoint=彎曲點
+jinryuujrmcore.hairTransf=七龍珠模組形狀改變強度
+jinryuujrmcore.hairTier=層
+jinryuujrmcore.hairTierDesc=第一層選項為旋轉及長度, 第二層選項為彎曲屬性及七龍珠模組形狀改變強度
+jinryuujrmcore.hairHide=隱藏頭髮群組
+jinryuujrmcore.hairShow=顯示頭髮群組
+jinryuujrmcore.hairReset=預設值
+jinryuujrmcore.hairDoAllOn=重複模式開啟
+jinryuujrmcore.hairDoAllDesc=當卷軸變成灰色時, 會將變更複製到本頁所有的方塊上
+jinryuujrmcore.hairDoAllOff=重複模式關閉
+jinryuujrmcore.Preview=預覽
+jinryuujrmcore.HairSalon=美髮沙龍
+jinryuujrmcore.HairSalonDesc=開啟美髮沙龍的網站, 讓你能從 http://HairSalon.jingames.net 網站上瀏覽其他玩家的髮型
+jinryuujrmcore.HairShareDesc=複製你目前的髮型代碼到剪貼簿以在 http://HairSalon.jingames.net 網站上分享給其他人
+jinryuujrmcore.HairPasteDesc=從剪貼簿中貼上髮型代碼
+jinryuujrmcore.HairResetDesc=重設目前的髮型為所選髮型的預設值
+
+jinryuujrmcore.Male=男性
+jinryuujrmcore.Female=女性
+
+jinryuujrmcore.SwordArt=刀劍神域
+
+jinryuujrmcore.Natural=原始
+jinryuujrmcore.Ki=氣
+jinryuujrmcore.Ki Attack=氣功招式
+jinryuujrmcore.Ki Attack Charge=氣功招式集氣
+jinryuujrmcore.Chakra=査克拉
+jinryuujrmcore.NaturalDesc=基本的 Minecraft 介面, 除了外觀沒有添加任何東西 ！ (其它模組的相容性較好)
+jinryuujrmcore.KiDesc=七龍珠中的能量 ！ 如果要玩七龍珠的劇情故事, 要選這個 ！
+jinryuujrmcore.ChakraDesc=火影忍者中的能量 ！ 如果要玩火影忍者的劇情故事, 要選這個 ！
+
+jinryuujrmcore.Survival=生存模式
+jinryuujrmcore.SurvivalDesc=Minecraft 生存模式
+jinryuujrmcore.MartialArtist=武道家
+jinryuujrmcore.Spiritualist=氣功師
+jinryuujrmcore.Warrior=戰士
+jinryuujrmcore.MartialArtistDesc=§c體力§8與§9能量§8平衡的設定
+jinryuujrmcore.SpiritualistDesc=想要使用§9能量§8來戰勝敵人
+jinryuujrmcore.WarriorDesc=喜歡用§c體力§8和原始的力量來戰鬥
+
+jinryuujrmcore.Clanless=其它
+jinryuujrmcore.Hyuuga=日向
+jinryuujrmcore.Uchiha=宇智波
+jinryuujrmcore.ClanlessDesc=其他家族
+jinryuujrmcore.HyuugaDesc=日向家族
+jinryuujrmcore.UchihaDesc=宇智波家族
+
+jinryuujrmcore.Class=職類
+jinryuujrmcore.Clan=家族
+jinryuujrmcore.Super=超級賽亞人
+jinryuujrmcore.Normal=普通
+jinryuujrmcore.Hard=困難
+jinryuujrmcore.Insane=瘋狂
+jinryuujrmcore.NormalDesc=沒有死亡懲罰, 目前獲得 TP 的機率為 %1$s
+jinryuujrmcore.HardDesc=死亡懲罰 (隨機降低某一種屬性 1 點), 獲得 TP 的機率為 %1$s
+jinryuujrmcore.InsaneDesc=死亡懲罰 (隨機降低兩種屬性各 1 點), 獲得 TP 的機率為 %1$s
+
+jinryuujrmcore.TRState=形態
+jinryuujrmcore.Base=基本
+jinryuujrmcore.HForm1=全力狀態
+jinryuujrmcore.HForm2=肌肉強化
+jinryuujrmcore.HFormG=神級
+jinryuujrmcore.Super=超級賽亞人
+jinryuujrmcore.SuperG2=超級賽亞人第二階
+jinryuujrmcore.SuperG3=超級賽亞人第三階
+jinryuujrmcore.SuperFP=完全超級賽亞人
+jinryuujrmcore.Super2=超級賽亞人2
+jinryuujrmcore.Super3=超級賽亞人3
+jinryuujrmcore.Super4=超級賽亞人4
+jinryuujrmcore.Super5=超級賽亞人5
+jinryuujrmcore.SuperFalse=失敗的超級賽亞人
+jinryuujrmcore.UltraEgo=自我極意功
+jinryuujrmcore.NForm1=全力狀態
+jinryuujrmcore.NForm2=巨大化
+jinryuujrmcore.NFormG=神級
+jinryuujrmcore.Form0=最小
+jinryuujrmcore.Form1=第一段變身
+jinryuujrmcore.Form2=第二段變身
+jinryuujrmcore.Form3=第三段變身
+jinryuujrmcore.Form5=超級
+jinryuujrmcore.Form6=終極
+jinryuujrmcore.FormG=神的狀態
+jinryuujrmcore.Oozaru=大猩猩
+jinryuujrmcore.OozaruS=金色大猩猩
+jinryuujrmcore.SuperG=超級賽亞人之神
+jinryuujrmcore.SuperGR=超級賽亞人之神儀式
+jinryuujrmcore.SuperB=超級賽亞人藍
+jinryuujrmcore.SuperR=超級賽亞人玫瑰
+jinryuujrmcore.PotUnleashed=完全潛能
+jinryuujrmcore.SuperL=超級賽亞人綠
+jinryuujrmcore.SuperLB=最強力量的超級賽亞人綠
+jinryuujrmcore.SuperBS=超級賽亞人藍・進化
+jinryuujrmcore.SuperRS=超級賽亞人玫瑰・進化
+jinryuujrmcore.UInstinct=自在極意功
+jinryuujrmcore.GoDestruction=破壞神
+jinryuujrmcore.MForm1=邪惡
+jinryuujrmcore.MForm2=完全力量
+jinryuujrmcore.MForm3=純粹
+jinryuujrmcore.MFormG=神級
+jinryuujrmcore.MAbsorption=吸收
+
+jinryuujrmcore.ArcosianUltimateColor=弗利沙種族終極形態的顏色
+
+jinryuujrmcore.UCnam=屬性升級花費
+
+jinryuujrmcore.Modified=已修改
+jinryuujrmcore.Original=原始
+jinryuujrmcore.Strength=力量
+jinryuujrmcore.Dexterity=敏捷
+jinryuujrmcore.Constitution=體質
+jinryuujrmcore.WillPower=意志
+jinryuujrmcore.Mind=智力
+jinryuujrmcore.Spirit=精神
+jinryuujrmcore.Concentration=專注
+jinryuujrmcore.airBoxing=出拳訓練
+
+jinryuujrmcore.StrMC=增加攻擊力
+jinryuujrmcore.DexMC=增加速度
+jinryuujrmcore.ConMC=增加生命值
+
+jinryuujrmcore.StrDB=增加攻擊力
+jinryuujrmcore.DexDB=增加防禦力及速度
+jinryuujrmcore.ConDB=增加體力及耐力
+jinryuujrmcore.WilDB=增加氣的最大威力
+jinryuujrmcore.MndDB=增加氣的控制力及技能限制
+jinryuujrmcore.SpiDB=增加氣的量
+
+jinryuujrmcore.StrNC=體術傷害
+jinryuujrmcore.DexNC=體術速度
+jinryuujrmcore.ConNC=身體極限,速度和體形
+jinryuujrmcore.WilNC=忍術的控制與輸出
+jinryuujrmcore.MndNC=提升查克拉量
+jinryuujrmcore.SpiNC=增加技能槽
+
+jinryuujrmcore.Stats1Body=體力
+jinryuujrmcore.Stats2Speed=速度
+jinryuujrmcore.Stats3Stamina=耐力
+jinryuujrmcore.Stats4Max=氣的最大值
+jinryuujrmcore.Stats5Control=氣的控制力
+jinryuujrmcore.Stats6Regen=氣的回復力
+jinryuujrmcore.Stats7Defense=防禦力
+jinryuujrmcore.Stats8Melee=攻擊力
+
+jinryuujrmcore.NCStats1Body=體力
+jinryuujrmcore.NCStats2Speed=速度
+jinryuujrmcore.NCStats3Stamina=耐力
+jinryuujrmcore.NCStats4Max=查克拉量
+jinryuujrmcore.NCStats5Control=查克拉控制
+jinryuujrmcore.NCStats6Regen=查克拉恢復速度
+
+jinryuujrmcore.Level=等級
+jinryuujrmcore.LevelNext=於提升%1$s點屬性後可升級
+jinryuujrmcore.LevelMax=已達最高等級 ！
+jinryuujrmcore.Alignment=善惡
+jinryuujrmcore.AlignmentDesc=你還存有 %1$s 的善良
+jinryuujrmcore.SkillSysNext=學習或提升技能需要%1$s屬性 ！/n學習技能: %2$s
+jinryuujrmcore.SkillSysMax=你的智力已達極限 ！/n學習技能: %1$s
+
+jinryuujrmcore.needRacialSkillMax=你必須將種族技能練滿 ！
+jinryuujrmcore.cantLearnThis=你無法學習這個 ！
+jinryuujrmcore.Good=善良
+jinryuujrmcore.Neutral=中立
+jinryuujrmcore.Evil=邪惡
+jinryuujrmcore.Max=最大
+jinryuujrmcore.Current=目前
+jinryuujrmcore.PunchDamage=出拳傷害力
+jinryuujrmcore.meleeDamage=近戰傷害力
+jinryuujrmcore.NeedToBeGood=必須是100%%善良 ！
+
+jinryuujrmcore.skilldisabled=技能已禁用 ！
+jinryuujrmcore.specskilldisabled=%1$s技能已禁用 ！
+
+jinryuujrmcore.mleMC=攻擊力
+jinryuujrmcore.DefMC=防禦力
+jinryuujrmcore.heltMC=生命值
+
+jinryuujrmcore.mleNC=近戰傷害
+jinryuujrmcore.DefNC=防禦
+jinryuujrmcore.BdNC=體力
+jinryuujrmcore.StNC=耐力
+jinryuujrmcore.EnPwNC=查克拉輸出
+jinryuujrmcore.EnPlNC=查克拉量
+jinryuujrmcore.MxSkNC=最大技能
+jinryuujrmcore.SpNC=速度
+jinryuujrmcore.RBNC=身體恢復率
+jinryuujrmcore.RSNC=耐力恢復率
+jinryuujrmcore.RENC=查克拉恢復率
+
+jinryuujrmcore.mleDB=攻擊力
+jinryuujrmcore.DefDB=防禦力
+jinryuujrmcore.BdDB=體力
+jinryuujrmcore.StDB=耐力
+jinryuujrmcore.EnPwDB=氣的威力
+jinryuujrmcore.EnPlDB=最高氣量
+jinryuujrmcore.MxSkDB=最大技能數
+jinryuujrmcore.SpDB=奔跑
+jinryuujrmcore.RBDB=體力回復率
+jinryuujrmcore.RSDB=耐力回復率
+jinryuujrmcore.REDB=氣的回復率
+jinryuujrmcore.FSDB=飛行
+jinryuujrmcore.Stats=屬性值
+jinryuujrmcore.StatIncreaseDesc=§8增加《§c%1$s§8》屬性則可為這項數值增加 §9%2$s
+jinryuujrmcore.StatIncreaseDesc2=/n§8氣放到最大時的值 §c%3$s §8
+jinryuujrmcore.StatIncreaseDesc3=/n§8被動輸出 §2%4$s §8
+jinryuujrmcore.StatIncreaseDesc4=/n§8額外輸出 §5+%5$s §8
+jinryuujrmcore.StatIncreaseDesc5=/n§8受到的傷害降低 §5%3$s%% §8
+jinryuujrmcore.SpDBDesc=最快奔跑速度可達%1$s%%/n提升《%2$s》屬性及《%3$s》技能可增加速度
+jinryuujrmcore.FSDBDesc=最快飛行速度可達%1$s%%左右/n提升《%2$s》屬性及《%3$s》技能可增加速度
+jinryuujrmcore.Attributes=屬性
+jinryuujrmcore.StartAttr=起始屬性
+jinryuujrmcore.TP=TP
+jinryuujrmcore.TrainingPoints=目前的訓練點數
+jinryuujrmcore.RequiredTP=提升屬性所需的訓練點數為 %1$s
+jinryuujrmcore.AttributeMaxed=這個屬性已達最大值 ！
+jinryuujrmcore.AttributeAllMaxed=所有屬性已達最大值 ！
+jinryuujrmcore.LimitReached=達到限制 ！
+jinryuujrmcore.cantupgrade=你無法升級 ！
+
+jinryuujrmcore.youSlainBy=你已經被 %1$s 殺死了 ！
+jinryuujrmcore.youDied=你已經死了 ！
+jinryuujrmcore.slainBy=%1$s 被 %2$s 殺死了
+jinryuujrmcore.pDied=%1$s 已經死了 ！
+jinryuujrmcore.pDied2=%1$s 已經死了 ！ 所知的是在 %2$s 秒鐘前受到 %3$s 的攻擊 ！
+
+death.attack.OutOfBodyHealth.player=%1$s 被 %2$s 殺死了
+death.attack.OutOfBodyHealth=%1$s 的生命已經耗盡而死了
+death.attack.OutOfBodyHealth.player=%1$s 被 %2$s 殺死了
+death.attack.NotAlive=%1$s 已經死了
+death.attack.causeExplosion=%1$s 已被炸死了
+
+jinryuujrmcore.recivedinv=來自誰的邀請:
+jinryuujrmcore.form=成立新的團隊
+jinryuujrmcore.invite=邀請
+jinryuujrmcore.setleader=設定隊長
+jinryuujrmcore.kick=踢出
+jinryuujrmcore.disband=解散
+jinryuujrmcore.leave=離開
+jinryuujrmcore.leader=隊長
+jinryuujrmcore.Next=次頁
+jinryuujrmcore.Back=返回
+jinryuujrmcore.Prev=前頁
+jinryuujrmcore.Accept=接受
+jinryuujrmcore.Yes=是
+jinryuujrmcore.No=否
+
+jinryuujrmcore.delskillconfirm=確定要刪除「%1$s」這個技能嗎？
+
+jinryuujrmcore.reward=為何你要戰鬥？
+jinryuujrmcore.accept=接受
+jinryuujrmcore.decline=拒絕
+jinryuujrmcore.abandon=放棄
+
+jinryuujrmcore.Fight=戰鬥
+jinryuujrmcore.Skip=跳過
+jinryuujrmcore.Restart=重新開始
+jinryuujrmcore.start=開始
+jinryuujrmcore.Continue=繼續
+
+jinryuujrmcore.Update=更新
+jinryuujrmcore.noOneToTeach=沒有人傳授 ！
+jinryuujrmcore.teachingOffer=%1$s 提議以 %3$s TP 的代價來傳授"%2$s"招式。要接受就輸入指令 /jrmc accept
+jinryuujrmcore.teachingOfferAccepted=%1$s 接受了你傳授的"%2$s"招式 ！
+jinryuujrmcore.teachingOfferDeclined=%1$s 提議的"%2$s"招式傳授被拒絕了 ！
+jinryuujrmcore.teachingOfDeclByYou=你拒絕了 %1$s 提議的"%2$s"招式傳授 ！
+jinryuujrmcore.teachingOfDeclByPlayr=%1$s 已拒絕了你提議的招式傳授 ！
+jinryuujrmcore.nothingtoaccept=沒有事情可以接受 ！
+jinryuujrmcore.notenoughtp=訓練點數不足 ！
+jinryuujrmcore.typedWrong=你輸入的指令參數錯誤 ！
+
+jinryuujrmcore.noslotleft=沒有剩餘的空槽 ！
+jinryuujrmcore.nomindleft=沒有足夠的智力 ！
+jinryuujrmcore.alreadyhaveskill=你已擁有這項技能 ！
+jinryuujrmcore.skilladded=已加入 %1$s 技能 ！
+jinryuujrmcore.skillupped=要加入 %1$s 技能必須先將 %2$s 升級至等級1 ！
+jinryuujrmcore.skillallremoved=已移除所有技能 ！
+jinryuujrmcore.techadded=%1$s 的招式已加入 ！
+jinryuujrmcore.skillnameinvalid=技能名稱無效 ！
+
+jinryuujrmcore.SelectedDifficulty=選擇的難度
+jinryuujrmcore.KaioDiffRedLine=去找界王以降低難度
+jinryuujrmcore.TailMode=尾巴收放
+jinryuujrmcore.ArcMask=第五形態口罩
+jinryuujrmcore.ArcMaskOn=口罩開
+jinryuujrmcore.ArcMaskOff=口罩關
+jinryuujrmcore.Difficulty=難度
+jinryuujrmcore.MainAttributes=主要屬性
+jinryuujrmcore.CharSheet=人物資料表
+jinryuujrmcore.Skills=技能
+jinryuujrmcore.KiTechniques=氣功招式
+jinryuujrmcore.Jutsu=忍術
+jinryuujrmcore.Learn=學習
+jinryuujrmcore.Maxed=已最高
+jinryuujrmcore.UpgradeLocked=升級已鎖住
+jinryuujrmcore.NoUpgrade=不能升級
+jinryuujrmcore.AvailableSkillSlot=可用的技能槽
+jinryuujrmcore.AvailableMind=可用的智力
+jinryuujrmcore.Unlearn=刪除招式
+jinryuujrmcore.Teach=傳授
+jinryuujrmcore.Create=建立
+jinryuujrmcore.tooPowerful=這個招式太強了
+jinryuujrmcore.Changesomestats=修改部分屬性值
+jinryuujrmcore.Owned=已擁有
+jinryuujrmcore.Voice=音效
+jinryuujrmcore.AuraColor=氣場顏色
+
+jinryuujrmcore.Learned=已學習
+jinryuujrmcore.Selfmade=自創
+jinryuujrmcore.Slow=慢
+jinryuujrmcore.Average=中
+jinryuujrmcore.Fast=快
+jinryuujrmcore.VeryFast=非常快
+jinryuujrmcore.AlignmentBased=基於善惡
+jinryuujrmcore.white=白色
+jinryuujrmcore.blue=藍色
+jinryuujrmcore.purple=紫色
+jinryuujrmcore.red=紅色
+jinryuujrmcore.black=黑色
+jinryuujrmcore.green=綠色
+jinryuujrmcore.yellow=黃色
+jinryuujrmcore.orange=橘色
+jinryuujrmcore.magenta=洋紅色
+jinryuujrmcore.lightPink=淺粉紅色
+jinryuujrmcore.darkCyan=深青色
+jinryuujrmcore.lightCyan=淺青色
+jinryuujrmcore.darkGray=深灰色
+jinryuujrmcore.darkBlue=深藍色
+jinryuujrmcore.darkPurple=深紫色
+jinryuujrmcore.lightPurple=淺紫色
+jinryuujrmcore.darkRed=深紅色
+jinryuujrmcore.lightRed=淺紅色
+jinryuujrmcore.darkGreen=深綠色
+jinryuujrmcore.lightgreen=淺綠色
+jinryuujrmcore.darkYellow=深黃色
+jinryuujrmcore.lightYellow=淺黃色
+jinryuujrmcore.gold=金色
+jinryuujrmcore.lightOrange=淺橘色
+jinryuujrmcore.darkBrown=深棕色
+jinryuujrmcore.lightBrown=淺棕色
+
+jinryuujrmcore.brown=棕色
+jinryuujrmcore.cyan=青色
+jinryuujrmcore.silver=淺灰色
+jinryuujrmcore.gray=灰色
+jinryuujrmcore.pink=粉紅色
+jinryuujrmcore.lime=檸檬綠色
+jinryuujrmcore.lightBlue=淺藍色
+
+jinryuujrmcore.BodysuitColor=顏色
+
+jinryuujrmcore.Vanity=裝飾物
+
+item.ItemFabric.name=布料
+item.jrmc_vanity_0.name=苦力怕毛衣
+item.jrmc_vanity_1.name=終界使者毛衣
+item.jrmc_vanity_2.name=聖誕帽
+item.jrmc_vanity_3.name=聖誕毛衣
+item.jrmc_vanity_4.name=聖誕長版毛衣
+item.jrmc_vanity_5.name=聖誕褲
+item.jrmc_vanity_6.name=聖誕靴
+
+
+
+jinryuujrmcore.GroupManager=團隊管理
+jinryuujrmcore.ServerConfig=控制設定
+jinryuujrmcore.Calendar=日曆與天數
+jinryuujrmcore.Family=家族狀態與管理
+
+
+jinryuujrmcore.BarberMenu=修髮選單
+jinryuujrmcore.NoHairToEdit=這個種族沒有頭髮
+jinryuujrmcore.BarberSnC.line1=你可以用這個物品在任何時候修剪你的髮型。
+
+item.ItemBarberSnC.name=修髮剪刀和梳子
+
+entity.jinryuufamilyc.Child.name=a child
+
+jinryuujrmcore.ExtraSlots=額外的槽
+jinryuujrmcore.WeightSlot=負重
+jinryuujrmcore.trainingweightworn=目前重量
+jinryuujrmcore.weightreduction=數值減弱
+jinryuujrmcore.trainingweight=訓練重量
+jinryuujrmcore.trainingweightno=重物必須接受來自;神或界王那裡的訓練;去取得重物吧 ！
+
+jinryuujrmcore.Start=開始
+jinryuujrmcore.shadowdummy=分身訓練
+jinryuujrmcore.concentration=專注訓練
+jinryuujrmcore.shadowdummyDesc=分身訓練會複製一個與玩家一樣強的分身, 不過只有那個玩家才能與這個分身一起訓練並增加獲得的 TP。
+jinryuujrmcore.concentrationDesc=專注訓練小遊戲有限制遊戲中每日可索取的 TP。/n點擊藍色的球就可得分。/n點擊紅色的球則會扣分。/n而點擊到黑色的球除了扣分外, 還會減一條命。/n當分數低於零或生命用完時就會結束遊戲。/n得分會轉換為 TP。
+jinryuujrmcore.airBoxingDesc=出拳訓練小遊戲有限制遊戲中每日可索取的 TP。/n畫面會開始生成沿著軌道向左移動的按鍵符號。/n當按鍵到達左側框框時便按下對應的按鍵。/n若錯過的話按鍵就會變成紅色。
+jinryuujrmcore.Change=改變
+jinryuujrmcore.BPswap=戰鬥力
+jinryuujrmcore.BPswapDesc=你可以改變戰鬥力的計算方式為正常或是高。/n「正常」表示目前最精準的力量級數, 用於和其他玩家做比較。/n而「高」只是為了好玩, 荒謬的高戰鬥力其實並不準確。(客戶端專用)/n目前戰鬥力: %1$s
+jinryuujrmcore.BPHigh=高
+jinryuujrmcore.BPNormal=正常
+jinryuujrmcore.msnshare=任務分配
+
+entity.jinryuujrmcore.TrainingShadowDummy.name=影之分身
+jinryuujrmcore.Training=訓練
+jinryuujrmcore.TrainingDesc=訓練
+jinryuujrmcore.MediSkillCategory=冥想類別
+jinryuujrmcore.Active=主動
+jinryuujrmcore.Passive=被動
+jinryuujrmcore.Rate=比率
+jinryuujrmcore.CltSettings=客戶端設定
+jinryuujrmcore.CltSettingsDesc=客戶端設定可能會影響遊戲的玩法, 但是大部分的設定只是視覺上的改變。
+jinryuujrmcore.Notifications=通知
+
+jinryuujrmcore.BodySlot=身體
+jinryuujrmcore.HeadSlot=頭部
+
+
+jinryuujrmcore.restart=重新開始
+jinryuujrmcore.missionSys.Protect=為了保衛地球
+jinryuujrmcore.missionSys.Myself=為了自己
+jinryuujrmcore.missionSys.Evil=為了邪惡的因素
+
+jinryuujrmcore.missionObjType.completed=- 完成
+jinryuujrmcore.missionObjType.defeated=- 打敗
+jinryuujrmcore.missionObjType.nothinh=沒有目標
+jinryuujrmcore.missionObjType.kill=殺死 %1$s %2$s
+jinryuujrmcore.missionObjType.killsame=殺死 %1$s %2$s
+jinryuujrmcore.missionObjType.item=收集 %1$s %2$s
+jinryuujrmcore.missionObjType.biome=前往生態區 %1$s %2$s
+jinryuujrmcore.missionObjType.dim=前往世界 %1$s %2$s
+jinryuujrmcore.missionObjType.biome2=會在生態區 %1$s %2$s
+jinryuujrmcore.missionObjType.dim2=會在世界 %1$s %2$s
+jinryuujrmcore.missionObjType.state=提升到%1$s%2$s的狀態
+jinryuujrmcore.missionObjType.talk=與 %1$s %2$s 交談
+jinryuujrmcore.missionObjType.lvl=達到等級 %1$s %2$s
+jinryuujrmcore.missionObjType.anywilldo= (任何要做的事)
+
+jinryuujrmcore.missionRepeat.wait=你可以在%4$s天又%3$s小時%2$s分%1$s秒後重玩這個故事
+jinryuujrmcore.missionRepeat.not=這個故事不能重玩 ！
+jinryuujrmcore.missionUnlock=至少要完成下列的故事:
+
+tile.BlockBarrier.name=屏障方塊
+tile.BlockBorder.name=邊界方塊
+
+
+tile.stoneSingleSlab.name=灰色石台階
+tile.BlockColoredStone.black.name=黑色石
+tile.BlockColoredStone.red.name=紅色石
+tile.BlockColoredStone.green.name=綠色石
+tile.BlockColoredStone.brown.name=棕色石
+tile.BlockColoredStone.blue.name=藍色石
+tile.BlockColoredStone.purple.name=紫色石
+tile.BlockColoredStone.cyan.name=青色石
+tile.BlockColoredStone.silver.name=銀色石
+tile.BlockColoredStone.gray.name=灰色石
+tile.BlockColoredStone.pink.name=粉紅色石
+tile.BlockColoredStone.lime.name=萊姆色石
+tile.BlockColoredStone.yellow.name=黃色石
+tile.BlockColoredStone.lightBlue.name=淺藍色石
+tile.BlockColoredStone.magenta.name=洋紅色石
+tile.BlockColoredStone.orange.name=橘色石
+tile.BlockColoredStone.white.name=白色石
+tile.BlockFence.name=無法破壞的白色柵欄
+tile.BlockStairs.name=無法破壞的白色樓梯
+
+tile.stoneSingleSlab2.name=灰色石台階類型2
+tile.BlockColoredStone2.black.name=黑色石類型2
+tile.BlockColoredStone2.red.name=紅色石類型2
+tile.BlockColoredStone2.green.name=綠色石類型2
+tile.BlockColoredStone2.brown.name=棕色石類型2
+tile.BlockColoredStone2.blue.name=藍色石類型2
+tile.BlockColoredStone2.purple.name=紫色石類型2
+tile.BlockColoredStone2.cyan.name=青色石類型2
+tile.BlockColoredStone2.silver.name=銀色石類型2
+tile.BlockColoredStone2.gray.name=灰色石類型2
+tile.BlockColoredStone2.pink.name=粉紅色石類型2
+tile.BlockColoredStone2.lime.name=萊姆色石類型2
+tile.BlockColoredStone2.yellow.name=黃色石類型2
+tile.BlockColoredStone2.lightBlue.name=淺藍色石類型2
+tile.BlockColoredStone2.magenta.name=洋紅色石類型2
+tile.BlockColoredStone2.orange.name=橘色石類型2
+tile.BlockColoredStone2.white.name=白色石類型2
+tile.BlockFence2.name=無法破壞的白色柵欄類型2
+tile.BlockStairs2.name=無法破壞的白色樓梯類型2
+
+
+
+
+tile.Colorable Stone Pattern1_0.name=白色石(花紋1)
+tile.Colorable Stone Pattern1_1.name=橘色石(花紋1)
+tile.Colorable Stone Pattern1_2.name=紫紅色石(花紋1)
+tile.Colorable Stone Pattern1_3.name=淺藍色石(花紋1)
+tile.Colorable Stone Pattern1_4.name=黃色石(花紋1)
+tile.Colorable Stone Pattern1_5.name=黃綠色石(花紋1)
+tile.Colorable Stone Pattern1_6.name=粉紅色石(花紋1)
+tile.Colorable Stone Pattern1_7.name=深灰色石(花紋1)
+tile.Colorable Stone Pattern1_8.name=灰色石(花紋1)
+tile.Colorable Stone Pattern1_9.name=青色石(花紋1)
+tile.Colorable Stone Pattern1_10.name=紫色石(花紋1)
+tile.Colorable Stone Pattern1_11.name=藍色石(花紋1)
+tile.Colorable Stone Pattern1_12.name=棕色石(花紋1)
+tile.Colorable Stone Pattern1_13.name=綠色石(花紋1)
+tile.Colorable Stone Pattern1_14.name=紅色石(花紋1)
+tile.Colorable Stone Pattern1_15.name=黑色石(花紋1)
+
+tile.Colorable Stone Pattern1_0Fence.name=白色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_1Fence.name=橘色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_2Fence.name=紫紅色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_3Fence.name=淺藍色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_4Fence.name=黃色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_5Fence.name=黃綠色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_6Fence.name=粉紅色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_7Fence.name=深灰色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_8Fence.name=灰色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_9Fence.name=青色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_10Fence.name=紫色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_11Fence.name=藍色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_12Fence.name=棕色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_13Fence.name=綠色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_14Fence.name=紅色石柵欄(花紋1)
+tile.Colorable Stone Pattern1_15Fence.name=黑色石柵欄(花紋1)
+
+tile.Colorable Stone Pattern1_0Slab.name=白色石台階(花紋1)
+tile.Colorable Stone Pattern1_1Slab.name=橘色石台階(花紋1)
+tile.Colorable Stone Pattern1_2Slab.name=紫紅色石台階(花紋1)
+tile.Colorable Stone Pattern1_3Slab.name=淺藍色石台階(花紋1)
+tile.Colorable Stone Pattern1_4Slab.name=黃色石台階(花紋1)
+tile.Colorable Stone Pattern1_5Slab.name=黃綠色石台階(花紋1)
+tile.Colorable Stone Pattern1_6Slab.name=粉紅色石台階(花紋1)
+tile.Colorable Stone Pattern1_7Slab.name=深灰色石台階(花紋1)
+tile.Colorable Stone Pattern1_8Slab.name=灰色石台階(花紋1)
+tile.Colorable Stone Pattern1_9Slab.name=青色石台階(花紋1)
+tile.Colorable Stone Pattern1_10Slab.name=紫色石台階(花紋1)
+tile.Colorable Stone Pattern1_11Slab.name=藍色石台階(花紋1)
+tile.Colorable Stone Pattern1_12Slab.name=棕色石台階(花紋1)
+tile.Colorable Stone Pattern1_13Slab.name=綠色石台階(花紋1)
+tile.Colorable Stone Pattern1_14Slab.name=紅色石台階(花紋1)
+tile.Colorable Stone Pattern1_15Slab.name=黑色石台階(花紋1)
+
+tile.Colorable Stone Pattern1_0Stairs.name=白色石階梯(花紋1)
+tile.Colorable Stone Pattern1_1Stairs.name=橘色石階梯(花紋1)
+tile.Colorable Stone Pattern1_2Stairs.name=紫紅色石階梯(花紋1)
+tile.Colorable Stone Pattern1_3Stairs.name=淺藍色石階梯(花紋1)
+tile.Colorable Stone Pattern1_4Stairs.name=黃色石階梯(花紋1)
+tile.Colorable Stone Pattern1_5Stairs.name=黃綠色石階梯(花紋1)
+tile.Colorable Stone Pattern1_6Stairs.name=粉紅色石階梯(花紋1)
+tile.Colorable Stone Pattern1_7Stairs.name=深灰色石階梯(花紋1)
+tile.Colorable Stone Pattern1_8Stairs.name=灰色石階梯(花紋1)
+tile.Colorable Stone Pattern1_9Stairs.name=青色石階梯(花紋1)
+tile.Colorable Stone Pattern1_10Stairs.name=紫色石階梯(花紋1)
+tile.Colorable Stone Pattern1_11Stairs.name=藍色石階梯(花紋1)
+tile.Colorable Stone Pattern1_12Stairs.name=棕色石階梯(花紋1)
+tile.Colorable Stone Pattern1_13Stairs.name=綠色石階梯(花紋1)
+tile.Colorable Stone Pattern1_14Stairs.name=紅色石階梯(花紋1)
+tile.Colorable Stone Pattern1_15Stairs.name=黑色石階梯(花紋1)
+
+
+
+
+
+
+
+
+tile.Colorable Stone Pattern2_0.name=白色石(花紋2)
+tile.Colorable Stone Pattern2_1.name=橘色石(花紋2)
+tile.Colorable Stone Pattern2_2.name=紫紅色石(花紋2)
+tile.Colorable Stone Pattern2_3.name=淺藍色石(花紋2)
+tile.Colorable Stone Pattern2_4.name=黃色石(花紋2)
+tile.Colorable Stone Pattern2_5.name=黃綠色石(花紋2)
+tile.Colorable Stone Pattern2_6.name=粉紅色石(花紋2)
+tile.Colorable Stone Pattern2_7.name=深灰色石(花紋2)
+tile.Colorable Stone Pattern2_8.name=灰色石(花紋2)
+tile.Colorable Stone Pattern2_9.name=青色石(花紋2)
+tile.Colorable Stone Pattern2_10.name=紫色石(花紋2)
+tile.Colorable Stone Pattern2_11.name=藍色石(花紋2)
+tile.Colorable Stone Pattern2_12.name=棕色石(花紋2)
+tile.Colorable Stone Pattern2_13.name=綠色石(花紋2)
+tile.Colorable Stone Pattern2_14.name=紅色石(花紋2)
+tile.Colorable Stone Pattern2_15.name=黑色石(花紋2)
+
+tile.Colorable Stone Pattern2_0Fence.name=白色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_1Fence.name=橘色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_2Fence.name=紫紅色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_3Fence.name=淺藍色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_4Fence.name=黃色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_5Fence.name=黃綠色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_6Fence.name=粉紅色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_7Fence.name=深灰色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_8Fence.name=灰色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_9Fence.name=青色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_10Fence.name=紫色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_11Fence.name=藍色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_12Fence.name=棕色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_13Fence.name=綠色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_14Fence.name=紅色石柵欄(花紋2)
+tile.Colorable Stone Pattern2_15Fence.name=黑色石柵欄(花紋2)
+
+tile.Colorable Stone Pattern2_0Slab.name=白色石台階(花紋2)
+tile.Colorable Stone Pattern2_1Slab.name=橘色石台階(花紋2)
+tile.Colorable Stone Pattern2_2Slab.name=紫紅色石台階(花紋2)
+tile.Colorable Stone Pattern2_3Slab.name=淺藍色石台階(花紋2)
+tile.Colorable Stone Pattern2_4Slab.name=黃色石台階(花紋2)
+tile.Colorable Stone Pattern2_5Slab.name=黃綠色石台階(花紋2)
+tile.Colorable Stone Pattern2_6Slab.name=粉紅色石台階(花紋2)
+tile.Colorable Stone Pattern2_7Slab.name=深灰色石台階(花紋2)
+tile.Colorable Stone Pattern2_8Slab.name=灰色石台階(花紋2)
+tile.Colorable Stone Pattern2_9Slab.name=青色石台階(花紋2)
+tile.Colorable Stone Pattern2_10Slab.name=紫色石台階(花紋2)
+tile.Colorable Stone Pattern2_11Slab.name=藍色石台階(花紋2)
+tile.Colorable Stone Pattern2_12Slab.name=棕色石台階(花紋2)
+tile.Colorable Stone Pattern2_13Slab.name=綠色石台階(花紋2)
+tile.Colorable Stone Pattern2_14Slab.name=紅色石台階(花紋2)
+tile.Colorable Stone Pattern2_15Slab.name=黑色石台階(花紋2)
+
+tile.Colorable Stone Pattern2_0Stairs.name=白色石階梯(花紋2)
+tile.Colorable Stone Pattern2_1Stairs.name=橘色石階梯(花紋2)
+tile.Colorable Stone Pattern2_2Stairs.name=紫紅色石階梯(花紋2)
+tile.Colorable Stone Pattern2_3Stairs.name=淺藍色石階梯(花紋2)
+tile.Colorable Stone Pattern2_4Stairs.name=黃色石階梯(花紋2)
+tile.Colorable Stone Pattern2_5Stairs.name=黃綠色石階梯(花紋2)
+tile.Colorable Stone Pattern2_6Stairs.name=粉紅色石階梯(花紋2)
+tile.Colorable Stone Pattern2_7Stairs.name=深灰色石階梯(花紋2)
+tile.Colorable Stone Pattern2_8Stairs.name=灰色石階梯(花紋2)
+tile.Colorable Stone Pattern2_9Stairs.name=青色石階梯(花紋2)
+tile.Colorable Stone Pattern2_10Stairs.name=紫色石階梯(花紋2)
+tile.Colorable Stone Pattern2_11Stairs.name=藍色石階梯(花紋2)
+tile.Colorable Stone Pattern2_12Stairs.name=棕色石階梯(花紋2)
+tile.Colorable Stone Pattern2_13Stairs.name=綠色石階梯(花紋2)
+tile.Colorable Stone Pattern2_14Stairs.name=紅色石階梯(花紋2)
+tile.Colorable Stone Pattern2_15Stairs.name=黑色石階梯(花紋2)
+
+
+
+
+
+
+
+tile.Colorable Stone Pattern3_0.name=白色石(花紋3)
+tile.Colorable Stone Pattern3_1.name=橘色石(花紋3)
+tile.Colorable Stone Pattern3_2.name=紫紅色石(花紋3)
+tile.Colorable Stone Pattern3_3.name=淺藍色石(花紋3)
+tile.Colorable Stone Pattern3_4.name=黃色石(花紋3)
+tile.Colorable Stone Pattern3_5.name=黃綠色石(花紋3)
+tile.Colorable Stone Pattern3_6.name=粉紅色石(花紋3)
+tile.Colorable Stone Pattern3_7.name=深灰色石(花紋3)
+tile.Colorable Stone Pattern3_8.name=灰色石(花紋3)
+tile.Colorable Stone Pattern3_9.name=青色石(花紋3)
+tile.Colorable Stone Pattern3_10.name=紫色石(花紋3)
+tile.Colorable Stone Pattern3_11.name=藍色石(花紋3)
+tile.Colorable Stone Pattern3_12.name=棕色石(花紋3)
+tile.Colorable Stone Pattern3_13.name=綠色石(花紋3)
+tile.Colorable Stone Pattern3_14.name=紅色石(花紋3)
+tile.Colorable Stone Pattern3_15.name=黑色石(花紋3)
+
+tile.Colorable Stone Pattern3_0Fence.name=白色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_1Fence.name=橘色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_2Fence.name=紫紅色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_3Fence.name=淺藍色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_4Fence.name=黃色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_5Fence.name=黃綠色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_6Fence.name=粉紅色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_7Fence.name=深灰色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_8Fence.name=灰色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_9Fence.name=青色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_10Fence.name=紫色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_11Fence.name=藍色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_12Fence.name=棕色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_13Fence.name=綠色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_14Fence.name=紅色石柵欄(花紋3)
+tile.Colorable Stone Pattern3_15Fence.name=黑色石柵欄(花紋3)
+
+tile.Colorable Stone Pattern3_0Slab.name=白色石台階(花紋3)
+tile.Colorable Stone Pattern3_1Slab.name=橘色石台階(花紋3)
+tile.Colorable Stone Pattern3_2Slab.name=紫紅色石台階(花紋3)
+tile.Colorable Stone Pattern3_3Slab.name=淺藍色石台階(花紋3)
+tile.Colorable Stone Pattern3_4Slab.name=黃色石台階(花紋3)
+tile.Colorable Stone Pattern3_5Slab.name=黃綠色石台階(花紋3)
+tile.Colorable Stone Pattern3_6Slab.name=粉紅色石台階(花紋3)
+tile.Colorable Stone Pattern3_7Slab.name=深灰色石台階(花紋3)
+tile.Colorable Stone Pattern3_8Slab.name=灰色石台階(花紋3)
+tile.Colorable Stone Pattern3_9Slab.name=青色石台階(花紋3)
+tile.Colorable Stone Pattern3_10Slab.name=紫色石台階(花紋3)
+tile.Colorable Stone Pattern3_11Slab.name=藍色石台階(花紋3)
+tile.Colorable Stone Pattern3_12Slab.name=棕色石台階(花紋3)
+tile.Colorable Stone Pattern3_13Slab.name=綠色石台階(花紋3)
+tile.Colorable Stone Pattern3_14Slab.name=紅色石台階(花紋3)
+tile.Colorable Stone Pattern3_15Slab.name=黑色石台階(花紋3)
+
+tile.Colorable Stone Pattern3_0Stairs.name=白色石階梯(花紋3)
+tile.Colorable Stone Pattern3_1Stairs.name=橘色石階梯(花紋3)
+tile.Colorable Stone Pattern3_2Stairs.name=紫紅色石階梯(花紋3)
+tile.Colorable Stone Pattern3_3Stairs.name=淺藍色石階梯(花紋3)
+tile.Colorable Stone Pattern3_4Stairs.name=黃色石階梯(花紋3)
+tile.Colorable Stone Pattern3_5Stairs.name=黃綠色石階梯(花紋3)
+tile.Colorable Stone Pattern3_6Stairs.name=粉紅色石階梯(花紋3)
+tile.Colorable Stone Pattern3_7Stairs.name=深灰色石階梯(花紋3)
+tile.Colorable Stone Pattern3_8Stairs.name=灰色石階梯(花紋3)
+tile.Colorable Stone Pattern3_9Stairs.name=青色石階梯(花紋3)
+tile.Colorable Stone Pattern3_10Stairs.name=紫色石階梯(花紋3)
+tile.Colorable Stone Pattern3_11Stairs.name=藍色石階梯(花紋3)
+tile.Colorable Stone Pattern3_12Stairs.name=棕色石階梯(花紋3)
+tile.Colorable Stone Pattern3_13Stairs.name=綠色石階梯(花紋3)
+tile.Colorable Stone Pattern3_14Stairs.name=紅色石階梯(花紋3)
+tile.Colorable Stone Pattern3_15Stairs.name=黑色石階梯(花紋3)
+
+
+
+
+
+tile.Colorable Stone Pattern4_0.name=白色石(花紋4)
+tile.Colorable Stone Pattern4_1.name=橘色石(花紋4)
+tile.Colorable Stone Pattern4_2.name=紫紅色石(花紋4)
+tile.Colorable Stone Pattern4_3.name=淺藍色石(花紋4)
+tile.Colorable Stone Pattern4_4.name=黃色石(花紋4)
+tile.Colorable Stone Pattern4_5.name=黃綠色石(花紋4)
+tile.Colorable Stone Pattern4_6.name=粉紅色石(花紋4)
+tile.Colorable Stone Pattern4_7.name=深灰色石(花紋4)
+tile.Colorable Stone Pattern4_8.name=灰色石(花紋4)
+tile.Colorable Stone Pattern4_9.name=青色石(花紋4)
+tile.Colorable Stone Pattern4_10.name=紫色石(花紋4)
+tile.Colorable Stone Pattern4_11.name=藍色石(花紋4)
+tile.Colorable Stone Pattern4_12.name=棕色石(花紋4)
+tile.Colorable Stone Pattern4_13.name=綠色石(花紋4)
+tile.Colorable Stone Pattern4_14.name=紅色石(花紋4)
+tile.Colorable Stone Pattern4_15.name=黑色石(花紋4)
+
+tile.Colorable Stone Pattern4_0Fence.name=白色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_1Fence.name=橘色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_2Fence.name=紫紅色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_3Fence.name=淺藍色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_4Fence.name=黃色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_5Fence.name=黃綠色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_6Fence.name=粉紅色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_7Fence.name=深灰色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_8Fence.name=灰色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_9Fence.name=青色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_10Fence.name=紫色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_11Fence.name=藍色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_12Fence.name=棕色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_13Fence.name=綠色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_14Fence.name=紅色石柵欄(花紋4)
+tile.Colorable Stone Pattern4_15Fence.name=黑色石柵欄(花紋4)
+
+tile.Colorable Stone Pattern4_0Slab.name=白色石台階(花紋4)
+tile.Colorable Stone Pattern4_1Slab.name=橘色石台階(花紋4)
+tile.Colorable Stone Pattern4_2Slab.name=紫紅色石台階(花紋4)
+tile.Colorable Stone Pattern4_3Slab.name=淺藍色石台階(花紋4)
+tile.Colorable Stone Pattern4_4Slab.name=黃色石台階(花紋4)
+tile.Colorable Stone Pattern4_5Slab.name=黃綠色石台階(花紋4)
+tile.Colorable Stone Pattern4_6Slab.name=粉紅色石台階(花紋4)
+tile.Colorable Stone Pattern4_7Slab.name=深灰色石台階(花紋4)
+tile.Colorable Stone Pattern4_8Slab.name=灰色石台階(花紋4)
+tile.Colorable Stone Pattern4_9Slab.name=青色石台階(花紋4)
+tile.Colorable Stone Pattern4_10Slab.name=紫色石台階(花紋4)
+tile.Colorable Stone Pattern4_11Slab.name=藍色石台階(花紋4)
+tile.Colorable Stone Pattern4_12Slab.name=棕色石台階(花紋4)
+tile.Colorable Stone Pattern4_13Slab.name=綠色石台階(花紋4)
+tile.Colorable Stone Pattern4_14Slab.name=紅色石台階(花紋4)
+tile.Colorable Stone Pattern4_15Slab.name=黑色石台階(花紋4)
+
+tile.Colorable Stone Pattern4_0Stairs.name=白色石階梯(花紋4)
+tile.Colorable Stone Pattern4_1Stairs.name=橘色石階梯(花紋4)
+tile.Colorable Stone Pattern4_2Stairs.name=紫紅色石階梯(花紋4)
+tile.Colorable Stone Pattern4_3Stairs.name=淺藍色石階梯(花紋4)
+tile.Colorable Stone Pattern4_4Stairs.name=黃色石階梯(花紋4)
+tile.Colorable Stone Pattern4_5Stairs.name=黃綠色石階梯(花紋4)
+tile.Colorable Stone Pattern4_6Stairs.name=粉紅色石階梯(花紋4)
+tile.Colorable Stone Pattern4_7Stairs.name=深灰色石階梯(花紋4)
+tile.Colorable Stone Pattern4_8Stairs.name=灰色石階梯(花紋4)
+tile.Colorable Stone Pattern4_9Stairs.name=青色石階梯(花紋4)
+tile.Colorable Stone Pattern4_10Stairs.name=紫色石階梯(花紋4)
+tile.Colorable Stone Pattern4_11Stairs.name=藍色石階梯(花紋4)
+tile.Colorable Stone Pattern4_12Stairs.name=棕色石階梯(花紋4)
+tile.Colorable Stone Pattern4_13Stairs.name=綠色石階梯(花紋4)
+tile.Colorable Stone Pattern4_14Stairs.name=紅色石階梯(花紋4)
+tile.Colorable Stone Pattern4_15Stairs.name=黑色石階梯(花紋4)
+
+
+
+
+
+
+tile.Colorable Stone Pattern5_0.name=白色石(花紋5)
+tile.Colorable Stone Pattern5_1.name=橘色石(花紋5)
+tile.Colorable Stone Pattern5_2.name=紫紅色石(花紋5)
+tile.Colorable Stone Pattern5_3.name=淺藍色石(花紋5)
+tile.Colorable Stone Pattern5_4.name=黃色石(花紋5)
+tile.Colorable Stone Pattern5_5.name=黃綠色石(花紋5)
+tile.Colorable Stone Pattern5_6.name=粉紅色石(花紋5)
+tile.Colorable Stone Pattern5_7.name=深灰色石(花紋5)
+tile.Colorable Stone Pattern5_8.name=灰色石(花紋5)
+tile.Colorable Stone Pattern5_9.name=青色石(花紋5)
+tile.Colorable Stone Pattern5_10.name=紫色石(花紋5)
+tile.Colorable Stone Pattern5_11.name=藍色石(花紋5)
+tile.Colorable Stone Pattern5_12.name=棕色石(花紋5)
+tile.Colorable Stone Pattern5_13.name=綠色石(花紋5)
+tile.Colorable Stone Pattern5_14.name=紅色石(花紋5)
+tile.Colorable Stone Pattern5_15.name=黑色石(花紋5)
+
+tile.Colorable Stone Pattern5_0Fence.name=白色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_1Fence.name=橘色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_2Fence.name=紫紅色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_3Fence.name=淺藍色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_4Fence.name=黃色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_5Fence.name=黃綠色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_6Fence.name=粉紅色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_7Fence.name=深灰色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_8Fence.name=灰色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_9Fence.name=青色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_10Fence.name=紫色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_11Fence.name=藍色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_12Fence.name=棕色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_13Fence.name=綠色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_14Fence.name=紅色石柵欄(花紋5)
+tile.Colorable Stone Pattern5_15Fence.name=黑色石柵欄(花紋5)
+
+tile.Colorable Stone Pattern5_0Slab.name=白色石台階(花紋5)
+tile.Colorable Stone Pattern5_1Slab.name=橘色石台階(花紋5)
+tile.Colorable Stone Pattern5_2Slab.name=紫紅色石台階(花紋5)
+tile.Colorable Stone Pattern5_3Slab.name=淺藍色石台階(花紋5)
+tile.Colorable Stone Pattern5_4Slab.name=黃色石台階(花紋5)
+tile.Colorable Stone Pattern5_5Slab.name=黃綠色石台階(花紋5)
+tile.Colorable Stone Pattern5_6Slab.name=粉紅色石台階(花紋5)
+tile.Colorable Stone Pattern5_7Slab.name=深灰色石台階(花紋5)
+tile.Colorable Stone Pattern5_8Slab.name=灰色石台階(花紋5)
+tile.Colorable Stone Pattern5_9Slab.name=青色石台階(花紋5)
+tile.Colorable Stone Pattern5_10Slab.name=紫色石台階(花紋5)
+tile.Colorable Stone Pattern5_11Slab.name=藍色石台階(花紋5)
+tile.Colorable Stone Pattern5_12Slab.name=棕色石台階(花紋5)
+tile.Colorable Stone Pattern5_13Slab.name=綠色石台階(花紋5)
+tile.Colorable Stone Pattern5_14Slab.name=紅色石台階(花紋5)
+tile.Colorable Stone Pattern5_15Slab.name=黑色石台階(花紋5)
+
+tile.Colorable Stone Pattern5_0Stairs.name=白色石階梯(花紋5)
+tile.Colorable Stone Pattern5_1Stairs.name=橘色石階梯(花紋5)
+tile.Colorable Stone Pattern5_2Stairs.name=紫紅色石階梯(花紋5)
+tile.Colorable Stone Pattern5_3Stairs.name=淺藍色石階梯(花紋5)
+tile.Colorable Stone Pattern5_4Stairs.name=黃色石階梯(花紋5)
+tile.Colorable Stone Pattern5_5Stairs.name=黃綠色石階梯(花紋5)
+tile.Colorable Stone Pattern5_6Stairs.name=粉紅色石階梯(花紋5)
+tile.Colorable Stone Pattern5_7Stairs.name=深灰色石階梯(花紋5)
+tile.Colorable Stone Pattern5_8Stairs.name=灰色石階梯(花紋5)
+tile.Colorable Stone Pattern5_9Stairs.name=青色石階梯(花紋5)
+tile.Colorable Stone Pattern5_10Stairs.name=紫色石階梯(花紋5)
+tile.Colorable Stone Pattern5_11Stairs.name=藍色石階梯(花紋5)
+tile.Colorable Stone Pattern5_12Stairs.name=棕色石階梯(花紋5)
+tile.Colorable Stone Pattern5_13Stairs.name=綠色石階梯(花紋5)
+tile.Colorable Stone Pattern5_14Stairs.name=紅色石階梯(花紋5)
+tile.Colorable Stone Pattern5_15Stairs.name=黑色石階梯(花紋5)
+
+
+
+
+jinryuujrmcore.help_main=請選擇模式
+jinryuujrmcore.help_main1_1=此處可閱讀七龍珠模組與
+jinryuujrmcore.help_main1_2=火影忍者模組的簡短指南。
+jinryuujrmcore.help_main2_1=此處可查看合成方式。
+jinryuujrmcore.help_main2_2=尚未加入所有物品,
+jinryuujrmcore.help_main2_3=請至我們的網站查詢更多資訊。
+
+jinryuujrmcore.Guides=指南
+jinryuujrmcore.Receipts=合成
+jinryuujrmcore.help_core=核心
+jinryuujrmcore.help_nc=火影忍者
+jinryuujrmcore.help_dbc=七龍珠
+
+jinryuujrmcore.Back2=返回至選單
+jinryuujrmcore.Exit=離開
+
+
+jinryuujrmcore.Graphic Settings=繪圖設定
+jinryuujrmcore.User Interface=使用者介面
+
+jinryuujrmcore.Client Hud X=氣量條X軸位置
+jinryuujrmcore.Client Hud Y=氣量條Y軸位置
+jinryuujrmcore.Client Hud Style=氣量條樣式
+jinryuujrmcore.Client Lockon Style=鎖定樣式
+jinryuujrmcore.Client Hud 1 X=生命/耐力數值條X軸位置
+jinryuujrmcore.Client Hud 1 Y=生命/耐力數值條Y軸位置
+jinryuujrmcore.Client Hud 1 Style=生命/耐力數值條樣式
+
+jinryuujrmcore.Client Hud 2 X=自訂畫面顯示X軸位置
+jinryuujrmcore.Client Hud 2 Y=自訂畫面顯示Y軸位置
+
+jinryuujrmcore.Client Custom Hud=自訂畫面顯示
+jinryuujrmcore.SETTON=開啟
+jinryuujrmcore.SETTOFF=關閉
+jinryuujrmcore.SETT3D=3D
+jinryuujrmcore.SETT2D=2D
+
+jinryuujrmcore.Client Particles0=神的狀態氣場特效
+jinryuujrmcore.Client Particles1=自在極意功氣場特效
+
+jinryuujrmcore.Client Particles2=石頭氣場特效
+jinryuujrmcore.Client Particles3=草叢氣場特效
+jinryuujrmcore.Client Particles4=泥土氣場特效
+jinryuujrmcore.Client Particles5=火球特效
+jinryuujrmcore.Client Particles6=爆炸特效
+
+jinryuujrmcore.Client ParAmo=特效量
+jinryuujrmcore.Client ParSpe=特效速度
+
+
+jinryuujrmcore.Client Health bar text style=百分比的生命數值文字
+jinryuujrmcore.Client Health bar rotated=生命數值條旋轉
+jinryuujrmcore.Client Action Menu Text Type=動作選單的文字類型
+jinryuujrmcore.Client Action Menu White=單色的動作選單
+jinryuujrmcore.ClientPasteDesc=這會從剪貼簿中貼上自訂畫面顯示碼
+
+jinryuujrmcore.Client Opt3=第一人稱特效顯示
+jinryuujrmcore.Client Opt4=第一人稱動畫
+jinryuujrmcore.Client Opt5=新的3D爆炸
+jinryuujrmcore.Client Opt6=新的2D爆炸特效
+jinryuujrmcore.Client Opt7=3D爆炸
+jinryuujrmcore.Client Opt8=非玩家角色氣場特效
+jinryuujrmcore.Client Opt9=雙重氣的爆破色彩
+jinryuujrmcore.Client Opt10=氣的補充動畫
+jinryuujrmcore.Client Opt11=飛行軌跡
+jinryuujrmcore.Client Opt12=氣場的閃電
+jinryuujrmcore.Client Opt13=2D玩家氣場
+jinryuujrmcore.Client Opt14=3D玩家氣場
+jinryuujrmcore.Client Opt15=碰撞效果
+jinryuujrmcore.Client Opt16=其它特效
+
+jinryuujrmcore.Client Opt17=愚人節模式
+jinryuujrmcore.Client Opt18=第一人稱防禦動畫
+jinryuujrmcore.Client Opt19=玩家傷害/傷痕材質
+jinryuujrmcore.Client Opt20=3D一般氣場, 2D神的氣場
+jinryuujrmcore.Client Opt21=3D氣場隱形
+jinryuujrmcore.Client Opt22=閻羅王的桌子
+
+jinryuujrmcore.Client Opt23=可見度
+jinryuujrmcore.Client Opt24=顯示比例
+
+jinryuujrmcore.Client Opt25=顯示能量外觀視圖
+
+jinryuujrmcore.Client Opt26=專注訓練小遊戲的動畫材質
+jinryuujrmcore.Client Opt27=專注訓練小遊戲的動畫顏色
+jinryuujrmcore.Client Opt28=出拳訓練小遊戲的 3D 人物
+jinryuujrmcore.Client Opt29=出拳訓練小遊戲的 3D 氣場
+jinryuujrmcore.Client Opt30=出拳訓練小遊戲的動畫顏色
+
+jinryuujrmcore.Client Opt31=屏障方塊顯示距離
+jinryuujrmcore.Client Opt32=特效顯示距離
+jinryuujrmcore.Client Opt33=氣功招式集氣顯示距離
+jinryuujrmcore.Client Opt34=氣場顯示距離
+
+jinryuujrmcore.Client Opt35=氣功招式集氣百分比
+
+jinryuujrmcore.Client Opt36=提示通知
+jinryuujrmcore.Client Opt37=錯誤通知
+
+jinryuujrmcore.Client Opt38=七龍珠快速融合旁觀者鏡頭跟隨
+jinryuujrmcore.Client Opt39=安全區介面模式
+
+jinryuujrmcore.Client Opt40=瞬間移動第一人稱動畫
+jinryuujrmcore.Client Opt41=瞬間移動特效
+
+jinryuujrmcore.Client Image0=俯衝圖像效果
+jinryuujrmcore.Add more=增減的值
+jinryuujrmcore.Save=儲存
+
+
+jinryuujrmcore.descvanityColorable1=在合成台中以染料圍繞
+jinryuujrmcore.descvanityColorable2="可染色的"裝飾物可改變其顏色。
+
+
+jinryuujrmcore.help_guide_1_title=基本按鍵
+jinryuujrmcore.help_guide_1_desc=《C》提升放出的氣/n《R》切換進入集氣狀態/n《G》變身(七龍珠)/血繼忍術(火影忍者)/n《H》解除變身及降低放出的氣。/n《F》飛行模式(須有飛行技能)/n《X》動作選單: 這裡可以讓你啟動技能及變身。/n在太空艙裡面點擊滑鼠滾輪鍵可開啟太空艙介面。
+
+
+jinryuujrmcore.help_guide_2_title=額外的槽
+jinryuujrmcore.help_guide_2_desc=開啟: 按下《第二功能鍵+物品欄開啟鍵》/n(若不知道按鍵請查看 Minecraft 的按鍵設定)/n這裡分成頭部、身體、負重以及 3 個裝飾用的槽,/n右邊裝飾槽的物品順序可隨意擺放。
+
+
+jinryuujrmcore.help_guide_3_title=氣的釋放程度
+jinryuujrmcore.help_guide_3_desc=需要提升氣才能獲得 TP 來升級屬性及技能。/n每個玩家在畫面左上角都會顯示氣的釋放程度,/n那個百分比就是你目前提升釋放的程度。/n你可以按下《C》鍵開始將釋放的氣提升達50%。/n只有在神殿跟神學習潛能開啟後, 才能超越這個範圍。/n你可以按下《H》鍵來降低釋放的氣。/n你的戰鬥力會隨著你所釋放的氣而改變。
+
+
+jinryuujrmcore.help_guide_4_title=升級屬性及技能
+jinryuujrmcore.help_guide_4_desc=你需要獲得 TP 來變得更強大。/n當你將氣提升至超過 0%,/n就可在攻擊怪物敵人時獲得 TP。/n將游標停在屬性上就能看到該屬性對你的影響。/n而要升級技能除了需要 TP 以外,/n你還需要升級你的 MND 或智力屬性。/n在技能分頁表中, C 是表示 TP, 而 M 則是表示智力。
+
+
+jinryuujrmcore.help_guide_5_title=技能
+jinryuujrmcore.help_guide_5_desc=你可使用 TP (C) 或 TP 及智力 (M) 來升級技能。/n有些已學習的技能,/n會出現在畫面右側中間你的快捷技能欄中。/n你可以使用《第二功能鍵+滑鼠滾輪》/n來選擇快捷欄中的技能。/n當你將氣提升至超過 0%,/n就可用《第二功能鍵+滑鼠右鍵》來施展你的技能。
+
+
+jinryuujrmcore.help_guide_6_title=動作選單
+jinryuujrmcore.help_guide_6_desc=你可以按下《X》鍵來開啟擁有的動作選單。/n這裡可以選擇你想變身的型態,/n或是開啟/關閉某些選項。/n請注意: 如果選單中顯示『關閉』, 表示你點擊後會將它關閉, 而不是目前的狀態是關閉。
+
+
+jinryuujrmcore.help_guide_7_title=型態
+jinryuujrmcore.help_guide_7_desc=玩家會因為其種族而有不同的型態。/n你可以在技能頁面升級你的主要型態,/n但你也可以學習其它的型態。/n有些大師會教你變身的技能。/n例如: 界王可以教你完全潛能和界王拳。/n這些型態可在按下《X》鍵所開啟的動作選單中選用。/n你可以按住《G》鍵來進行變身,/n並在按下《H》鍵後解除。/n此時你會變身為你在動作選單中所啟用的型態。
+
+
+jinryuujrmcore.help_guide_8_title=移動
+jinryuujrmcore.help_guide_8_desc=【集氣】你可以按下《R》鍵進入集氣模式來加快移動速度。/n【飛行】你可以按下《F》鍵進入飛行模式, 不過你必須先找老師學習飛行技能。/n【俯衝】你可藉由俯衝來加速飛行。/n這項技能得先學會飛行, 一旦學會之後, 就可按下《X》鍵開啟動作選單並啟動它。/n按住《第二功能鍵》+《前進鍵》便可施展。/n【奔跑】按住《第二功能鍵》+《左/右/後鍵》可進行奔跑。
+
+
+jinryuujrmcore.help_guide_9_title=建築及大師
+jinryuujrmcore.help_guide_9_desc=在你的世界中會生成一些新的建築,/n那裡住著重要的人物。/n有些建築的地點是固定的,/n例如: 神所居住的神殿位置,/n以及另一個世界中閻羅王和界王星的位置。/n而有些只會在你接近特定的生態域時才會生成,/n例如: 西魯的決鬥舞台,/n它會在玩家靠近任何平原地形生態域時生成一次。/n神殿的位置大約在座標 X 80、Z 45,/n所以其生成的地點接近世界的中心點。
+
+
+jinryuujrmcore.help_guide_10_title=安全區
+jinryuujrmcore.help_guide_10_desc=安全區是大師附近的一個區域範圍。/n進入這個區域的所有敵對生物或玩家施展的技能都會消失。/n觔斗雲也不能在這裡使用。
+
+
+jinryuujrmcore.help_guide_11_title=龍珠
+jinryuujrmcore.help_guide_11_desc=龍珠有兩種,/n一種是小顆的地球版, 另一種是大顆的納美克星版,/n兩種的使用方式都一樣。/n它們不時會在設定檔中指定的時間生成於世界上。/n將其中一種龍珠在地上擺成Ｈ字母的形狀,/n並對著中間那顆點擊滑鼠右鍵就可招喚出神龍。/n接著對神龍點擊滑鼠右鍵進行對話便可許願。
+
+
+jinryuujrmcore.help_guide_12_title=太空艙與其它世界
+jinryuujrmcore.help_guide_12_desc=還有許多新的世界存在於其它星球以及別的空間。/n你可以乘坐太空艙前往納美克星、達爾行星的世界,/n並返回地球上的主世界。/n當你死亡後會被傳送到另一個世界。/n在那裡你可以去拜訪界王和一位強大的戰士,/n或是請閻羅王讓你復活。
+
+
+jinryuujrmcore.help_guide_13_title=可學習的型態
+jinryuujrmcore.help_guide_13_desc=【完全潛能】/n你可以跟界王學習老界王的儀式來解放你的潛能。/n你會隨著時間而失去其等級。/n【魔化】任何邪惡之人都可接受巴比迪的支配。/n只有死亡後才能解除它。/n【界王拳】可在界王那裡學習。/n你可重複施展多次來加強其強度,/n但是你會損失愈來愈多生命值。/n施展後會出現身體負擔加重的狀態。/n【傳說 】這個會隨機賦予至玩家身上。/n它會為你標記一個綠色的圖示,/n且變身後頭髮會成為綠色。
+
+jinryuujrmcore.guidehelp_Blocks=方塊
+jinryuujrmcore.guidehelp_Items=物品
+jinryuujrmcore.guidehelp_Armors=護甲
+jinryuujrmcore.guidehelp_Weapons=武器
+jinryuujrmcore.guidehelp_Tools=工具
+jinryuujrmcore.guidehelp_Vanities=裝飾
+
+jinryuujrmcore.Remove=移除
+jinryuujrmcore.RemoveAll=全部移除
+jinryuujrmcore.Sort=排序
+jinryuujrmcore.Disable=關閉
+jinryuujrmcore.Mute=靜音
+jinryuujrmcore.Disabled=停用
+jinryuujrmcore.Muted=已靜音
+
+jinryuujrmcore.entitymasters.insafezone=進入《%s》的安全區！
+jinryuujrmcore.entitymasters.insaafezone=進入安全區！
+jinryuujrmcore.entitymasters.nofightinsafe=安全區中禁止戰鬥！
+jinryuujrmcore.entitymasters.leftsafe=離開《%s》的安全區！
+jinryuujrmcore.entitymasters.leftasafe=離開安全區！
+entity.jinryuujrmcore.JGMasterSafeZone.name=七龍珠模組安全區
