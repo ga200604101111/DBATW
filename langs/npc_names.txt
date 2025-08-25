@@ -197,6 +197,9 @@ The Peddler=小販
 
 <Side Quest>=<支線任務>
 <Side Quest >=<支線任務>
+<Side Quests>=<支線任務>
+
+<....>=<....>
 
 Vegeta [Saiyan's New Pants]=貝吉塔 [賽亞人的新褲子]
 
@@ -291,7 +294,6 @@ Krillin [Korin is all out]=克林 [貓仙人已無存貨]
 
 Videl [A Cranky Pan]=維黛兒 [愛發脾氣的小芳]
 
-
 Greeter=迎賓員
 <[Professional Greeter]>=<[專業迎賓員]>
 
@@ -355,9 +357,67 @@ Body Suit #8=緊身衣 #8
 
 <§eRight click §fme to §ePurchase §7this Clothing Set!§r>=<§e右鍵點擊 §f我來§e購買§7這套服裝!§r>
 
-§eDestroyed Goku §9Armor Set §3(§2Movie Pack #2 §eSaga§3)=§e損壞的悟空§9盔甲套裝 §3(§2劇場版合集 #2 §e篇§3)
 §6Krillin §7Clothing Set §b(§6Saiyan §eSaga§b)=§6克林 §7服裝套裝 §b(§6賽亞人§e篇§b)
 §6Yamcha §7Clothing Set §3(§aAndroid §eSaga§3)=§6飲茶 §7服裝套裝 §3(§a人造人§e篇§3)
 §2Tien §7Clothing Set §b(§6Saiyan §eSaga§b)=§2天津飯 §7服裝套裝 §b(§6賽亞人§e篇§b)
 §9Bulma Namek §7Clothing Set §3(§2Namek §eSaga§3)=§9布瑪 那美克 §7服裝套裝 §3(§2那美克星§e篇§3)
 §aNail §7Clothing Set §3(§2Namek §eSaga§3)=§a內魯 §7服裝套裝 §3(§2那美克星§e篇§3)
+§aChiaotzu §7Clothing Set §3(§aAndroid §eSaga§3)=餃子 §7服裝套裝 §3(§a人造人§e篇§3)
+
+§cComing in Future Updates=§c將在未來更新中推出
+Gohan [Special Delivery]=悟飯 [特別快遞]
+
+<Patroller Armor Trader>=<時空巡邏者護甲商人>
+Time Patroller=時空巡邏者
+<BlackSmith Teleporter>=<鐵匠傳送員>
+
+<§8Exchange §4GT §eStoryline §8Gear Coins here!§r>=<§8在這裡兌換 §4GT §e劇情線 §8裝備幣!§r>
+<§8Exchange §2Namek §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §2那美克星§e篇 §8裝備幣!§r>
+
+§3GT §bTrunks §6Armor Set §3(§4GT §eStoryline§3)=§3GT §b特蘭克斯 §6護甲套裝 §3(§4GT §e劇情線§3)
+§3GT §bVegeta §cArmor Set §3(§4GT §eStoryline§3)=§3GT §b貝吉塔 §c護甲套裝 §3(§4GT §e劇情線§3)
+§4GT §eStoryline §3Armor Sets=§4GT §e劇情線 §3護甲套裝
+§6Goku §1Armor Set §3(§6Saiyan §eSaga§3)=§6悟空 §1護甲套裝 §3(§6賽亞人§e篇§3)
+§5Piccolo §9Armor Set §b(§6Saiyan §eSaga§b)=§5比克 §9護甲套裝 §b(§6賽亞人§e篇§b)
+§6Raditz §7Armor Set §3(§6Saiyan §eSaga§3)=§6拉帝茲 §7護甲套裝 §3(§6賽亞人§e篇§3)
+§6Vegeta §8Armor Set §3(§6Saiyan §eSaga§3)=§6貝吉塔 §8護甲套裝 §3(§6賽亞人§e篇§3)
+<§8Exchange §6Saiyan §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §6賽亞人§e篇 §8裝備幣!§r>
+§6Saiyan §eSaga §3Armor Sets=§6賽亞人 §e篇章 §3護甲套裝
+§3GT §bPan §aArmor Set §3(§4GT §eStoryline§3)=§3GT §b潘 §a護甲套裝 §3(§4GT §e劇情線§3)
+§3GT §bGoku §6Armor Set §3(§4GT §eStoryline§3)=§3GT §b悟空 §6護甲套裝 §3(§4GT §e劇情線§3)
+§dGinyu Force §fW §7Armor Set §3(§2Namek §eSaga§3)=§d基紐特戰隊 §fW §7護甲套裝 §3(§2那美克星§e篇§3)
+§dGinyu Force §8B §7Armor Set §3(§2Namek §eSaga§3)=§d基紐特戰隊 §8B §7護甲套裝 §3(§2那美克星§e篇§3)
+§1Vegeta §bArmor Set §3(§2Namek §eSaga§3)=§1貝吉塔 §b護甲套裝 §3(§2那美克星§e篇§3)
+§2Namek §eSaga §3Armor Sets=§2那美克星§e篇 §3護甲套裝
+§bSuper §317 §cArmor Set §3(§4GT §eStoryline§3)=§b超級17號 §c護甲套裝 §3(§4GT §e劇情線§3)
+§6Destroyed §3GT §bGoku §6Armor Set §3(§4GT §eStoryline§3)=§6損壞的 §3GT §b悟空 §6護甲套裝 §3(§4GT §e劇情線§3)
+§6Krillin §bArmor Set §3(§2Namek §eSaga§3)=§6克林 §b護甲套裝 §3(§2那美克星§e篇§3)
+§6Goku §1Yardrat §7Armor Set §3(§aAndroid §eSaga§3)=§6悟空 §1雅德拉特 §7護甲套裝 §3(§a人造人§e篇§3)
+§6Android 20 §1Armor Set §3(§aAndroid §eSaga§3)=§6人造人20號 §1護甲套裝 §3(§a人造人§e篇§3)
+Android 19§6 §1Armor Set §3(§aAndroid §eSaga§3)=人造人19號§6 §1護甲套裝 §3(§a人造人§e篇§3)
+<§8Exchange §2Movie Pack §8Gear Coins here!§r>=<§8在這裡兌換 §2劇場版合集 §8裝備幣!§r>
+§2Movie Pack §3Armor Sets=§2劇場版合集 §3護甲套裝
+§eDestroyed Goku §9Armor Set §3(§2Movie Pack #2 §eSaga§3)=§e損壞的悟空§9護甲套裝 §3(§2劇場版合集#2 §e篇§3)
+§aBojack §dArmor Set §3(§2Movie Pack #1 §eSaga§3)=§a波傑克 §d護甲套裝 §3(§2劇場版合集#1 §e篇§3)
+§9Android 13 §6Armor Set §3(§2Movie Pack #1 §eSaga§3)=§9人造人13號 §6護甲套裝 §3(§2劇場版合集#1 §e篇§3)
+§dSalza §9Armor Set §3(§2Movie Pack #1§e Saga§3)=§d薩爾薩 §9護甲套裝 §3(§2劇場版合集#1 §e篇§3)
+§3Future §9Trunks §7Armor Set §3(§aAndroid §eSaga§3)=§3未來 §9特蘭克斯 §7護甲套裝 §3(§a人造人 §e篇§3)
+<§8Exchange §aAndroid §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §a人造人 §e篇章 §8裝備幣!§r>
+§aAndroid §eSaga §3Armor Sets=§a人造人 §e篇章 §3護甲套裝
+§2Tapion §6Armor Set §3(§2Movie Pack #2 §eSaga§3)=§2塔皮歐 §6護甲套裝 §3(§2劇場版合集#2 §e篇§3)
+§cMetamoran §eArmor Set §3(§2Movie Pack #2 §eSaga§3)=§c梅塔摩爾星人 §e護甲套裝 §3(§2劇場版合集#2 §e篇§3)
+§9Turles §1Armor Set §3(§2Movie Pack #3 §eSaga§3)=§9托雷斯 §1護甲套裝 §3(§2劇場版合集#3 §e篇§3)
+§2Lord §dSlug §aArmor Set §3(§2Movie Pack #3 §eSaga§3)=§2斯拉格大王 §d護甲套裝 §3(§2劇場版合集 #3 §e篇§3)
+§aZ §2Broly §eArmor Set §3(§2Movie Pack #3 §eSaga§3)=§aZ §2布羅利 §e護甲套裝 §3(§2劇場版合集 #3 §e篇§3)
+
+§e§lConton Bank=§e§l昆頓銀行
+
+§eStore Items here and invest in more storage space!§r=§e在這裡存放物品並投資更多儲存空間!§r
+Mr. Satan [Mr. Satan, Super Satan!]=撒旦先生 [撒旦先生，超級撒旦!]
+Banker=銀行員
+<Primary Bank>=<主要銀行>
+<Donor Bank>=<贊助銀行>
+FantaFrog=FantaFrog
+<Quester>=<任務發放者>
+Vegeta=貝吉塔
+<Admin - Story Writer>=<管理員 - 劇情撰寫者>
