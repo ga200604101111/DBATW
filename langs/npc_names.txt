@@ -117,6 +117,9 @@ Kat_The_Neko (Scaler)=Kat_The_Neko (模型縮放師)
 §clil=§clil
 <§eServer Owner§r>=<§e伺服器擁有者§r>
 
+lil=lil
+<Owner>=<擁有者>
+
 Bulma=布瑪
 <Skill Giver>=<技能給予者>
 
@@ -193,6 +196,7 @@ The Peddler=小販
 §3Zeni Shop #2=§3賽尼商店 #2
 
 <Side Quest>=<支線任務>
+<Side Quest >=<支線任務>
 
 Vegeta [Saiyan's New Pants]=貝吉塔 [賽亞人的新褲子]
 
@@ -280,3 +284,80 @@ Krillin [Korin is all out]=克林 [貓仙人已無存貨]
 §aDragon Ball §bGT Story §e(52 Quests)=§a龍珠 §bGT 劇情 §e(52 個任務)
 §7Black Star Saga, Baby Saga=§7黑星龍珠篇、貝比篇
 §7Super 17 Saga, and Shadow Dragon Saga§r=§7超級 17 號篇、邪惡龍篇§r
+
+§a§lConton Mall§7, §e§lConton Bank§7, & §6§lConton School=§a§l康頓購物中心§7、§e§l康頓銀行§7跟§6§l康頓學校
+§eAll this way!§r=§e都在這裡!
+§3Enchantment Shop=§3附魔商店
+
+Videl [A Cranky Pan]=維黛兒 [愛發脾氣的小芳]
+
+
+Greeter=迎賓員
+<[Professional Greeter]>=<[專業迎賓員]>
+
+§a§lConton Mall=§a§l康頓購物中心
+§eBuy food here!§r=§e在這裡購買食物!§r
+
+§3Yemma's Mohagany Shop=§3閻王的桃花心木商店
+
+Yamcha=飲茶
+<Dye Shop>=<染色商店>
+
+<§eRight click §fme to §ePurchase §7this Bodysuit!§r>=<§e右鍵點擊 §f我來§e購買§7這件緊身衣!§r>
+
+Body Suit #1=緊身衣 #1
+Body Suit #2=緊身衣 #2
+Body Suit #3=緊身衣 #3
+Body Suit #4=緊身衣 #4
+Body Suit #5=緊身衣 #5
+Body Suit #6=緊身衣 #6
+Body Suit #7=緊身衣 #7
+Body Suit #8=緊身衣 #8
+
+§6Vendor Bot #1 §7(Food Model)=§6販賣機器人 #1 §7(食物模型)
+§6Vendor Bot #2 §7(Food Model)=§6販賣機器人 #2 §7(食物模型)
+§6Vendor Bot #3 §7(Food Model)=§6販賣機器人 #3 §7(食物模型)
+
+§6Vendor Bot #1 §7(Block Model)=§6販賣機器人 #1 §7(方塊模型)
+§6Vendor Bot #2 §7(Block Model)=§6販賣機器人 #2 §7(方塊模型)
+§6Vendor Bot #3 §7(Block Model)=§6販賣機器人 #3 §7(方塊模型)
+
+§6Vendor Bot #1 §7(Glass Model)=§6販賣機器人 #1 §7(玻璃模型)
+§6Vendor Bot #2 §7(Glass Model)=§6販賣機器人 #2 §7(玻璃模型)
+§6Vendor Bot #1 §7(Crystal Model)=§6販賣機器人 #1 §7(水晶模型)
+§6Vendor Bot #2 §7(Crystal Model)=§6販賣機器人 #2 §7(水晶模型)
+
+§6Vendor Bot #3 §7(Flora Model)=§6販賣機器人 #3 §7(植物模型)
+§6Vendor Bot #2 §7(Leaves Model)=§6販賣機器人 #2 §7(樹葉模型)
+
+
+§6Vendor Bot #1 §7(Clay Model)=§6販賣機器人 #1 §7(黏土模型)
+§6Vendor Bot #2 §7(Clay Model)=§6販賣機器人 #2 §7(黏土模型)
+§6Vendor Bot #3 §7(Smooth Block Model)=§6販賣機器人 #3 §7(平滑方塊模型)
+§6Vendor Bot #4 §7(Smooth Block Model)=§6販賣機器人 #4 §7(平滑方塊模型)
+
+§6Vendor Bot #1 §7(Wool Model)=§6販賣機器人 #1 §7(羊毛模型)
+§6Vendor Bot #2 §7(Wool Model)=§6販賣機器人 #2 §7(羊毛模型)
+
+§6Vendor Bot #1 §7(Roof Tile Model)=§6販賣機器人 #1 §7(屋瓦模型)
+§6Vendor Bot #2 §7(Roof Tile Model)=§6販賣機器人 #2 §7(屋瓦模型)
+
+§6Vendor Bot #1 §7(Cracked Stone Bricks Model)=§6販賣機器人 #1 §7(裂紋石磚模型)
+§6Vendor Bot #1 §7(Mossed Stone Bricks Model)=§6販賣機器人 #1 §7(青苔石磚模型)
+§6Vendor Bot #2 §7(Mossed Stone Bricks Model)=§6販賣機器人 #2 §7(青苔石磚模型)
+
+§6Vendor Bot #1 §7(Chiseled Stone Bricks Model)=§6販賣機器人 #1 §7(雕刻石磚模型)
+§6Vendor Bot #2 §7(Chiseled Stone Bricks Model)=§6販賣機器人 #2 §7(雕刻石磚模型)
+§6Vendor Bot #1 §7(Stone Bricks Model)=§6販賣機器人 #1 §7(石磚模型)
+§6Vendor Bot #2 §7(Stone Bricks Model)=§6販賣機器人 #2 §7(石磚模型)
+
+<§eRight click §fme to §eExchange §fgear coins!§r>=<§e右鍵點擊 §f我來§e兌換§f裝備幣!§r>
+
+<§eRight click §fme to §ePurchase §7this Clothing Set!§r>=<§e右鍵點擊 §f我來§e購買§7這套服裝!§r>
+
+§eDestroyed Goku §9Armor Set §3(§2Movie Pack #2 §eSaga§3)=§e損壞的悟空§9盔甲套裝 §3(§2劇場版合集 #2 §e篇§3)
+§6Krillin §7Clothing Set §b(§6Saiyan §eSaga§b)=§6克林 §7服裝套裝 §b(§6賽亞人§e篇§b)
+§6Yamcha §7Clothing Set §3(§aAndroid §eSaga§3)=§6飲茶 §7服裝套裝 §3(§a人造人§e篇§3)
+§2Tien §7Clothing Set §b(§6Saiyan §eSaga§b)=§2天津飯 §7服裝套裝 §b(§6賽亞人§e篇§b)
+§9Bulma Namek §7Clothing Set §3(§2Namek §eSaga§3)=§9布瑪 那美克 §7服裝套裝 §3(§2那美克星§e篇§3)
+§aNail §7Clothing Set §3(§2Namek §eSaga§3)=§a內魯 §7服裝套裝 §3(§2那美克星§e篇§3)
