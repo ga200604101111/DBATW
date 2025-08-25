@@ -374,50 +374,99 @@ Time Patroller=時空巡邏者
 <§8Exchange §4GT §eStoryline §8Gear Coins here!§r>=<§8在這裡兌換 §4GT §e劇情線 §8裝備幣!§r>
 <§8Exchange §2Namek §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §2那美克星§e篇 §8裝備幣!§r>
 
-§3GT §bTrunks §6Armor Set §3(§4GT §eStoryline§3)=§3GT §b特蘭克斯 §6護甲套裝 §3(§4GT §e劇情線§3)
-§3GT §bVegeta §cArmor Set §3(§4GT §eStoryline§3)=§3GT §b貝吉塔 §c護甲套裝 §3(§4GT §e劇情線§3)
-§4GT §eStoryline §3Armor Sets=§4GT §e劇情線 §3護甲套裝
+§6Saiyan §eSaga §3Armor Sets=§6賽亞人 §e篇章 §3護甲套裝
+<§8Exchange §6Saiyan §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §6賽亞人§e篇 §8裝備幣!§r>
 §6Goku §1Armor Set §3(§6Saiyan §eSaga§3)=§6悟空 §1護甲套裝 §3(§6賽亞人§e篇§3)
 §5Piccolo §9Armor Set §b(§6Saiyan §eSaga§b)=§5比克 §9護甲套裝 §b(§6賽亞人§e篇§b)
 §6Raditz §7Armor Set §3(§6Saiyan §eSaga§3)=§6拉帝茲 §7護甲套裝 §3(§6賽亞人§e篇§3)
 §6Vegeta §8Armor Set §3(§6Saiyan §eSaga§3)=§6貝吉塔 §8護甲套裝 §3(§6賽亞人§e篇§3)
-<§8Exchange §6Saiyan §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §6賽亞人§e篇 §8裝備幣!§r>
-§6Saiyan §eSaga §3Armor Sets=§6賽亞人 §e篇章 §3護甲套裝
+
+§4GT §eStoryline §3Armor Sets=§4GT §e劇情線 §3護甲套裝
+§3GT §bTrunks §6Armor Set §3(§4GT §eStoryline§3)=§3GT §b特蘭克斯 §6護甲套裝 §3(§4GT §e劇情線§3)
+§3GT §bVegeta §cArmor Set §3(§4GT §eStoryline§3)=§3GT §b貝吉塔 §c護甲套裝 §3(§4GT §e劇情線§3)
 §3GT §bPan §aArmor Set §3(§4GT §eStoryline§3)=§3GT §b潘 §a護甲套裝 §3(§4GT §e劇情線§3)
 §3GT §bGoku §6Armor Set §3(§4GT §eStoryline§3)=§3GT §b悟空 §6護甲套裝 §3(§4GT §e劇情線§3)
+§6Destroyed §3GT §bGoku §6Armor Set §3(§4GT §eStoryline§3)=§6損壞的 §3GT §b悟空 §6護甲套裝 §3(§4GT §e劇情線§3)
+§bSuper §317 §cArmor Set §3(§4GT §eStoryline§3)=§b超級 17 號 §c護甲套裝 §3(§4GT §e劇情線§3)
+
+§2Namek §eSaga §3Armor Sets=§2那美克星§e篇 §3護甲套裝
 §dGinyu Force §fW §7Armor Set §3(§2Namek §eSaga§3)=§d基紐特戰隊 §fW §7護甲套裝 §3(§2那美克星§e篇§3)
 §dGinyu Force §8B §7Armor Set §3(§2Namek §eSaga§3)=§d基紐特戰隊 §8B §7護甲套裝 §3(§2那美克星§e篇§3)
 §1Vegeta §bArmor Set §3(§2Namek §eSaga§3)=§1貝吉塔 §b護甲套裝 §3(§2那美克星§e篇§3)
-§2Namek §eSaga §3Armor Sets=§2那美克星§e篇 §3護甲套裝
-§bSuper §317 §cArmor Set §3(§4GT §eStoryline§3)=§b超級17號 §c護甲套裝 §3(§4GT §e劇情線§3)
-§6Destroyed §3GT §bGoku §6Armor Set §3(§4GT §eStoryline§3)=§6損壞的 §3GT §b悟空 §6護甲套裝 §3(§4GT §e劇情線§3)
 §6Krillin §bArmor Set §3(§2Namek §eSaga§3)=§6克林 §b護甲套裝 §3(§2那美克星§e篇§3)
+
 §6Goku §1Yardrat §7Armor Set §3(§aAndroid §eSaga§3)=§6悟空 §1雅德拉特 §7護甲套裝 §3(§a人造人§e篇§3)
 §6Android 20 §1Armor Set §3(§aAndroid §eSaga§3)=§6人造人20號 §1護甲套裝 §3(§a人造人§e篇§3)
 Android 19§6 §1Armor Set §3(§aAndroid §eSaga§3)=人造人19號§6 §1護甲套裝 §3(§a人造人§e篇§3)
-<§8Exchange §2Movie Pack §8Gear Coins here!§r>=<§8在這裡兌換 §2劇場版合集 §8裝備幣!§r>
+
 §2Movie Pack §3Armor Sets=§2劇場版合集 §3護甲套裝
-§eDestroyed Goku §9Armor Set §3(§2Movie Pack #2 §eSaga§3)=§e損壞的悟空§9護甲套裝 §3(§2劇場版合集#2 §e篇§3)
+<§8Exchange §2Movie Pack §8Gear Coins here!§r>=<§8在這裡兌換 §2劇場版合集 §8裝備幣!§r>
 §aBojack §dArmor Set §3(§2Movie Pack #1 §eSaga§3)=§a波傑克 §d護甲套裝 §3(§2劇場版合集#1 §e篇§3)
-§9Android 13 §6Armor Set §3(§2Movie Pack #1 §eSaga§3)=§9人造人13號 §6護甲套裝 §3(§2劇場版合集#1 §e篇§3)
+§9Android 13 §6Armor Set §3(§2Movie Pack #1 §eSaga§3)=§9人造人 13 號 §6護甲套裝 §3(§2劇場版合集#1 §e篇§3)
 §dSalza §9Armor Set §3(§2Movie Pack #1§e Saga§3)=§d薩爾薩 §9護甲套裝 §3(§2劇場版合集#1 §e篇§3)
-§3Future §9Trunks §7Armor Set §3(§aAndroid §eSaga§3)=§3未來 §9特蘭克斯 §7護甲套裝 §3(§a人造人 §e篇§3)
-<§8Exchange §aAndroid §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §a人造人 §e篇章 §8裝備幣!§r>
-§aAndroid §eSaga §3Armor Sets=§a人造人 §e篇章 §3護甲套裝
-§2Tapion §6Armor Set §3(§2Movie Pack #2 §eSaga§3)=§2塔皮歐 §6護甲套裝 §3(§2劇場版合集#2 §e篇§3)
 §cMetamoran §eArmor Set §3(§2Movie Pack #2 §eSaga§3)=§c梅塔摩爾星人 §e護甲套裝 §3(§2劇場版合集#2 §e篇§3)
+§eDestroyed Goku §9Armor Set §3(§2Movie Pack #2 §eSaga§3)=§e損壞的悟空§9護甲套裝 §3(§2劇場版合集#2 §e篇§3)
+§2Tapion §6Armor Set §3(§2Movie Pack #2 §eSaga§3)=§2塔皮歐 §6護甲套裝 §3(§2劇場版合集#2 §e篇§3)
 §9Turles §1Armor Set §3(§2Movie Pack #3 §eSaga§3)=§9托雷斯 §1護甲套裝 §3(§2劇場版合集#3 §e篇§3)
-§2Lord §dSlug §aArmor Set §3(§2Movie Pack #3 §eSaga§3)=§2斯拉格大王 §d護甲套裝 §3(§2劇場版合集 #3 §e篇§3)
-§aZ §2Broly §eArmor Set §3(§2Movie Pack #3 §eSaga§3)=§aZ §2布羅利 §e護甲套裝 §3(§2劇場版合集 #3 §e篇§3)
+§2Lord §dSlug §aArmor Set §3(§2Movie Pack #3 §eSaga§3)=§2斯拉格大王 §d護甲套裝 §3(§2劇場版合集#3 §e篇§3)
+§aZ §2Broly §eArmor Set §3(§2Movie Pack #3 §eSaga§3)=§aZ §2布羅利 §e護甲套裝 §3(§2劇場版合集#3 §e篇§3)
+
+§aAndroid §eSaga §3Armor Sets=§a人造人 §e篇章 §3護甲套裝
+<§8Exchange §aAndroid §eSaga §8Gear Coins here!§r>=<§8在這裡兌換 §a人造人§e篇 §8裝備幣!§r>
+§3Future §9Trunks §7Armor Set §3(§aAndroid §eSaga§3)=§3未來 §9特蘭克斯 §7護甲套裝 §3(§a人造人 §e篇§3)
 
 §e§lConton Bank=§e§l昆頓銀行
-
 §eStore Items here and invest in more storage space!§r=§e在這裡存放物品並投資更多儲存空間!§r
+
 Mr. Satan [Mr. Satan, Super Satan!]=撒旦先生 [撒旦先生，超級撒旦!]
+
 Banker=銀行員
 <Primary Bank>=<主要銀行>
 <Donor Bank>=<贊助銀行>
+
 FantaFrog=FantaFrog
 <Quester>=<任務發放者>
+
 Vegeta=貝吉塔
 <Admin - Story Writer>=<管理員 - 劇情撰寫者>
+
+§3Popo (Dragon Block Trader)=§3波波 (龍珠商人)
+§2Dende (Black Star Trader)=§2丹迪 (黑星龍珠商人)
+
+§a§lShenron=§a§l神龍
+
+§eTrade your dragon block for rewards!§r=§e用你的龍珠塊交換獎勵!§r
+
+Piccolo [A Favor for Gohan]=比克 [幫助悟飯]
+
+Android #16=人造人 #16
+<Saiyan (Up & Down Trader)>=<賽亞人 (升降交易商)>
+
+<Universal Z-Soul Trader>=<通用 Z魂 交易商>
+Android #19=人造人 #19
+
+Android #21=人造人 #21
+<Tier Z-Soul Trader>=<階級 Z魂 交易商>
+
+Android #17=人造人 #17
+<Namekian (Up & Down Trader)>=<那美克星 (升降交易商)>
+
+Android #18=人造人 #18
+<Human (Up & Down Trader)>=<人類 (升降交易商)>
+
+<§eInteract §fwith me to awaken your §bForms§f!§r>=<§e與我互動 §f來覺醒你的§b形態§f!§r>
+
+Android #14=人造人 #14
+<Majin (Up & Down Trader)>=<魔人 (升降交易商)>
+
+Android #15=人造人 #15
+<Arcosian (Up & Down Trader)>=<冰凍惡魔 (升降交易商)>
+
+Dr. Gero=格羅博士
+<Z-Soul Race Trader>=<Z魂 種族交易商>
+
+§cKing §4Kai=§4界§c王
+<§eInteract §fwith me to awaken new §4Stages §cof §4Kaioken§f!§r>=<§e與我互動 §f來覺醒§4界王拳§f的§4新階段§f!§r>
+
+§ePik§bkon=§e派庫§b罕
+<§eInteract §fwith me to unlock §eFus§bion§f!§r>=<§e與我互動 §f來解鎖§e融合§f!§r>
