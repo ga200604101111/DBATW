@@ -217,13 +217,13 @@ item.SenzuBeanK1.name=§a仙豆§r
 item.DinoMeat.name=§6恐龍§e肉§r
 item.DivineNoodles.name=§b神聖§e麵條§r
 
-item.VitadrinkK1.name=§a活力飲料 §e(S)§r
-item.VitadrinkK2.name=§a活力飲料 §e(M)§r
-item.VitadrinkK3.name=§a活力飲料 §e(L)§r
+item.VitadrinkK1.name=§a活力飲料 §e(小)§r
+item.VitadrinkK2.name=§a活力飲料 §e(中)§r
+item.VitadrinkK3.name=§a活力飲料 §e(大)§r
 
-item.KiStimulantK1.name=§b氣力§9興奮劑 §b(S)§r
-item.KiStimulantK2.name=§b氣力§9興奮劑 §b(M)§r
-item.KiStimulantK3.name=§b氣力§9興奮劑 §b(L)§r
+item.KiStimulantK1.name=§b氣力§9興奮劑 §b(小)§r
+item.KiStimulantK2.name=§b氣力§9興奮劑 §b(中)§r
+item.KiStimulantK3.name=§b氣力§9興奮劑 §b(大)§r
 
 item.HealadeK1.name=§a治癒飲料§r
 item.HealadeK2.name=§6超級§a治癒飲料§r
@@ -275,34 +275,34 @@ item.tpBooster2_.name=§2TP 加成劑 §7| §6+30%
 item.tpBooster3.name=§dTP 加成劑 §7| §6+40%
 item.tpBooster3_.name=§dTP 加成劑 §7| §6+50%
 
-item.rZSoul0.name=§c強化§c形態§eZ魂§r
-item.rZSoul1.name=§c完全§c釋放§eZ魂§r
-item.rZSoul2.name=§c超級§c人類§eZ魂§r
+item.rZSoul0.name=§c強化§c形態 §eZ魂§r
+item.rZSoul1.name=§c完全§c釋放 §eZ魂§r
+item.rZSoul2.name=§c超級§c人類 §eZ魂§r
 
-item.rZSoul3.name=§6超級§6賽亞人§eZ魂§r
+item.rZSoul3.name=§6超級§6賽亞人 §eZ魂§r
 item.rZSoul4.name=§6超級§6賽亞人 §62 §eZ魂§r
 item.rZSoul5.name=§6超級§6賽亞人 §63 §eZ魂§r
 
-item.rZSoul6.name=§2巨大§2形態§eZ魂§r
-item.rZSoul7.name=§2完全§2釋放§eZ魂§r
-item.rZSoul8.name=§2超級§2那美克星人§eZ魂§r
+item.rZSoul6.name=§2巨大§2形態 §eZ魂§r
+item.rZSoul7.name=§2完全§2釋放 §eZ魂§r
+item.rZSoul8.name=§2超級§2那美克星人 §eZ魂§r
 
-item.rZSoul9.name=§5第一形態§eZ魂§r
-item.rZSoul10.name=§5第二形態§eZ魂§r
-item.rZSoul11.name=§5第三形態§eZ魂§r
-item.rZSoul12.name=§5最終形態§eZ魂§r
+item.rZSoul9.name=§5第一形態 §eZ魂§r
+item.rZSoul10.name=§5第二形態 §eZ魂§r
+item.rZSoul11.name=§5第三形態 §eZ魂§r
+item.rZSoul12.name=§5最終形態 §eZ魂§r
 
-item.rZSoul13.name=§d邪惡§5魔人§eZ魂§r
-item.rZSoul14.name=§d成年§5魔人§eZ魂§r
-item.rZSoul15.name=§d超級§5魔人§eZ魂§r
+item.rZSoul13.name=§d邪惡§5魔人 §eZ魂§r
+item.rZSoul14.name=§d成年§5魔人 §eZ魂§r
+item.rZSoul15.name=§d超級§5魔人 §eZ魂§r
 
 item.RisingSoul28.name=§4界王拳 x3 §cZ魂§r
 item.RisingSoul29.name=§4界王拳 x4 §cZ魂§r
 item.RisingSoul30.name=§4界王拳 x5 §cZ魂§r
 item.RisingSoul31.name=§4界王拳 x10 §cZ魂§r
 item.RisingSoul32.name=§4界王拳 x20 §cZ魂§r
-item.RisingSoul33.name=§4界王拳學徒§cZ魂§r
-item.RisingSoul34.name=§4界王拳專家§cZ魂§r
+item.RisingSoul33.name=§4界王拳學徒 §cZ魂§r
+item.RisingSoul34.name=§4界王拳專家 §cZ魂§r
 
 item.ltt.name=§a低階§2代幣§r
 item.mtt.name=§e中階§6代幣§r
