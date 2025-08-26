@@ -36,7 +36,7 @@ item.ItemSKaioShard.name=§4界王拳§c碎片§r
 item.ItemSKaioPiece.name=§4界王拳§c殘片§r
 
 item.ItemDonorCoin.name=§e代金券§r
-item.ItemDonorCoin2.name=§e代金券§6組合§r
+item.ItemDonorCoin2.name=§6一疊§e代金券§r
 item.ItemZeni1.name=§81 §2賽尼§r
 item.ItemZeni2.name=§710 §2賽尼§r
 item.ItemZeni3.name=§e100 §2賽尼§r
@@ -241,7 +241,7 @@ item.PillsK1.name=§9能量§b膠囊 §9α§r
 item.PillsK2.name=§9能量§b膠囊 §9β§r
 item.PillsK3.name=§9能量§b膠囊 §9Ω§r
 
-item.beerusFish.name=§d§l比魯斯的 §e§l魚!§r
+item.beerusFish.name=§d§l比魯斯的§e§l魚!§r
 item.spookyCandy.name=§4§l萬聖節§c§l糖果§r
 item.spookyCandy2.name=§4§l萬聖節§c§l棒棒糖§r
 item.jollyGingerBread.name=§4§l聖§f§l誕§4§l薑§f§l餅§4§l人§6§l餅乾§r

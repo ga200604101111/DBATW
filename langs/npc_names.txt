@@ -470,3 +470,17 @@ Dr. Gero=格羅博士
 
 §ePik§bkon=§e派庫§b罕
 <§eInteract §fwith me to unlock §eFus§bion§f!§r>=<§e與我互動 §f來解鎖§e融合§f!§r>
+
+Rift=裂縫
+<Z-Storyline Teleporter>=<Z劇情傳送器>
+
+Goku [Raditz Arrival]=悟空 [拉帝茲到來]
+<Left Click to restart your quest>=<左鍵點擊以重新開始你的任務>
+
+Kid Gohan [Raditz Arrival]=小悟飯 [拉帝茲到來]
+<Saiyan Saga>=<賽亞人篇>
+
+Farmer with a Shotgun [A Farmer's Woes]=拿獵槍的農夫 [農夫的煩惱]
+
+<Saiyan Warrior>=<賽亞人戰士>
+§6Raditz§r§8 [§3Lv. §770.0§8]§r=§6拉帝茲§r§8 [§3Lv. §770.0§8]§r
