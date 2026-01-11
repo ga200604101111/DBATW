@@ -1,5 +1,6 @@
-# 1.0.8
+# 1.0.9
 npc_names.txt
+quest_text.txt
 SkillUtils.lang
 SUBEvents.lang
 ClientUtils.lang

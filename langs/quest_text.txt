@@ -1,0 +1,14 @@
+§e走進 %s 格內來生成 enemy.=§e走進 %s 格內來生成敵人。
+§e走進 %s 格內來生成 enemies.=§e走進 %s 格內來生成敵人。
+§eWalk %s blocks out to spawn the enemy.=§e走進 %s 格內來生成敵人。
+§eWalk %s blocks out to spawn the &enemies.=§e走進 %s 格內來生成敵人。
+§eDefeated %s enemies.=§e已擊敗 %s 敵人。
+§bComplete! Redeem at the Quest Giver!=§b完成! 在給予任務的 NPC 處兌換!
+§7Speak with %s! §6(%s)=§7與 %s 對話! §6(%s)
+§7Redeem at warp Daily=§7在 warp Daily 接取
+§6Saiyan Saga 01:R Raditz Arrival=§6賽亞人篇 01:R 拉帝茲來襲
+§eDefeat §6Raditz§r§8 [§3Lv. §770.0§8]§r=§e擊敗 §6拉帝茲§r§8 [§3Lv. §770.0§8]§r
+§6Saiyan Saga 05:R Saibamen Strike=§6賽亞人篇 05:R 栽培人突襲
+§eDefeat §6Saibaman§r§8 [§3Lv. §765.0§8]§r x5=§e擊敗 §6栽培人§r§8 [§3Lv. §765.0§8]§r x5
+§6Saiyan Saga 06:R Nappa Attacks=§6賽亞人篇 05:R 那霸的來襲|
+§eDefeat §6Nappa§r§8 [§3Lv. §7300.0§8]§r=§e擊敗 §6那霸§r§8 [§3Lv. §7300.0§8]§r

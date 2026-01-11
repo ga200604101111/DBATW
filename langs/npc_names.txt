@@ -120,7 +120,7 @@ Kat_The_Neko (Scaler)=Kat_The_Neko (模型縮放師)
 lil=lil
 <Owner>=<擁有者>
 
-Bulma=布瑪
+Bulma=布馬
 <Skill Giver>=<技能給予者>
 
 §e§lDaily Missions & §6§lPunching Machines=§e§l每日任務 與 §6§l拳擊機
@@ -360,7 +360,7 @@ Body Suit #8=緊身衣 #8
 §6Krillin §7Clothing Set §b(§6Saiyan §eSaga§b)=§6克林 §7服裝套裝 §b(§6賽亞人§e篇§b)
 §6Yamcha §7Clothing Set §3(§aAndroid §eSaga§3)=§6飲茶 §7服裝套裝 §3(§a人造人§e篇§3)
 §2Tien §7Clothing Set §b(§6Saiyan §eSaga§b)=§2天津飯 §7服裝套裝 §b(§6賽亞人§e篇§b)
-§9Bulma Namek §7Clothing Set §3(§2Namek §eSaga§3)=§9布瑪 那美克 §7服裝套裝 §3(§2那美克星§e篇§3)
+§9Bulma Namek §7Clothing Set §3(§2Namek §eSaga§3)=§9布馬 那美克 §7服裝套裝 §3(§2那美克星§e篇§3)
 §aNail §7Clothing Set §3(§2Namek §eSaga§3)=§a內魯 §7服裝套裝 §3(§2那美克星§e篇§3)
 §aChiaotzu §7Clothing Set §3(§aAndroid §eSaga§3)=餃子 §7服裝套裝 §3(§a人造人§e篇§3)
 
@@ -487,3 +487,14 @@ Farmer with a Shotgun [A Farmer's Woes]=拿獵槍的農夫 [農夫的煩惱]
 
 Kasel=Kasel
 <Admin - Head Builder>=<管理員 - 總建築師>
+
+Piccolo [Dino Training]=比克 [恐龍訓練]
+Kami [Training on King Kais]=天神 [在界王星上訓練]
+Goku [King Kai Training]=悟空 [界王訓練]
+King Kai [King Kai Training]=界王 [界王訓練]
+Kami [Popo's Training]=神 [波波的修行]
+Piccolo [Saibamen Strike]=比克 [栽培人襲擊]
+Tien [A Small Favor]=天津飯 [小小的請求]
+§6Saibaman§r§8 [§3Lv. §765.0§8]§r=§6栽培人§r§8 [§3Lv. §765.0§8]§r
+<Cultivated Monster>=<栽培怪物>
+Krillin [Nappa Attacks]=克林 [那霸的來襲]
