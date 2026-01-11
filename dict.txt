@@ -158,4 +158,3 @@ Los Angeles, US=美國，洛杉磯
 Frankfurt, DE=德國，法蘭克福
 London, UK=英國，倫敦
 Sydney, AU=澳洲，雪梨
-Combat Alpha Testing Starts NOW=測試
