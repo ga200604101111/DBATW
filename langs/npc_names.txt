@@ -427,8 +427,8 @@ Banker=銀行員
 FantaFrog=FantaFrog
 <Quester>=<任務發放者>
 
-Vegeta=貝吉塔
 <Admin - Story Writer>=<管理員 - 劇情撰寫者>
+Vegeta=貝吉塔
 
 §3Popo (Dragon Block Trader)=§3波波 (龍珠商人)
 §2Dende (Black Star Trader)=§2丹迪 (黑星龍珠商人)
@@ -484,3 +484,6 @@ Farmer with a Shotgun [A Farmer's Woes]=拿獵槍的農夫 [農夫的煩惱]
 
 <Saiyan Warrior>=<賽亞人戰士>
 §6Raditz§r§8 [§3Lv. §770.0§8]§r=§6拉帝茲§r§8 [§3Lv. §770.0§8]§r
+
+Kasel=Kasel
+<Admin - Head Builder>=<管理員 - 總建築師>
