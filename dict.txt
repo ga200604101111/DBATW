@@ -13,6 +13,7 @@ Releasing before Combat Update=在戰鬥更新之前發布
 Rose for All Races=所有種族皆可使用桃紅型態
 Rose Equiv Form for All Races=所有種族的桃紅對等型態
 Potara Fusion=波塔拉耳環融合
+ Gradient Hairs=漸層髮型
 Cross Race Fusion=跨種族融合
 Stat Cap Raise=屬性上限提升
 and More to be Announced=以及更多待公告的內容
