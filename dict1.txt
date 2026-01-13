@@ -1,2 +1,10 @@
 5 Year Anv=五週年紀念
-Jolly 2025=聖誕節 2025
+6 Year Anv=六週年紀念
+7 Year Anv=七週年紀念
+8 Year Anv=八週年紀念
+Jolly=聖誕節
+SpookFest=萬聖節
+Spook=萬聖節
+Easter=復活節
+thankgiving=感恩節
+Valentines=情人節
